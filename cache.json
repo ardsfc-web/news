@@ -6,12 +6,27 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "646229c46f026e51407de456",
+          "author": "michaelbarritt76",
+          "description": "We're sad to announce that Ross Arthurs has left the club after 282 games and 78 goals for Ards. Ross first joined Ards in January 2011...",
+          "link": "https://www.ardsfc.co.uk/post/thank-you-ross",
+          "publishedOn": "2023-05-15T12:48:54.000Z",
+          "wordCount": 19976,
+          "title": "THANK YOU ROSS",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/eebc8e_09da9525b5b84e9491c02731d81ca659~mv2.png/v1/fit/w_1000,h_900,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/eebc8e_09da9525b5b84e9491c02731d81ca659~mv2.png/v1/fit/w_1000,h_900,al_c,q_80/file.png"
+        },
+        {
           "id": "6460c009d9998b630b3a36ae",
           "author": "Michael Barritt",
           "description": "Adam Salley and Ethan Taggart shared the end of season awards between them at the Ards Sports Club on Saturday afternoon. Hosted by...",
           "link": "https://www.ardsfc.co.uk/post/salley-taggart-dominate-end-of-season-awards",
           "publishedOn": "2023-05-14T11:59:02.000Z",
-          "wordCount": 20889,
+          "wordCount": 20936,
           "title": "Salley &#38; Taggart dominate end of season awards",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_04c77948ae3a4143b87dfc0d2adc93be~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
@@ -26,7 +41,7 @@
           "description": "",
           "link": "https://www.ardsfc.co.uk/post/ards-stall-at-ni-football-programme-memorabilia-fair",
           "publishedOn": "2023-05-09T09:55:40.000Z",
-          "wordCount": 19839,
+          "wordCount": 19886,
           "title": "Ards stall at NI Football Programme &#38; Memorabilia Fair",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_eb7381821ffe4e8dbcea68cee818ce02~mv2.png/v1/fit/w_1000,h_900,al_c,q_80/file.png",
@@ -41,7 +56,7 @@
           "description": "Now that the season is over, can any fans who have yet to return the contents of their Ards Amigo boxes please give them to any Director...",
           "link": "https://www.ardsfc.co.uk/post/amigo-boxes",
           "publishedOn": "2023-05-04T09:51:02.000Z",
-          "wordCount": 19906,
+          "wordCount": 19951,
           "title": "Amigo Boxes",
           "imageUrl": null
         },
@@ -51,7 +66,7 @@
           "description": "",
           "link": "https://www.ardsfc.co.uk/post/end-of-season-awards",
           "publishedOn": "2023-05-02T09:42:29.000Z",
-          "wordCount": 19830,
+          "wordCount": 4436,
           "title": "END OF SEASON AWARDS",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_c96167d4e406485887bcbbf506070700~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -66,7 +81,7 @@
           "description": "NIFL Championship – 29/04/23 By Phillip Bartlett Salley fires on all ‘four’ cylinders Ards finish the season on a high, coming out on top...",
           "link": "https://www.ardsfc.co.uk/post/dundela-2-ards-4-match-report",
           "publishedOn": "2023-05-01T21:10:14.000Z",
-          "wordCount": 21977,
+          "wordCount": 22022,
           "title": "Dundela 2 Ards 4 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_3491b4ba85544f229894d671b9b8f11a~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -81,7 +96,7 @@
           "description": "SBYFL 2009’s winners of the Blackpool Cup we want to congratulate the under 14 South Belfast Select on winning the Blackpool Cup...",
           "link": "https://www.ardsfc.co.uk/post/academy-09s-win-blackpool-cup",
           "publishedOn": "2023-05-01T12:19:33.000Z",
-          "wordCount": 19884,
+          "wordCount": 19929,
           "title": "Academy 09s win Blackpool Cup",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_307e9343064d418ab7581da4045b6537~mv2.jpg/v1/fit/w_804,h_1000,al_c,q_80/file.png",
@@ -96,7 +111,7 @@
           "description": "Ards Football Club is deeply saddened to learn of the death of Bob Gilmore. Bob was a lifelong Ards supporter and Season Ticket holder...",
           "link": "https://www.ardsfc.co.uk/post/bob-gilmore",
           "publishedOn": "2023-05-01T09:03:24.000Z",
-          "wordCount": 19880,
+          "wordCount": 19925,
           "title": "Bob Gilmore",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_2332b6fff97d47eba3589a00ffcfbfe7~mv2.jpg/v1/fit/w_720,h_720,al_c,q_80/file.png",
@@ -111,7 +126,7 @@
           "description": "Lough 41 Championship. Dundela vs Ards. Wilgar Park. Saturday 29th April at 3.00 p.m. Ards make the short trip to Wilgar Park to take on...",
           "link": "https://www.ardsfc.co.uk/post/dundela-v-ards-preview-2",
           "publishedOn": "2023-04-28T08:41:13.000Z",
-          "wordCount": 20316,
+          "wordCount": 20361,
           "title": "DUNDELA V ARDS PREVIEW",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_3c2fda42f7194be99d7678cca2bb98cd~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -126,7 +141,7 @@
           "description": "NIFL Championship – 22/04/23 By Phillip Bartlett ‘Old Comrades’ Punish Ards Ballyclare leapfrog inconsistent Ards into 5th after another...",
           "link": "https://www.ardsfc.co.uk/post/ballyclare-5-ards-1-match-report",
           "publishedOn": "2023-04-23T12:36:18.000Z",
-          "wordCount": 21703,
+          "wordCount": 21748,
           "title": "Ballyclare 5 Ards 1 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_3491b4ba85544f229894d671b9b8f11a~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -141,7 +156,7 @@
           "description": "Lough 41 Championship. Ballyclare Comrades vs Ards. Dixon Park. Saturday 22nd April at 2.00 p.m. With only one defeat in their last seven...",
           "link": "https://www.ardsfc.co.uk/post/ballyclare-v-ards-match-preview",
           "publishedOn": "2023-04-22T06:50:47.000Z",
-          "wordCount": 20215,
+          "wordCount": 20260,
           "title": "Ballyclare v Ards Match Preview",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_645f559f58bf480884f9409fd48764ec~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",

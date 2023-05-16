@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-15T02:27:16.305Z</id>
+    <id>urn:2023-05-16T02:25:33.027Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-15T02:27:16.305Z</updated>
+    <updated>2023-05-16T02:25:33.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[THANK YOU ROSS]]></title>
+        <id>646229c46f026e51407de456</id>
+        <link href="https://www.ardsfc.co.uk/post/thank-you-ross"/>
+        <updated>2023-05-15T12:48:54.000Z</updated>
+        <summary type="html"><![CDATA[We're sad to announce that Ross Arthurs has left the club after 282 games and 78 goals for Ards. Ross first joined Ards in January 2011...]]></summary>
+        <author>
+            <name>michaelbarritt76</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Salley &#38; Taggart dominate end of season awards]]></title>
         <id>6460c009d9998b630b3a36ae</id>
