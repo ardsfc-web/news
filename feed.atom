@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-17T02:28:24.293Z</id>
+    <id>urn:2023-05-18T02:24:23.351Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-17T02:28:24.293Z</updated>
+    <updated>2023-05-18T02:24:23.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Johnny Taylor moves on]]></title>
+        <id>6464fa078d405145a4adb886</id>
+        <link href="https://www.ardsfc.co.uk/post/johnny-taylor-moves-on"/>
+        <updated>2023-05-17T16:02:33.000Z</updated>
+        <summary type="html"><![CDATA[Johnny Taylor has left Ards after 154 games and six goals for the club. In his first stint for the club between 2016 and 2020, Johnny...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salley departs for Newry]]></title>
+        <id>6464f585a980eb4f231a7a86</id>
+        <link href="https://www.ardsfc.co.uk/post/salley-departs-for-newry"/>
+        <updated>2023-05-17T15:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Adam Salley has accepted an offer from Premiership outfit Newry City and will play for them in the upcoming season. Adam scored 28 goals...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THANK YOU ROSS]]></title>
         <id>646229c46f026e51407de456</id>
