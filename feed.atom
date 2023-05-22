@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-21T02:31:51.559Z</id>
+    <id>urn:2023-05-22T02:31:53.863Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-21T02:31:51.559Z</updated>
+    <updated>2023-05-22T02:31:53.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -121,16 +121,6 @@
         <summary type="html"><![CDATA[NIFL Championship – 22/04/23 By Phillip Bartlett ‘Old Comrades’ Punish Ards Ballyclare leapfrog inconsistent Ards into 5th after another...]]></summary>
         <author>
             <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballyclare v Ards Match Preview]]></title>
-        <id>644383026585f867d822f57f</id>
-        <link href="https://www.ardsfc.co.uk/post/ballyclare-v-ards-match-preview"/>
-        <updated>2023-04-22T06:50:47.000Z</updated>
-        <summary type="html"><![CDATA[Lough 41 Championship. Ballyclare Comrades vs Ards. Dixon Park. Saturday 22nd April at 2.00 p.m. With only one defeat in their last seven...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
         </author>
     </entry>
 </feed>
