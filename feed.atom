@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-25T02:26:18.436Z</id>
+    <id>urn:2023-05-26T02:26:12.085Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-25T02:26:18.436Z</updated>
+    <updated>2023-05-26T02:26:12.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DEBUT FOR ACADEMY PLAYERS]]></title>
+        <id>646f86208d98fcbc514b4795</id>
+        <link href="https://www.ardsfc.co.uk/post/debut-for-academy-players"/>
+        <updated>2023-05-25T16:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Ards F.C would like to congratulate the Ards Academy players who made their debut for Ards Under 16s in the NIFL Academy League this...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crane Leaves Ards]]></title>
+        <id>646f1f8372149f1ec73360ec</id>
+        <link href="https://www.ardsfc.co.uk/post/crane-leaves-ards"/>
+        <updated>2023-05-25T08:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Christopher Crane has left the club. The defender who joined from Portadown in 2021 played 64 games and scored two goals for Ards. We...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premier call up for Aaron Scott]]></title>
+        <id>646f1db3a259919d00c64e09</id>
+        <link href="https://www.ardsfc.co.uk/post/premier-call-up-for-aaron-scott"/>
+        <updated>2023-05-25T08:35:50.000Z</updated>
+        <summary type="html"><![CDATA[YOUTH TEAM NEWS Congratulations to Aaron Scott who has been selected to represent County Down Premiers at this year's Super Cup NI]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disability Squad News]]></title>
+        <id>646f1cc7621fce4165fa27e2</id>
+        <link href="https://www.ardsfc.co.uk/post/disability-squad-news"/>
+        <updated>2023-05-25T08:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Huge congratulations to both of our Ards Football Club Disability Teams on completing their 2022-23 season in the The Irish Football...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Johnny Taylor moves on]]></title>
         <id>6464fa078d405145a4adb886</id>
