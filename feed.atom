@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-27T02:24:05.454Z</id>
+    <id>urn:2023-05-28T02:37:24.429Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-27T02:24:05.454Z</updated>
+    <updated>2023-05-28T02:37:24.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -141,16 +141,6 @@
         <summary type="html"><![CDATA[Ards Football Club is deeply saddened to learn of the death of Bob Gilmore. Bob was a lifelong Ards supporter and Season Ticket holder...]]></summary>
         <author>
             <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DUNDELA V ARDS PREVIEW]]></title>
-        <id>644b8661aa9cb2123f10b43c</id>
-        <link href="https://www.ardsfc.co.uk/post/dundela-v-ards-preview-2"/>
-        <updated>2023-04-28T08:41:13.000Z</updated>
-        <summary type="html"><![CDATA[Lough 41 Championship. Dundela vs Ards. Wilgar Park. Saturday 29th April at 3.00 p.m. Ards make the short trip to Wilgar Park to take on...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
         </author>
     </entry>
 </feed>
