@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-30T02:31:24.478Z</id>
+    <id>urn:2023-05-31T02:56:58.551Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-30T02:31:24.478Z</updated>
+    <updated>2023-05-31T02:56:58.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -119,26 +119,6 @@
         <link href="https://www.ardsfc.co.uk/post/dundela-2-ards-4-match-report"/>
         <updated>2023-05-01T21:10:14.000Z</updated>
         <summary type="html"><![CDATA[NIFL Championship – 29/04/23 By Phillip Bartlett Salley fires on all ‘four’ cylinders Ards finish the season on a high, coming out on top...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Academy 09s win Blackpool Cup]]></title>
-        <id>644fadc774bc3eec21b27650</id>
-        <link href="https://www.ardsfc.co.uk/post/academy-09s-win-blackpool-cup"/>
-        <updated>2023-05-01T12:19:33.000Z</updated>
-        <summary type="html"><![CDATA[SBYFL 2009’s winners of the Blackpool Cup we want to congratulate the under 14 South Belfast Select on winning the Blackpool Cup...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bob Gilmore]]></title>
-        <id>644f7fc5732a882aae9f22d3</id>
-        <link href="https://www.ardsfc.co.uk/post/bob-gilmore"/>
-        <updated>2023-05-01T09:03:24.000Z</updated>
-        <summary type="html"><![CDATA[Ards Football Club is deeply saddened to learn of the death of Bob Gilmore. Bob was a lifelong Ards supporter and Season Ticket holder...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
