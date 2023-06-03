@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-02T02:54:04.918Z</id>
+    <id>urn:2023-06-03T02:42:20.939Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-02T02:54:04.918Z</updated>
+    <updated>2023-06-03T02:42:20.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[John Heron Passes Away]]></title>
+        <id>6478f14a11f20ddc1dfba033</id>
+        <link href="https://www.ardsfc.co.uk/post/john-heron-passes-away"/>
+        <updated>2023-06-02T14:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Ards Football Club is devastated to announce the death of club director John Heron. John died yesterday following a short illness, aged...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEBUT FOR ACADEMY PLAYERS]]></title>
         <id>646f86208d98fcbc514b4795</id>
@@ -90,16 +100,6 @@
         <id>645a1897db66f20a61a84d9a</id>
         <link href="https://www.ardsfc.co.uk/post/ards-stall-at-ni-football-programme-memorabilia-fair"/>
         <updated>2023-05-09T09:55:40.000Z</updated>
-        <author>
-            <name>michaelbarritt76</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amigo Boxes]]></title>
-        <id>645380036b0331afd844593d</id>
-        <link href="https://www.ardsfc.co.uk/post/amigo-boxes"/>
-        <updated>2023-05-04T09:51:02.000Z</updated>
-        <summary type="html"><![CDATA[Now that the season is over, can any fans who have yet to return the contents of their Ards Amigo boxes please give them to any Director...]]></summary>
         <author>
             <name>michaelbarritt76</name>
         </author>

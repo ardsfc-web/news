@@ -6,6 +6,21 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "6478f14a11f20ddc1dfba033",
+          "author": "Michael Barritt",
+          "description": "Ards Football Club is devastated to announce the death of club director John Heron. John died yesterday following a short illness, aged...",
+          "link": "https://www.ardsfc.co.uk/post/john-heron-passes-away",
+          "publishedOn": "2023-06-02T14:00:37.000Z",
+          "wordCount": 19549,
+          "title": "John Heron Passes Away",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_c3c8b19ea2124c1895259b3311372387~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_c3c8b19ea2124c1895259b3311372387~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"
+        },
+        {
           "id": "646f86208d98fcbc514b4795",
           "author": "Michael Barritt",
           "description": "Ards F.C would like to congratulate the Ards Academy players who made their debut for Ards Under 16s in the NIFL Academy League this...",
@@ -139,16 +154,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://static.wixstatic.com/media/eebc8e_eb7381821ffe4e8dbcea68cee818ce02~mv2.png/v1/fit/w_1000,h_900,al_c,q_80/file.png"
-        },
-        {
-          "id": "645380036b0331afd844593d",
-          "author": "michaelbarritt76",
-          "description": "Now that the season is over, can any fans who have yet to return the contents of their Ards Amigo boxes please give them to any Director...",
-          "link": "https://www.ardsfc.co.uk/post/amigo-boxes",
-          "publishedOn": "2023-05-04T09:51:02.000Z",
-          "wordCount": 19498,
-          "title": "Amigo Boxes",
-          "imageUrl": null
         }
       ]
     }
