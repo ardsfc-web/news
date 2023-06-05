@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-04T03:11:36.165Z</id>
+    <id>urn:2023-06-05T02:56:45.070Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-04T03:11:36.165Z</updated>
+    <updated>2023-06-05T02:56:45.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[John Heron Memorial Service]]></title>
+        <id>647cd3ec309bd9f02e1bd5a8</id>
+        <link href="https://www.ardsfc.co.uk/post/john-heron-memorial-service"/>
+        <updated>2023-06-04T18:12:39.000Z</updated>
+        <summary type="html"><![CDATA[John Heron's memorial service will be held in West Presbyterian Church in Bangor on Thursday 8th June at 11.30am. The service will be...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[John Heron Passes Away]]></title>
         <id>6478f14a11f20ddc1dfba033</id>
