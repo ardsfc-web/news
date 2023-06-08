@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-07T03:00:50.047Z</id>
+    <id>urn:2023-06-08T02:59:25.956Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-07T03:00:50.047Z</updated>
+    <updated>2023-06-08T02:59:25.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -103,15 +103,6 @@
         <summary type="html"><![CDATA[Adam Salley and Ethan Taggart shared the end of season awards between them at the Ards Sports Club on Saturday afternoon. Hosted by...]]></summary>
         <author>
             <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ards stall at NI Football Programme &#38; Memorabilia Fair]]></title>
-        <id>645a1897db66f20a61a84d9a</id>
-        <link href="https://www.ardsfc.co.uk/post/ards-stall-at-ni-football-programme-memorabilia-fair"/>
-        <updated>2023-05-09T09:55:40.000Z</updated>
-        <author>
-            <name>michaelbarritt76</name>
         </author>
     </entry>
 </feed>
