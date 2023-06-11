@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-10T02:40:31.177Z</id>
+    <id>urn:2023-06-11T03:09:06.893Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-10T02:40:31.177Z</updated>
+    <updated>2023-06-11T03:09:06.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Four Extend Ards Stay]]></title>
+        <id>648441e79348f35db94e1b40</id>
+        <link href="https://www.ardsfc.co.uk/post/four-extend-ards-stay"/>
+        <updated>2023-06-10T09:50:48.000Z</updated>
+        <summary type="html"><![CDATA[Ards F.C are delighted that Neil Shields, Aidan Steele, Salou Jallow and Ross Hunter have agreed to stay with the club for the 2023/24...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trio Sign Up]]></title>
         <id>64830dd19857b7e9b3b6965e</id>
