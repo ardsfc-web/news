@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-11T03:09:06.893Z</id>
+    <id>urn:2023-06-12T03:01:30.633Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-11T03:09:06.893Z</updated>
+    <updated>2023-06-12T03:01:30.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MATTHEW TIPTON'S THOUGHTS ON OUR NEW SIGNINGS]]></title>
+        <id>6485a96fd0314adb099d6d60</id>
+        <link href="https://www.ardsfc.co.uk/post/matthew-tipton-s-thoughts-on-our-new-signings"/>
+        <updated>2023-06-11T11:09:12.000Z</updated>
+        <summary type="html"><![CDATA[So far this summer we have made five brand new signings with Callum Dougan, Max Greer, Matt Gorman, Connor Maxwell and Max Miller joining...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Four Extend Ards Stay]]></title>
         <id>648441e79348f35db94e1b40</id>
