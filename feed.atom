@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-15T01:05:57.024Z</id>
+    <id>urn:2023-06-16T01:06:19.162Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-15T01:05:57.024Z</updated>
+    <updated>2023-06-16T01:06:19.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Programme Fair Success]]></title>
+        <id>648b0358d2c918b8656fc892</id>
+        <link href="https://www.ardsfc.co.uk/post/programme-fair-success"/>
+        <updated>2023-06-15T12:29:07.000Z</updated>
+        <summary type="html"><![CDATA[The programme editor, Adrian Monaghan, would like to thank Jack Brown and Stephen Lennon for their assistance last Saturday and in what...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AGM Meeting]]></title>
+        <id>648ad7912b8f51fc73109d7a</id>
+        <link href="https://www.ardsfc.co.uk/post/agm-meeting"/>
+        <updated>2023-06-15T09:19:30.000Z</updated>
+        <summary type="html"><![CDATA[The Ards F.C AGM  is scheduled for 8.00 p.m next Thursday 22nd June at The Ards Sports Club . All shareholders are encouraged to attend.]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tipton Delighted With McCallum Capture]]></title>
         <id>6488a296af73c65270e07783</id>
