@@ -6,12 +6,22 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "6493f04df2b5b1301c63362f",
+          "author": "Michael Barritt",
+          "description": "CLUB NEWS Due to unforeseen circumstances Thursday night's AGM has been postponed. We apologise for any inconvenience. A new date will be...",
+          "link": "https://www.ardsfc.co.uk/post/agm-postponed",
+          "publishedOn": "2023-06-22T06:55:23.000Z",
+          "wordCount": 18007,
+          "title": "AGM Postponed",
+          "imageUrl": null
+        },
+        {
           "id": "648b0358d2c918b8656fc892",
           "author": "Michael Barritt",
           "description": "The programme editor, Adrian Monaghan, would like to thank Jack Brown and Stephen Lennon for their assistance last Saturday and in what...",
           "link": "https://www.ardsfc.co.uk/post/programme-fair-success",
           "publishedOn": "2023-06-15T12:29:07.000Z",
-          "wordCount": 18055,
+          "wordCount": 18054,
           "title": "Programme Fair Success",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_d3e51fee68774171b4f229caca79a70f~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -26,7 +36,7 @@
           "description": "The Ards F.C AGM  is scheduled for 8.00 p.m next Thursday 22nd June at The Ards Sports Club . All shareholders are encouraged to attend.",
           "link": "https://www.ardsfc.co.uk/post/agm-meeting",
           "publishedOn": "2023-06-15T09:19:30.000Z",
-          "wordCount": 18006,
+          "wordCount": 18005,
           "title": "AGM Meeting",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_008beb17bee940a9ab8e16df1da437be~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
