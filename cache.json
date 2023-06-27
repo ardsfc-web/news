@@ -6,12 +6,27 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "64996e7fe8d0c7223b2dd800",
+          "author": "Michael Barritt",
+          "description": "Ards Football Club Disability Section held their annual awards last Saturday. The main award winners were: B Team Top Goalscorer: Britney...",
+          "link": "https://www.ardsfc.co.uk/post/disability-squad-annual-awards",
+          "publishedOn": "2023-06-26T11:51:08.000Z",
+          "wordCount": 18335,
+          "title": "DISABILITY SQUAD ANNUAL AWARDS",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_6f48c8b559e941ab824d4f73e4ec74c2~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_6f48c8b559e941ab824d4f73e4ec74c2~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"
+        },
+        {
           "id": "6493f04df2b5b1301c63362f",
           "author": "Michael Barritt",
           "description": "CLUB NEWS Due to unforeseen circumstances Thursday night's AGM has been postponed. We apologise for any inconvenience. A new date will be...",
           "link": "https://www.ardsfc.co.uk/post/agm-postponed",
           "publishedOn": "2023-06-22T06:55:23.000Z",
-          "wordCount": 3542,
+          "wordCount": 18011,
           "title": "AGM Postponed",
           "imageUrl": null
         },
@@ -96,7 +111,7 @@
           "description": "Ards F.C are pleased to announce the following new signings. MAX GREER :- Max is a 19 year old who joins us on a two year contract from...",
           "link": "https://www.ardsfc.co.uk/post/trio-sign-up",
           "publishedOn": "2023-06-09T11:57:55.000Z",
-          "wordCount": 18191,
+          "wordCount": 3542,
           "title": "Trio Sign Up",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_eb4d4e27e3a04e0cb5d5a246e87819b1~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
