@@ -6,12 +6,27 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "649d3355c3f9c8f20b51ccf8",
+          "author": "Michael Barritt",
+          "description": "",
+          "link": "https://www.ardsfc.co.uk/post/2023-24-fixtures-released",
+          "publishedOn": "2023-06-29T07:32:07.000Z",
+          "wordCount": 19150,
+          "title": "2023/24 Fixtures Released",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_8eeb239b4b78496198c0b70ab2279c07~mv2.png/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_8eeb239b4b78496198c0b70ab2279c07~mv2.png/v1/fit/w_1000,h_1000,al_c,q_80/file.png"
+        },
+        {
           "id": "649c18ea98828b44921f6ce9",
           "author": "Michael Barritt",
           "description": "Ards Football Club partnered with local charity SANDS NI (Stillbirth and Neonatal Death Society) during the 2022/23 football season....",
           "link": "https://www.ardsfc.co.uk/post/impressive-funds-raised-for-sands-ni",
           "publishedOn": "2023-06-28T11:29:58.000Z",
-          "wordCount": 18267,
+          "wordCount": 19308,
           "title": "Impressive funds raised for SANDS NI",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_636977e781a64c26b98931dff7ca6c62~mv2.jpg/v1/fit/w_1000,h_900,al_c,q_80/file.png",
@@ -26,7 +41,7 @@
           "description": "Ards Football Club Disability Section held their annual awards last Saturday. The main award winners were: B Team Top Goalscorer: Britney...",
           "link": "https://www.ardsfc.co.uk/post/disability-squad-annual-awards",
           "publishedOn": "2023-06-26T11:51:08.000Z",
-          "wordCount": 18455,
+          "wordCount": 19496,
           "title": "DISABILITY SQUAD ANNUAL AWARDS",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_6f48c8b559e941ab824d4f73e4ec74c2~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
@@ -41,7 +56,7 @@
           "description": "CLUB NEWS Due to unforeseen circumstances Thursday night's AGM has been postponed. We apologise for any inconvenience. A new date will be...",
           "link": "https://www.ardsfc.co.uk/post/agm-postponed",
           "publishedOn": "2023-06-22T06:55:23.000Z",
-          "wordCount": 18131,
+          "wordCount": 19171,
           "title": "AGM Postponed",
           "imageUrl": null
         },
@@ -51,7 +66,7 @@
           "description": "The programme editor, Adrian Monaghan, would like to thank Jack Brown and Stephen Lennon for their assistance last Saturday and in what...",
           "link": "https://www.ardsfc.co.uk/post/programme-fair-success",
           "publishedOn": "2023-06-15T12:29:07.000Z",
-          "wordCount": 18178,
+          "wordCount": 19219,
           "title": "Programme Fair Success",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_d3e51fee68774171b4f229caca79a70f~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -66,7 +81,7 @@
           "description": "The Ards F.C AGM  is scheduled for 8.00 p.m next Thursday 22nd June at The Ards Sports Club . All shareholders are encouraged to attend.",
           "link": "https://www.ardsfc.co.uk/post/agm-meeting",
           "publishedOn": "2023-06-15T09:19:30.000Z",
-          "wordCount": 18126,
+          "wordCount": 19170,
           "title": "AGM Meeting",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_008beb17bee940a9ab8e16df1da437be~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -81,7 +96,7 @@
           "description": "Manager Matthew Tipton gave his thoughts on new signing Adam McCallum Adam is a player who i know very well, after spending nearly 5...",
           "link": "https://www.ardsfc.co.uk/post/tipton-delighted-with-mccallum-capture",
           "publishedOn": "2023-06-13T17:13:36.000Z",
-          "wordCount": 18195,
+          "wordCount": 19236,
           "title": "Tipton Delighted With McCallum Capture",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_85281d1037d441039d91166b308a7c3f~mv2.jpg/v1/fit/w_940,h_550,al_c,q_80/file.png",
@@ -96,7 +111,7 @@
           "description": "So far this summer we have made five brand new signings with Callum Dougan, Max Greer, Matt Gorman, Connor Maxwell and Max Miller joining...",
           "link": "https://www.ardsfc.co.uk/post/matthew-tipton-s-thoughts-on-our-new-signings",
           "publishedOn": "2023-06-11T11:09:12.000Z",
-          "wordCount": 18640,
+          "wordCount": 19684,
           "title": "MATTHEW TIPTON'S THOUGHTS ON OUR NEW SIGNINGS",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_99cdf799190a4864ac4041be68d7346b~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -111,7 +126,7 @@
           "description": "Ards F.C are delighted that Neil Shields, Aidan Steele, Salou Jallow and Ross Hunter have agreed to stay with the club for the 2023/24...",
           "link": "https://www.ardsfc.co.uk/post/four-extend-ards-stay",
           "publishedOn": "2023-06-10T09:50:48.000Z",
-          "wordCount": 18311,
+          "wordCount": 19355,
           "title": "Four Extend Ards Stay",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_06b162f859b041a2822e3ea2c8539a21~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -126,7 +141,7 @@
           "description": "Ards F.C are pleased to announce the following new signings. MAX GREER :- Max is a 19 year old who joins us on a two year contract from...",
           "link": "https://www.ardsfc.co.uk/post/trio-sign-up",
           "publishedOn": "2023-06-09T11:57:55.000Z",
-          "wordCount": 18311,
+          "wordCount": 19352,
           "title": "Trio Sign Up",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_eb4d4e27e3a04e0cb5d5a246e87819b1~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -141,7 +156,7 @@
           "description": "John Anderson who played for Ards in the 1960s has passed away, He made his debut on the 15 Aug, 1964 v Bangor at Castlereagh Park making...",
           "link": "https://www.ardsfc.co.uk/post/former-ards-player-john-anderson-has-passed-away",
           "publishedOn": "2023-06-09T07:22:10.000Z",
-          "wordCount": 3659,
+          "wordCount": 19296,
           "title": "Former Ards player John Anderson has passed away",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_def7dcdd5a4a4ff98d1680d578b0dc9f~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -156,7 +171,7 @@
           "description": "Club captain TJ Murray has left Ards. The midfielder joined Ards in 2019 and went on to play 93 games for the club scoring six goals. He...",
           "link": "https://www.ardsfc.co.uk/post/transfer-news-1",
           "publishedOn": "2023-06-09T07:05:44.000Z",
-          "wordCount": 18154,
+          "wordCount": 19195,
           "title": "Transfer News",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_0d96f1b0582c49e6aa15ff7ea77e4348~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -171,7 +186,7 @@
           "description": "John Heron's memorial service will be held in West Presbyterian Church in Bangor on Thursday 8th June at 11.30am. The service will be...",
           "link": "https://www.ardsfc.co.uk/post/john-heron-memorial-service",
           "publishedOn": "2023-06-04T18:12:39.000Z",
-          "wordCount": 18185,
+          "wordCount": 19226,
           "title": "John Heron Memorial Service",
           "imageUrl": null
         },
@@ -181,7 +196,7 @@
           "description": "Ards Football Club is devastated to announce the death of club director John Heron. John died yesterday following a short illness, aged...",
           "link": "https://www.ardsfc.co.uk/post/john-heron-passes-away",
           "publishedOn": "2023-06-02T14:00:37.000Z",
-          "wordCount": 18235,
+          "wordCount": 19276,
           "title": "John Heron Passes Away",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_9cbc905831d3472db1e7539b1b2ac2e1~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
