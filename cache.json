@@ -6,6 +6,31 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "64a1580bf33d4d4dd7603a41",
+          "author": "Michael Barritt",
+          "description": "Ards have added an extra pre seaspn game to their schedule and will now play Crusaders at Seaview on Tuesday 4th July at 7-30. In another...",
+          "link": "https://www.ardsfc.co.uk/post/crusaders-friendly-added",
+          "publishedOn": "2023-07-02T10:57:50.000Z",
+          "wordCount": 19247,
+          "title": "Crusaders Friendly Added",
+          "imageUrl": null
+        },
+        {
+          "id": "64a155ed5339e41cb17cb59e",
+          "author": "Michael Barritt",
+          "description": "Michael Ruddy has joined Ards for a second stint. The left back scored 16 goals in 65 games between 2016 and 2018 in his first spell with...",
+          "link": "https://www.ardsfc.co.uk/post/ruddy-returns",
+          "publishedOn": "2023-07-02T10:49:00.000Z",
+          "wordCount": 19187,
+          "title": "Ruddy Returns",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_4fddfda405fe4622b4c49094eccc129b~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_4fddfda405fe4622b4c49094eccc129b~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
+        },
+        {
           "id": "649eb1140c69b0e49e62112b",
           "author": "Michael Barritt",
           "description": "Ards have announced a new management team for the 2nd team. The new Manager is Luke Buchanan and he is joined by Head Coach  Matty Shaw,...",
@@ -204,21 +229,6 @@
           "wordCount": 19226,
           "title": "John Heron Memorial Service",
           "imageUrl": null
-        },
-        {
-          "id": "6478f14a11f20ddc1dfba033",
-          "author": "Michael Barritt",
-          "description": "Ards Football Club is devastated to announce the death of club director John Heron. John died yesterday following a short illness, aged...",
-          "link": "https://www.ardsfc.co.uk/post/john-heron-passes-away",
-          "publishedOn": "2023-06-02T14:00:37.000Z",
-          "wordCount": 19276,
-          "title": "John Heron Passes Away",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/36629e_9cbc905831d3472db1e7539b1b2ac2e1~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/36629e_9cbc905831d3472db1e7539b1b2ac2e1~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
         }
       ]
     }

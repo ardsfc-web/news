@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-02T01:18:11.651Z</id>
+    <id>urn:2023-07-03T01:16:00.810Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-02T01:18:11.651Z</updated>
+    <updated>2023-07-03T01:16:00.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crusaders Friendly Added]]></title>
+        <id>64a1580bf33d4d4dd7603a41</id>
+        <link href="https://www.ardsfc.co.uk/post/crusaders-friendly-added"/>
+        <updated>2023-07-02T10:57:50.000Z</updated>
+        <summary type="html"><![CDATA[Ards have added an extra pre seaspn game to their schedule and will now play Crusaders at Seaview on Tuesday 4th July at 7-30. In another...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruddy Returns]]></title>
+        <id>64a155ed5339e41cb17cb59e</id>
+        <link href="https://www.ardsfc.co.uk/post/ruddy-returns"/>
+        <updated>2023-07-02T10:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Michael Ruddy has joined Ards for a second stint. The left back scored 16 goals in 65 games between 2016 and 2018 in his first spell with...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Mangement team for Ards 2nds]]></title>
         <id>649eb1140c69b0e49e62112b</id>
@@ -140,16 +160,6 @@
         <link href="https://www.ardsfc.co.uk/post/john-heron-memorial-service"/>
         <updated>2023-06-04T18:12:39.000Z</updated>
         <summary type="html"><![CDATA[John Heron's memorial service will be held in West Presbyterian Church in Bangor on Thursday 8th June at 11.30am. The service will be...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Heron Passes Away]]></title>
-        <id>6478f14a11f20ddc1dfba033</id>
-        <link href="https://www.ardsfc.co.uk/post/john-heron-passes-away"/>
-        <updated>2023-06-02T14:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Ards Football Club is devastated to announce the death of club director John Heron. John died yesterday following a short illness, aged...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
