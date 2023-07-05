@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-04T01:15:10.591Z</id>
+    <id>urn:2023-07-05T01:16:15.222Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-04T01:15:10.591Z</updated>
+    <updated>2023-07-05T01:16:15.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -150,16 +150,6 @@
         <link href="https://www.ardsfc.co.uk/post/transfer-news-1"/>
         <updated>2023-06-09T07:05:44.000Z</updated>
         <summary type="html"><![CDATA[Club captain TJ Murray has left Ards. The midfielder joined Ards in 2019 and went on to play 93 games for the club scoring six goals. He...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Heron Memorial Service]]></title>
-        <id>647cd3ec309bd9f02e1bd5a8</id>
-        <link href="https://www.ardsfc.co.uk/post/john-heron-memorial-service"/>
-        <updated>2023-06-04T18:12:39.000Z</updated>
-        <summary type="html"><![CDATA[John Heron's memorial service will be held in West Presbyterian Church in Bangor on Thursday 8th June at 11.30am. The service will be...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
