@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-08T01:15:35.154Z</id>
+    <id>urn:2023-07-09T01:19:45.024Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-08T01:15:35.154Z</updated>
+    <updated>2023-07-09T01:19:45.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -120,36 +120,6 @@
         <link href="https://www.ardsfc.co.uk/post/four-extend-ards-stay"/>
         <updated>2023-06-10T09:50:48.000Z</updated>
         <summary type="html"><![CDATA[Ards F.C are delighted that Neil Shields, Aidan Steele, Salou Jallow and Ross Hunter have agreed to stay with the club for the 2023/24...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trio Sign Up]]></title>
-        <id>64830dd19857b7e9b3b6965e</id>
-        <link href="https://www.ardsfc.co.uk/post/trio-sign-up"/>
-        <updated>2023-06-09T11:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Ards F.C are pleased to announce the following new signings. MAX GREER :- Max is a 19 year old who joins us on a two year contract from...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Ards player John Anderson has passed away]]></title>
-        <id>6482d1cb35eec5eee0687b6d</id>
-        <link href="https://www.ardsfc.co.uk/post/former-ards-player-john-anderson-has-passed-away"/>
-        <updated>2023-06-09T07:22:10.000Z</updated>
-        <summary type="html"><![CDATA[John Anderson who played for Ards in the 1960s has passed away, He made his debut on the 15 Aug, 1964 v Bangor at Castlereagh Park making...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transfer News]]></title>
-        <id>6482cf0c10d1092c439bb23d</id>
-        <link href="https://www.ardsfc.co.uk/post/transfer-news-1"/>
-        <updated>2023-06-09T07:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Club captain TJ Murray has left Ards. The midfielder joined Ards in 2019 and went on to play 93 games for the club scoring six goals. He...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
