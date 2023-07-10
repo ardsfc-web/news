@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-09T01:19:45.024Z</id>
+    <id>urn:2023-07-10T01:14:21.295Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-09T01:19:45.024Z</updated>
+    <updated>2023-07-10T01:14:21.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -110,16 +110,6 @@
         <link href="https://www.ardsfc.co.uk/post/matthew-tipton-s-thoughts-on-our-new-signings"/>
         <updated>2023-06-11T11:09:12.000Z</updated>
         <summary type="html"><![CDATA[So far this summer we have made five brand new signings with Callum Dougan, Max Greer, Matt Gorman, Connor Maxwell and Max Miller joining...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four Extend Ards Stay]]></title>
-        <id>648441e79348f35db94e1b40</id>
-        <link href="https://www.ardsfc.co.uk/post/four-extend-ards-stay"/>
-        <updated>2023-06-10T09:50:48.000Z</updated>
-        <summary type="html"><![CDATA[Ards F.C are delighted that Neil Shields, Aidan Steele, Salou Jallow and Ross Hunter have agreed to stay with the club for the 2023/24...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
