@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-10T01:14:21.295Z</id>
+    <id>urn:2023-07-11T01:08:11.496Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-10T01:14:21.295Z</updated>
+    <updated>2023-07-11T01:08:11.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -100,16 +100,6 @@
         <link href="https://www.ardsfc.co.uk/post/tipton-delighted-with-mccallum-capture"/>
         <updated>2023-06-13T17:13:36.000Z</updated>
         <summary type="html"><![CDATA[Manager Matthew Tipton gave his thoughts on new signing Adam McCallum Adam is a player who i know very well, after spending nearly 5...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATTHEW TIPTON'S THOUGHTS ON OUR NEW SIGNINGS]]></title>
-        <id>6485a96fd0314adb099d6d60</id>
-        <link href="https://www.ardsfc.co.uk/post/matthew-tipton-s-thoughts-on-our-new-signings"/>
-        <updated>2023-06-11T11:09:12.000Z</updated>
-        <summary type="html"><![CDATA[So far this summer we have made five brand new signings with Callum Dougan, Max Greer, Matt Gorman, Connor Maxwell and Max Miller joining...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
