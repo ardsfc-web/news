@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-13T01:17:04.369Z</id>
+    <id>urn:2023-07-14T01:19:19.983Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-13T01:17:04.369Z</updated>
+    <updated>2023-07-14T01:19:19.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -90,16 +90,6 @@
         <link href="https://www.ardsfc.co.uk/post/agm-meeting"/>
         <updated>2023-06-15T09:19:30.000Z</updated>
         <summary type="html"><![CDATA[The Ards F.C AGM  is scheduled for 8.00 p.m next Thursday 22nd June at The Ards Sports Club . All shareholders are encouraged to attend.]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tipton Delighted With McCallum Capture]]></title>
-        <id>6488a296af73c65270e07783</id>
-        <link href="https://www.ardsfc.co.uk/post/tipton-delighted-with-mccallum-capture"/>
-        <updated>2023-06-13T17:13:36.000Z</updated>
-        <summary type="html"><![CDATA[Manager Matthew Tipton gave his thoughts on new signing Adam McCallum Adam is a player who i know very well, after spending nearly 5...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
