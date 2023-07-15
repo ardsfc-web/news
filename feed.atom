@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-14T01:19:19.983Z</id>
+    <id>urn:2023-07-15T01:15:55.064Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-14T01:19:19.983Z</updated>
+    <updated>2023-07-15T01:15:55.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -70,26 +70,6 @@
         <link href="https://www.ardsfc.co.uk/post/agm-postponed"/>
         <updated>2023-06-22T06:55:23.000Z</updated>
         <summary type="html"><![CDATA[CLUB NEWS Due to unforeseen circumstances Thursday night's AGM has been postponed. We apologise for any inconvenience. A new date will be...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programme Fair Success]]></title>
-        <id>648b0358d2c918b8656fc892</id>
-        <link href="https://www.ardsfc.co.uk/post/programme-fair-success"/>
-        <updated>2023-06-15T12:29:07.000Z</updated>
-        <summary type="html"><![CDATA[The programme editor, Adrian Monaghan, would like to thank Jack Brown and Stephen Lennon for their assistance last Saturday and in what...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AGM Meeting]]></title>
-        <id>648ad7912b8f51fc73109d7a</id>
-        <link href="https://www.ardsfc.co.uk/post/agm-meeting"/>
-        <updated>2023-06-15T09:19:30.000Z</updated>
-        <summary type="html"><![CDATA[The Ards F.C AGM  is scheduled for 8.00 p.m next Thursday 22nd June at The Ards Sports Club . All shareholders are encouraged to attend.]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
