@@ -6,12 +6,57 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "64b5403773e3169e8cdd3a6b",
+          "author": "Michael Barritt",
+          "description": "Ards Academy Girls Section We are absolutely delighted to announce that from August we will be launching our girls section. Training will...",
+          "link": "https://www.ardsfc.co.uk/post/ards-academy-start-girls-section",
+          "publishedOn": "2023-07-17T13:21:45.000Z",
+          "wordCount": 18321,
+          "title": "Ards Academy Start Girls Section",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_be195389b0104f3cac20d6154fe24ec1~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_be195389b0104f3cac20d6154fe24ec1~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"
+        },
+        {
+          "id": "64b53f5f3f656b44e3175ab5",
+          "author": "Michael Barritt",
+          "description": "We would like to wish our 2009 & 2015 Boys all the best as they set off tomorrow and Monday for the O'Neills Foyle Cup 2023. We hope you...",
+          "link": "https://www.ardsfc.co.uk/post/academy-boys-set-for-foyle-cup",
+          "publishedOn": "2023-07-17T13:18:07.000Z",
+          "wordCount": 18295,
+          "title": "Academy Boys Set For Foyle Cup",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_b06e728278994896a35d6df1a606bfbb~mv2.jpg/v1/fit/w_962,h_1000,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_b06e728278994896a35d6df1a606bfbb~mv2.jpg/v1/fit/w_962,h_1000,al_c,q_80/file.png"
+        },
+        {
+          "id": "64b53e0034ca66da6c66bca5",
+          "author": "Michael Barritt",
+          "description": "FIXTURE NEWS The first Bangor versus Ards league game since 2016 will now be played at Clandeboye Park on Friday 11th August at 7.45pm.",
+          "link": "https://www.ardsfc.co.uk/post/fixture-change-for-derby",
+          "publishedOn": "2023-07-17T13:11:58.000Z",
+          "wordCount": 18243,
+          "title": "Fixture Change For Derby",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_496d5e2468a342c2ba38edf5bc3a09ba~mv2.jpg/v1/fit/w_1000,h_522,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_496d5e2468a342c2ba38edf5bc3a09ba~mv2.jpg/v1/fit/w_1000,h_522,al_c,q_80/file.png"
+        },
+        {
           "id": "64a1580bf33d4d4dd7603a41",
           "author": "Michael Barritt",
           "description": "Ards have added an extra pre seaspn game to their schedule and will now play Crusaders at Seaview on Tuesday 4th July at 7-30. In another...",
           "link": "https://www.ardsfc.co.uk/post/crusaders-friendly-added",
           "publishedOn": "2023-07-02T10:57:50.000Z",
-          "wordCount": 18322,
+          "wordCount": 18284,
           "title": "Crusaders Friendly Added",
           "imageUrl": null
         },
@@ -21,7 +66,7 @@
           "description": "Michael Ruddy has joined Ards for a second stint. The left back scored 16 goals in 65 games between 2016 and 2018 in his first spell with...",
           "link": "https://www.ardsfc.co.uk/post/ruddy-returns",
           "publishedOn": "2023-07-02T10:49:00.000Z",
-          "wordCount": 18293,
+          "wordCount": 18255,
           "title": "Ruddy Returns",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_4fddfda405fe4622b4c49094eccc129b~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -36,7 +81,7 @@
           "description": "Ards have announced a new management team for the 2nd team. The new Manager is Luke Buchanan and he is joined by Head Coach  Matty Shaw,...",
           "link": "https://www.ardsfc.co.uk/post/new-mangement-team-for-ards-2nds",
           "publishedOn": "2023-06-30T10:44:25.000Z",
-          "wordCount": 18314,
+          "wordCount": 18276,
           "title": "New Mangement team for Ards 2nds",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_d74133f0653a4a48ab03ec7b3e338810~mv2.png/v1/fit/w_646,h_364,al_c,q_80/file.png",
@@ -51,7 +96,7 @@
           "description": "",
           "link": "https://www.ardsfc.co.uk/post/2023-24-fixtures-released",
           "publishedOn": "2023-06-29T07:32:07.000Z",
-          "wordCount": 18256,
+          "wordCount": 18218,
           "title": "2023/24 Fixtures Released",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_8eeb239b4b78496198c0b70ab2279c07~mv2.png/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
@@ -66,7 +111,7 @@
           "description": "Ards Football Club partnered with local charity SANDS NI (Stillbirth and Neonatal Death Society) during the 2022/23 football season....",
           "link": "https://www.ardsfc.co.uk/post/impressive-funds-raised-for-sands-ni",
           "publishedOn": "2023-06-28T11:29:58.000Z",
-          "wordCount": 18414,
+          "wordCount": 18376,
           "title": "Impressive funds raised for SANDS NI",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_636977e781a64c26b98931dff7ca6c62~mv2.jpg/v1/fit/w_1000,h_900,al_c,q_80/file.png",
@@ -81,7 +126,7 @@
           "description": "Ards Football Club Disability Section held their annual awards last Saturday. The main award winners were: B Team Top Goalscorer: Britney...",
           "link": "https://www.ardsfc.co.uk/post/disability-squad-annual-awards",
           "publishedOn": "2023-06-26T11:51:08.000Z",
-          "wordCount": 18602,
+          "wordCount": 18564,
           "title": "DISABILITY SQUAD ANNUAL AWARDS",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_6f48c8b559e941ab824d4f73e4ec74c2~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
@@ -96,7 +141,7 @@
           "description": "CLUB NEWS Due to unforeseen circumstances Thursday night's AGM has been postponed. We apologise for any inconvenience. A new date will be...",
           "link": "https://www.ardsfc.co.uk/post/agm-postponed",
           "publishedOn": "2023-06-22T06:55:23.000Z",
-          "wordCount": 18247,
+          "wordCount": 18209,
           "title": "AGM Postponed",
           "imageUrl": null
         }
