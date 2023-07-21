@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-20T01:04:40.583Z</id>
+    <id>urn:2023-07-21T01:05:12.621Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-20T01:04:40.583Z</updated>
+    <updated>2023-07-21T01:05:12.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[23/24 AWAY KIT CELEBRATES 50TH ANNIVERSARY OF 4 TROPHY TEAM]]></title>
+        <id>64b91d644153e9bccf96c4b1</id>
+        <link href="https://www.ardsfc.co.uk/post/23-24-away-kit-celebrates-50th-anniversary-of-4-trophy-team"/>
+        <updated>2023-07-20T12:12:00.000Z</updated>
+        <summary type="html"><![CDATA[THE NEW AWAY KIT FOR THE 23/24  SEASON HAS BEEN RELEASED, WHITE WITH GOLD TRIM IN A NOD TO THE GOLDEN ANNIVERSARY OF THE 4 TROPHY TEAM...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEASON TICKET PRICE FREEZE]]></title>
+        <id>64b91cbbabbcc93cf3b48d36</id>
+        <link href="https://www.ardsfc.co.uk/post/season-ticket-price-freeze"/>
+        <updated>2023-07-20T11:39:25.000Z</updated>
+        <summary type="html"><![CDATA[Price Freeze! Just like last season, our Season Tickets are priced at £130 for Adults and £80 for Seniors. Tickets will be available for...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SCANNELL EXTENDS STAY]]></title>
+        <id>64b91c2bb59fbbf5b799aadd</id>
+        <link href="https://www.ardsfc.co.uk/post/scannell-extends-stay"/>
+        <updated>2023-07-20T11:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Ards F.C are delighted to announce that Conor Scannell has signed a deal that will keep him at the club for the next two seasons. Conor...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ards Academy Start Girls Section]]></title>
         <id>64b5403773e3169e8cdd3a6b</id>
