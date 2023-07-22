@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-21T01:05:12.621Z</id>
+    <id>urn:2023-07-22T01:04:31.372Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-21T01:05:12.621Z</updated>
+    <updated>2023-07-22T01:04:31.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Super Cup Call For Scott]]></title>
+        <id>64baacc5abef140b407a31dc</id>
+        <link href="https://www.ardsfc.co.uk/post/super-cup-call-for-scott"/>
+        <updated>2023-07-21T16:08:51.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to Aaron Scott who represented Ards at Under 16, Under 18 and Under 20 level last season and has been selected for the...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[23/24 AWAY KIT CELEBRATES 50TH ANNIVERSARY OF 4 TROPHY TEAM]]></title>
         <id>64b91d644153e9bccf96c4b1</id>
@@ -120,16 +130,6 @@
         <link href="https://www.ardsfc.co.uk/post/disability-squad-annual-awards"/>
         <updated>2023-06-26T11:51:08.000Z</updated>
         <summary type="html"><![CDATA[Ards Football Club Disability Section held their annual awards last Saturday. The main award winners were: B Team Top Goalscorer: Britney...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AGM Postponed]]></title>
-        <id>6493f04df2b5b1301c63362f</id>
-        <link href="https://www.ardsfc.co.uk/post/agm-postponed"/>
-        <updated>2023-06-22T06:55:23.000Z</updated>
-        <summary type="html"><![CDATA[CLUB NEWS Due to unforeseen circumstances Thursday night's AGM has been postponed. We apologise for any inconvenience. A new date will be...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
