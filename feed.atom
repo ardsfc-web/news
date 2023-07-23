@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-22T01:04:31.372Z</id>
+    <id>urn:2023-07-23T01:09:07.453Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-22T01:04:31.372Z</updated>
+    <updated>2023-07-23T01:09:07.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Academy 2009s reach Foyle Cup final]]></title>
+        <id>64bbb844b2c54846654efc0b</id>
+        <link href="https://www.ardsfc.co.uk/post/academy-2009s-reach-foyle-cup-final"/>
+        <updated>2023-07-22T11:08:08.000Z</updated>
+        <summary type="html"><![CDATA[Everyone at Ards F.C wish the best of luck as the Academy 2009s play in the Under 14 Foyle Cup Final today with a 1.30 p.m kickoff at the...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Super Cup Call For Scott]]></title>
         <id>64baacc5abef140b407a31dc</id>
