@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-27T00:57:26.672Z</id>
+    <id>urn:2023-07-28T00:58:31.168Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-27T00:57:26.672Z</updated>
+    <updated>2023-07-28T00:58:31.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -120,16 +120,6 @@
         <id>649d3355c3f9c8f20b51ccf8</id>
         <link href="https://www.ardsfc.co.uk/post/2023-24-fixtures-released"/>
         <updated>2023-06-29T07:32:07.000Z</updated>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impressive funds raised for SANDS NI]]></title>
-        <id>649c18ea98828b44921f6ce9</id>
-        <link href="https://www.ardsfc.co.uk/post/impressive-funds-raised-for-sands-ni"/>
-        <updated>2023-06-28T11:29:58.000Z</updated>
-        <summary type="html"><![CDATA[Ards Football Club partnered with local charity SANDS NI (Stillbirth and Neonatal Death Society) during the 2022/23 football season....]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
