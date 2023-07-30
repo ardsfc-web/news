@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-29T00:59:40.286Z</id>
+    <id>urn:2023-07-30T01:01:45.828Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-29T00:59:40.286Z</updated>
+    <updated>2023-07-30T01:01:45.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Daryl Phillips Gains A License]]></title>
+        <id>64c4c8b2311452f58a4d3466</id>
+        <link href="https://www.ardsfc.co.uk/post/daryl-phillips-gains-a-license"/>
+        <updated>2023-07-29T08:13:05.000Z</updated>
+        <summary type="html"><![CDATA[We are delighted to announce that 1st team coach Daryl Phillips has completed his A License programme. Chairman Warren Patton said "It is...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Academy 2009s reach Foyle Cup final]]></title>
         <id>64bbb844b2c54846654efc0b</id>
@@ -101,16 +111,6 @@
         <link href="https://www.ardsfc.co.uk/post/ruddy-returns"/>
         <updated>2023-07-02T10:49:00.000Z</updated>
         <summary type="html"><![CDATA[Michael Ruddy has joined Ards for a second stint. The left back scored 16 goals in 65 games between 2016 and 2018 in his first spell with...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Mangement team for Ards 2nds]]></title>
-        <id>649eb1140c69b0e49e62112b</id>
-        <link href="https://www.ardsfc.co.uk/post/new-mangement-team-for-ards-2nds"/>
-        <updated>2023-06-30T10:44:25.000Z</updated>
-        <summary type="html"><![CDATA[Ards have announced a new management team for the 2nd team. The new Manager is Luke Buchanan and he is joined by Head Coach  Matty Shaw,...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>

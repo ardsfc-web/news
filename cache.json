@@ -6,12 +6,27 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "64c4c8b2311452f58a4d3466",
+          "author": "Michael Barritt",
+          "description": "We are delighted to announce that 1st team coach Daryl Phillips has completed his A License programme. Chairman Warren Patton said \"It is...",
+          "link": "https://www.ardsfc.co.uk/post/daryl-phillips-gains-a-license",
+          "publishedOn": "2023-07-29T08:13:05.000Z",
+          "wordCount": 17563,
+          "title": "Daryl Phillips Gains A License",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_966684a821f041dfabea9063e47002f4~mv2.webp/v1/fit/w_750,h_629,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_966684a821f041dfabea9063e47002f4~mv2.webp/v1/fit/w_750,h_629,al_c,q_80/file.png"
+        },
+        {
           "id": "64bbb844b2c54846654efc0b",
           "author": "Michael Barritt",
           "description": "Everyone at Ards F.C wish the best of luck as the Academy 2009s play in the Under 14 Foyle Cup Final today with a 1.30 p.m kickoff at the...",
           "link": "https://www.ardsfc.co.uk/post/academy-2009s-reach-foyle-cup-final",
           "publishedOn": "2023-07-22T11:08:08.000Z",
-          "wordCount": 17612,
+          "wordCount": 17611,
           "title": "Academy 2009s reach Foyle Cup final",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_9bf3fb90f8da4c03ac53847c358a4bbe~mv2.jpg/v1/fit/w_960,h_720,al_c,q_80/file.png",
@@ -41,7 +56,7 @@
           "description": "THE NEW AWAY KIT FOR THE 23/24  SEASON HAS BEEN RELEASED, WHITE WITH GOLD TRIM IN A NOD TO THE GOLDEN ANNIVERSARY OF THE 4 TROPHY TEAM...",
           "link": "https://www.ardsfc.co.uk/post/23-24-away-kit-celebrates-50th-anniversary-of-4-trophy-team",
           "publishedOn": "2023-07-20T12:12:00.000Z",
-          "wordCount": 3994,
+          "wordCount": 17581,
           "title": "23/24 AWAY KIT CELEBRATES 50TH ANNIVERSARY OF 4 TROPHY TEAM",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_eaaae9af8aad426b9d8abe22d0fab8c4~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -149,21 +164,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://static.wixstatic.com/media/36629e_4fddfda405fe4622b4c49094eccc129b~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
-        },
-        {
-          "id": "649eb1140c69b0e49e62112b",
-          "author": "Michael Barritt",
-          "description": "Ards have announced a new management team for the 2nd team. The new Manager is Luke Buchanan and he is joined by Head Coach  Matty Shaw,...",
-          "link": "https://www.ardsfc.co.uk/post/new-mangement-team-for-ards-2nds",
-          "publishedOn": "2023-06-30T10:44:25.000Z",
-          "wordCount": 17568,
-          "title": "New Mangement team for Ards 2nds",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/36629e_d74133f0653a4a48ab03ec7b3e338810~mv2.png/v1/fit/w_646,h_364,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/36629e_d74133f0653a4a48ab03ec7b3e338810~mv2.png/v1/fit/w_646,h_364,al_c,q_80/file.png"
         }
       ]
     }
