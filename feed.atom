@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-01T01:05:32.352Z</id>
+    <id>urn:2023-08-02T00:57:34.205Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-01T01:05:32.352Z</updated>
+    <updated>2023-08-02T00:57:34.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JIMMY MARTIN PASSES AWAY]]></title>
+        <id>64c8b27fedf99ffa310db65d</id>
+        <link href="https://www.ardsfc.co.uk/post/jimmy-martin-passes-away"/>
+        <updated>2023-08-01T07:22:18.000Z</updated>
+        <summary type="html"><![CDATA[Former Ballymena United and Linfield striker Jimmy Martin signed for Ards from Glentoran in November 1979.  He scored a goal after three...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daryl Phillips Gains A License]]></title>
         <id>64c4c8b2311452f58a4d3466</id>
