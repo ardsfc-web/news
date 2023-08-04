@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-03T01:00:25.162Z</id>
+    <id>urn:2023-08-04T01:01:48.160Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-03T01:00:25.162Z</updated>
+    <updated>2023-08-04T01:01:48.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Match Preview - Ards v Newington]]></title>
+        <id>64cbfec4e3af4bc1054307b9</id>
+        <link href="https://www.ardsfc.co.uk/post/match-preview-ards-v-newington"/>
+        <updated>2023-08-03T19:35:19.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards F.C vs Newington F.C Clandeboye Park. Saturday August 5th at 3.00 p.m. The wait is over, the...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOUBLE SWOOP AHEAD OF SEASON OPENER]]></title>
+        <id>64cbf8e9e2553ff2ff063048</id>
+        <link href="https://www.ardsfc.co.uk/post/double-swoop-ahead-of-season-opener"/>
+        <updated>2023-08-03T19:11:07.000Z</updated>
+        <summary type="html"><![CDATA[Ards Manager Matthew Tipton has added two further signings ahead of Saturday's opening league game. Matthews son George Tipton is a 20...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[23/24 Playr-Fit Launches]]></title>
         <id>64ca38f9720471fb5e1ac59c</id>
