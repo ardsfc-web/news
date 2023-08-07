@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-06T00:55:00.921Z</id>
+    <id>urn:2023-08-07T01:00:16.962Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-06T00:55:00.921Z</updated>
+    <updated>2023-08-07T01:00:16.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ards 1 Newington 3 – Match Report]]></title>
+        <id>64cf9ebd31e5841e182567bf</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-1-newington-3-match-report"/>
+        <updated>2023-08-06T13:55:40.000Z</updated>
+        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 06/08/23 By Phillip Bartlett New season, new line up, same old… Ards up against it on day one as mistakes...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Match Preview - Ards v Newington]]></title>
         <id>64cbfec4e3af4bc1054307b9</id>
