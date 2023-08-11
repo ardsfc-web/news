@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-10T01:01:06.346Z</id>
+    <id>urn:2023-08-11T00:48:39.964Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-10T01:01:06.346Z</updated>
+    <updated>2023-08-11T00:48:39.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Match Preview - Bangor v Ards]]></title>
+        <id>64d50cec3f6c0d93abe44d5e</id>
+        <link href="https://www.ardsfc.co.uk/post/match-preview-bangor-v-ards"/>
+        <updated>2023-08-10T16:16:14.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Bangor vs Ards. Clandeboye Park. Friday 11th August at 7.45 p.m. Since Bangor cruised to promotion last...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just Married]]></title>
+        <id>64d492711f5bf4261abf8073</id>
+        <link href="https://www.ardsfc.co.uk/post/just-married"/>
+        <updated>2023-08-10T07:36:52.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations from everyone at Ards F.C to Reserve Team coach Matty Shaw and Erin McKee on their recent wedding.]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ards 1 Newington 3 – Match Report]]></title>
         <id>64cf9ebd31e5841e182567bf</id>
