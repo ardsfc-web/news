@@ -6,6 +6,21 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "64d8dd84aabf71a67fb9c85a",
+          "author": "Michael Barritt",
+          "description": "NIFL Playr-Fit Championship – 11/08/23 By Phillip Bartlett Seagulls flying high after derby day win First competitive North Down derby...",
+          "link": "https://www.ardsfc.co.uk/post/bangor-1-ards-0-match-report",
+          "publishedOn": "2023-08-13T13:49:38.000Z",
+          "wordCount": 19599,
+          "title": "Bangor 1 Ards 0 – Match Report",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_8873eccbff3846d4b257c9679caa92c0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_8873eccbff3846d4b257c9679caa92c0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
+        },
+        {
           "id": "64d50cec3f6c0d93abe44d5e",
           "author": "Stuart Dellow",
           "description": "PLAYR-FIT Teamwear Championship. Bangor vs Ards. Clandeboye Park. Friday 11th August at 7.45 p.m. Since Bangor cruised to promotion last...",
@@ -41,7 +56,7 @@
           "description": "NIFL Playr-Fit Championship – 06/08/23 By Phillip Bartlett New season, new line up, same old… Ards up against it on day one as mistakes...",
           "link": "https://www.ardsfc.co.uk/post/ards-1-newington-3-match-report",
           "publishedOn": "2023-08-06T13:55:40.000Z",
-          "wordCount": 19756,
+          "wordCount": 19755,
           "title": "Ards 1 Newington 3 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_3491b4ba85544f229894d671b9b8f11a~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
