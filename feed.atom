@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-16T00:49:00.531Z</id>
+    <id>urn:2023-08-17T00:48:08.204Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-16T00:49:00.531Z</updated>
+    <updated>2023-08-17T00:48:08.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -141,36 +141,6 @@
         <link href="https://www.ardsfc.co.uk/post/scannell-extends-stay"/>
         <updated>2023-07-20T11:37:28.000Z</updated>
         <summary type="html"><![CDATA[Ards F.C are delighted to announce that Conor Scannell has signed a deal that will keep him at the club for the next two seasons. Conor...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ards Academy Start Girls Section]]></title>
-        <id>64b5403773e3169e8cdd3a6b</id>
-        <link href="https://www.ardsfc.co.uk/post/ards-academy-start-girls-section"/>
-        <updated>2023-07-17T13:21:45.000Z</updated>
-        <summary type="html"><![CDATA[Ards Academy Girls Section We are absolutely delighted to announce that from August we will be launching our girls section. Training will...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Academy Boys Set For Foyle Cup]]></title>
-        <id>64b53f5f3f656b44e3175ab5</id>
-        <link href="https://www.ardsfc.co.uk/post/academy-boys-set-for-foyle-cup"/>
-        <updated>2023-07-17T13:18:07.000Z</updated>
-        <summary type="html"><![CDATA[We would like to wish our 2009 & 2015 Boys all the best as they set off tomorrow and Monday for the O'Neills Foyle Cup 2023. We hope you...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixture Change For Derby]]></title>
-        <id>64b53e0034ca66da6c66bca5</id>
-        <link href="https://www.ardsfc.co.uk/post/fixture-change-for-derby"/>
-        <updated>2023-07-17T13:11:58.000Z</updated>
-        <summary type="html"><![CDATA[FIXTURE NEWS The first Bangor versus Ards league game since 2016 will now be played at Clandeboye Park on Friday 11th August at 7.45pm.]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
