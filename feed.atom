@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-17T00:48:08.204Z</id>
+    <id>urn:2023-08-18T00:48:45.528Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T00:48:08.204Z</updated>
+    <updated>2023-08-18T00:48:45.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Call for Castlereagh Park memories]]></title>
+        <id>64de87e493ac91406c7e2e27</id>
+        <link href="https://www.ardsfc.co.uk/post/call-for-castlereagh-park-memories"/>
+        <updated>2023-08-17T20:55:10.000Z</updated>
+        <summary type="html"><![CDATA[On this day 100 years ago - 18th August 1923 - Ards played their first-ever game at Castlereagh Park. To commemorate the occasion, Ards...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Match Preview - Annagh United v Ards]]></title>
+        <id>64de8671a9a2619a7e53f2d5</id>
+        <link href="https://www.ardsfc.co.uk/post/match-preview-annagh-united-v-ards"/>
+        <updated>2023-08-17T20:47:34.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Annagh United vs Ards F.C BMG Arena. Saturday 19th August at 3.00 p.m. Matthew Tipton should have a full...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bangor 1 Ards 0 – Match Report]]></title>
         <id>64d8dd84aabf71a67fb9c85a</id>

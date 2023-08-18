@@ -6,6 +6,36 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "64de87e493ac91406c7e2e27",
+          "author": "Michael Barritt",
+          "description": "On this day 100 years ago - 18th August 1923 - Ards played their first-ever game at Castlereagh Park. To commemorate the occasion, Ards...",
+          "link": "https://www.ardsfc.co.uk/post/call-for-castlereagh-park-memories",
+          "publishedOn": "2023-08-17T20:55:10.000Z",
+          "wordCount": 16761,
+          "title": "Call for Castlereagh Park memories",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_b155a3327b8748dab4c02e6fc8d05505~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_b155a3327b8748dab4c02e6fc8d05505~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
+        },
+        {
+          "id": "64de8671a9a2619a7e53f2d5",
+          "author": "Stuart Dellow",
+          "description": "PLAYR-FIT Teamwear Championship. Annagh United vs Ards F.C BMG Arena. Saturday 19th August at 3.00 p.m. Matthew Tipton should have a full...",
+          "link": "https://www.ardsfc.co.uk/post/match-preview-annagh-united-v-ards",
+          "publishedOn": "2023-08-17T20:47:34.000Z",
+          "wordCount": 17072,
+          "title": "Match Preview - Annagh United v Ards",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_674d238f65174f7496d905d5ef2aee37~mv2.jpg/v1/fit/w_939,h_447,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_674d238f65174f7496d905d5ef2aee37~mv2.jpg/v1/fit/w_939,h_447,al_c,q_80/file.png"
+        },
+        {
           "id": "64d8dd84aabf71a67fb9c85a",
           "author": "Michael Barritt",
           "description": "NIFL Playr-Fit Championship – 11/08/23 By Phillip Bartlett Seagulls flying high after derby day win First competitive North Down derby...",
@@ -26,7 +56,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Bangor vs Ards. Clandeboye Park. Friday 11th August at 7.45 p.m. Since Bangor cruised to promotion last...",
           "link": "https://www.ardsfc.co.uk/post/match-preview-bangor-v-ards",
           "publishedOn": "2023-08-10T16:16:14.000Z",
-          "wordCount": 17115,
+          "wordCount": 3999,
           "title": "Match Preview - Bangor v Ards",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_fddfc725ad934c8c928787198fa3804b~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -41,7 +71,7 @@
           "description": "Congratulations from everyone at Ards F.C to Reserve Team coach Matty Shaw and Erin McKee on their recent wedding.",
           "link": "https://www.ardsfc.co.uk/post/just-married",
           "publishedOn": "2023-08-10T07:36:52.000Z",
-          "wordCount": 16665,
+          "wordCount": 16664,
           "title": "Just Married",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_f85c41f36b5249d2995134f96f3a6c91~mv2.png/v1/fit/w_499,h_299,al_c,q_80/file.png",
