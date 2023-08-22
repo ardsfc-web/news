@@ -6,6 +6,36 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "64e3df862462549a20a6cea6",
+          "author": "Michael Barritt",
+          "description": "Congratulations to Ards F.C. Commercial Manager Anthony Cafolla, who will be representing Northern Ireland in the Over-60s walking...",
+          "link": "https://www.ardsfc.co.uk/post/ni-s-over-60s-international",
+          "publishedOn": "2023-08-21T22:11:37.000Z",
+          "wordCount": 11211,
+          "title": "NI’s Over-60s International",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_08014f0c4beb4bc1afeed01a9978dba5~mv2.jpg/v1/fit/w_315,h_235,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_08014f0c4beb4bc1afeed01a9978dba5~mv2.jpg/v1/fit/w_315,h_235,al_c,q_80/file.png"
+        },
+        {
+          "id": "64e353fb46571ce403bb5553",
+          "author": "Michael Barritt",
+          "description": "NIFL Playr-Fit Championship – 19/08/23 By Phillip Bartlett Deadlock at the BMG Ards have their first point on the board after a hard...",
+          "link": "https://www.ardsfc.co.uk/post/annagh-united-0-ards-0-match-report",
+          "publishedOn": "2023-08-21T12:14:59.000Z",
+          "wordCount": 13116,
+          "title": "Annagh United 0 Ards 0 – Match Report",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_8873eccbff3846d4b257c9679caa92c0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_8873eccbff3846d4b257c9679caa92c0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
+        },
+        {
           "id": "64dff8ac05c0475c6b16d91d",
           "author": "Michael Barritt",
           "description": "The Ards F.C. AGM is scheduled for 8.00 p.m next Thursday 28th September 2023 at The Ards Sports Club . All shareholders are encouraged...",
