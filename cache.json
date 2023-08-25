@@ -6,6 +6,36 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "64e7a146b8ed8a9ec4bc0478",
+          "author": "Michael Barritt",
+          "description": "Friday 25th August 2023 marks the 100th anniversary of Ards Football Clubs first ever senior match, and to mark the occasion editor...",
+          "link": "https://www.ardsfc.co.uk/post/100th-anniversary-of-first-senior-game",
+          "publishedOn": "2023-08-24T18:35:31.000Z",
+          "wordCount": 11326,
+          "title": "100th Anniversary of First Senior Game",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_02fd3e4103934b4cb253ae8a38bd971b~mv2.jpg/v1/fit/w_500,h_719,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_02fd3e4103934b4cb253ae8a38bd971b~mv2.jpg/v1/fit/w_500,h_719,al_c,q_80/file.png"
+        },
+        {
+          "id": "64e71fda31af7ba7b9cb5369",
+          "author": "Stuart Dellow",
+          "description": "PLAYR-FIT Teamwear Championship. Ards F.C vs Harland and Wolff Welders. Clandeboye Park. Friday 25th August at 7.45 p.m. Another Friday...",
+          "link": "https://www.ardsfc.co.uk/post/match-preview-ards-v-welders",
+          "publishedOn": "2023-08-24T09:22:52.000Z",
+          "wordCount": 11707,
+          "title": "MATCH PREVIEW - ARDS V WELDERS",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_fea64861cb294405b92ed33f136025d0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_fea64861cb294405b92ed33f136025d0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
+        },
+        {
           "id": "64e3df862462549a20a6cea6",
           "author": "Michael Barritt",
           "description": "Congratulations to Ards F.C. Commercial Manager Anthony Cafolla, who will be representing Northern Ireland in the Over-60s walking...",
@@ -26,7 +56,7 @@
           "description": "NIFL Playr-Fit Championship – 19/08/23 By Phillip Bartlett Deadlock at the BMG Ards have their first point on the board after a hard...",
           "link": "https://www.ardsfc.co.uk/post/annagh-united-0-ards-0-match-report",
           "publishedOn": "2023-08-21T12:14:59.000Z",
-          "wordCount": 13194,
+          "wordCount": 4003,
           "title": "Annagh United 0 Ards 0 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_8873eccbff3846d4b257c9679caa92c0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -56,7 +86,7 @@
           "description": "On this day 100 years ago - 18th August 1923 - Ards played their first-ever game at Castlereagh Park. To commemorate the occasion, Ards...",
           "link": "https://www.ardsfc.co.uk/post/call-for-castlereagh-park-memories",
           "publishedOn": "2023-08-17T20:55:10.000Z",
-          "wordCount": 11345,
+          "wordCount": 11344,
           "title": "Call for Castlereagh Park memories",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_b155a3327b8748dab4c02e6fc8d05505~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -71,7 +101,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Annagh United vs Ards F.C BMG Arena. Saturday 19th August at 3.00 p.m. Matthew Tipton should have a full...",
           "link": "https://www.ardsfc.co.uk/post/match-preview-annagh-united-v-ards",
           "publishedOn": "2023-08-17T20:47:34.000Z",
-          "wordCount": 11656,
+          "wordCount": 11655,
           "title": "Match Preview - Annagh United v Ards",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_674d238f65174f7496d905d5ef2aee37~mv2.jpg/v1/fit/w_939,h_447,al_c,q_80/file.png",
@@ -131,7 +161,7 @@
           "description": "NIFL Playr-Fit Championship – 06/08/23 By Phillip Bartlett New season, new line up, same old… Ards up against it on day one as mistakes...",
           "link": "https://www.ardsfc.co.uk/post/ards-1-newington-3-match-report",
           "publishedOn": "2023-08-06T13:55:40.000Z",
-          "wordCount": 13501,
+          "wordCount": 4003,
           "title": "Ards 1 Newington 3 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_3491b4ba85544f229894d671b9b8f11a~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -176,7 +206,7 @@
           "description": "The new football season is here and we have four huge games this August! Sat 5 - Ards v Newington - Clandeboye - 3pm Fri 11 - Bangor v...",
           "link": "https://www.ardsfc.co.uk/post/23-24-playr-fit-launches",
           "publishedOn": "2023-08-02T11:08:51.000Z",
-          "wordCount": 4003,
+          "wordCount": 11312,
           "title": "23/24 Playr-Fit Launches",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_a988111cfc6a405f8ca77e3461c57a3f~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",

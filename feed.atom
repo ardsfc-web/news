@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-24T00:49:12.532Z</id>
+    <id>urn:2023-08-25T00:50:27.755Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-24T00:49:12.532Z</updated>
+    <updated>2023-08-25T00:50:27.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[100th Anniversary of First Senior Game]]></title>
+        <id>64e7a146b8ed8a9ec4bc0478</id>
+        <link href="https://www.ardsfc.co.uk/post/100th-anniversary-of-first-senior-game"/>
+        <updated>2023-08-24T18:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Friday 25th August 2023 marks the 100th anniversary of Ards Football Clubs first ever senior match, and to mark the occasion editor...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATCH PREVIEW - ARDS V WELDERS]]></title>
+        <id>64e71fda31af7ba7b9cb5369</id>
+        <link href="https://www.ardsfc.co.uk/post/match-preview-ards-v-welders"/>
+        <updated>2023-08-24T09:22:52.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards F.C vs Harland and Wolff Welders. Clandeboye Park. Friday 25th August at 7.45 p.m. Another Friday...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NI’s Over-60s International]]></title>
         <id>64e3df862462549a20a6cea6</id>
