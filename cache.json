@@ -6,6 +6,21 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "64e99fd9832e8a86b6563e6b",
+          "author": "Michael Barritt",
+          "description": "Our match sponsor on Friday evening was EJ's Cafe on the Montgomery Rd in Belfast and they chose Eamon Scannell as their man of the match...",
+          "link": "https://www.ardsfc.co.uk/post/match-sponsor-ej-s-cafe",
+          "publishedOn": "2023-08-26T07:08:32.000Z",
+          "wordCount": 11343,
+          "title": "Match Sponsor - EJ's Cafe",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_d891b2df9cf34ef2b344e8054311de8e~mv2.jpg/v1/fit/w_750,h_750,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_d891b2df9cf34ef2b344e8054311de8e~mv2.jpg/v1/fit/w_750,h_750,al_c,q_80/file.png"
+        },
+        {
           "id": "64e7a146b8ed8a9ec4bc0478",
           "author": "Michael Barritt",
           "description": "Friday 25th August 2023 marks the 100th anniversary of Ards Football Clubs first ever senior match, and to mark the occasion editor...",

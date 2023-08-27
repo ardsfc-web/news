@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-26T00:47:58.574Z</id>
+    <id>urn:2023-08-27T00:52:57.516Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-26T00:47:58.574Z</updated>
+    <updated>2023-08-27T00:52:57.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Match Sponsor - EJ's Cafe]]></title>
+        <id>64e99fd9832e8a86b6563e6b</id>
+        <link href="https://www.ardsfc.co.uk/post/match-sponsor-ej-s-cafe"/>
+        <updated>2023-08-26T07:08:32.000Z</updated>
+        <summary type="html"><![CDATA[Our match sponsor on Friday evening was EJ's Cafe on the Montgomery Rd in Belfast and they chose Eamon Scannell as their man of the match...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100th Anniversary of First Senior Game]]></title>
         <id>64e7a146b8ed8a9ec4bc0478</id>
