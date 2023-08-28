@@ -6,6 +6,21 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "64eb313d42cc7eaaf829ea7e",
+          "author": "Michael Barritt",
+          "description": "NIFL Playr-Fit Championship – 25/08/23 By Phillip Bartlett Dividends Divided as Dougan Delivers Ards extend their unbeaten run after...",
+          "link": "https://www.ardsfc.co.uk/post/ards-1-h-w-welders-1-match-report",
+          "publishedOn": "2023-08-27T11:25:59.000Z",
+          "wordCount": 13132,
+          "title": "Ards 1 H&#38;W Welders 1 – Match Report",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_8873eccbff3846d4b257c9679caa92c0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_8873eccbff3846d4b257c9679caa92c0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
+        },
+        {
           "id": "64e99fd9832e8a86b6563e6b",
           "author": "Michael Barritt",
           "description": "Our match sponsor on Friday evening was EJ's Cafe on the Montgomery Rd in Belfast and they chose Eamon Scannell as their man of the match...",
@@ -244,21 +259,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://static.wixstatic.com/media/36629e_e7b86b8806a447f5933a20310635eb8b~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
-        },
-        {
-          "id": "64c4c8b2311452f58a4d3466",
-          "author": "Michael Barritt",
-          "description": "We are delighted to announce that 1st team coach Daryl Phillips has completed his A License programme. Chairman Warren Patton said \"It is...",
-          "link": "https://www.ardsfc.co.uk/post/daryl-phillips-gains-a-license",
-          "publishedOn": "2023-07-29T08:13:05.000Z",
-          "wordCount": 11284,
-          "title": "Daryl Phillips Gains A License",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/36629e_966684a821f041dfabea9063e47002f4~mv2.webp/v1/fit/w_750,h_629,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/36629e_966684a821f041dfabea9063e47002f4~mv2.webp/v1/fit/w_750,h_629,al_c,q_80/file.png"
         }
       ]
     }

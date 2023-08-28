@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-27T00:52:57.516Z</id>
+    <id>urn:2023-08-28T00:50:55.245Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-27T00:52:57.516Z</updated>
+    <updated>2023-08-28T00:50:55.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ards 1 H&#38;W Welders 1 – Match Report]]></title>
+        <id>64eb313d42cc7eaaf829ea7e</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-1-h-w-welders-1-match-report"/>
+        <updated>2023-08-27T11:25:59.000Z</updated>
+        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 25/08/23 By Phillip Bartlett Dividends Divided as Dougan Delivers Ards extend their unbeaten run after...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Match Sponsor - EJ's Cafe]]></title>
         <id>64e99fd9832e8a86b6563e6b</id>
@@ -161,16 +171,6 @@
         <link href="https://www.ardsfc.co.uk/post/jimmy-martin-passes-away"/>
         <updated>2023-08-01T07:22:18.000Z</updated>
         <summary type="html"><![CDATA[Former Ballymena United and Linfield striker Jimmy Martin signed for Ards from Glentoran in November 1979.  He scored a goal after three...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daryl Phillips Gains A License]]></title>
-        <id>64c4c8b2311452f58a4d3466</id>
-        <link href="https://www.ardsfc.co.uk/post/daryl-phillips-gains-a-license"/>
-        <updated>2023-07-29T08:13:05.000Z</updated>
-        <summary type="html"><![CDATA[We are delighted to announce that 1st team coach Daryl Phillips has completed his A License programme. Chairman Warren Patton said "It is...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
