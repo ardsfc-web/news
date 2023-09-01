@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-31T00:50:47.126Z</id>
+    <id>urn:2023-09-01T00:53:49.651Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-31T00:50:47.126Z</updated>
+    <updated>2023-09-01T00:53:49.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -151,16 +151,6 @@
         <link href="https://www.ardsfc.co.uk/post/double-swoop-ahead-of-season-opener"/>
         <updated>2023-08-03T19:11:07.000Z</updated>
         <summary type="html"><![CDATA[Ards Manager Matthew Tipton has added two further signings ahead of Saturday's opening league game. Matthews son George Tipton is a 20...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[23/24 Playr-Fit Launches]]></title>
-        <id>64ca38f9720471fb5e1ac59c</id>
-        <link href="https://www.ardsfc.co.uk/post/23-24-playr-fit-launches"/>
-        <updated>2023-08-02T11:08:51.000Z</updated>
-        <summary type="html"><![CDATA[The new football season is here and we have four huge games this August! Sat 5 - Ards v Newington - Clandeboye - 3pm Fri 11 - Bangor v...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
