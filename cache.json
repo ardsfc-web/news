@@ -26,7 +26,7 @@
           "description": "Our match sponsor on Friday evening was EJ's Cafe on the Montgomery Rd in Belfast and they chose Eamon Scannell as their man of the match...",
           "link": "https://www.ardsfc.co.uk/post/match-sponsor-ej-s-cafe",
           "publishedOn": "2023-08-26T07:08:32.000Z",
-          "wordCount": 11385,
+          "wordCount": 11384,
           "title": "Match Sponsor - EJ's Cafe",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_d891b2df9cf34ef2b344e8054311de8e~mv2.jpg/v1/fit/w_750,h_750,al_c,q_80/file.png",
@@ -131,7 +131,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Annagh United vs Ards F.C BMG Arena. Saturday 19th August at 3.00 p.m. Matthew Tipton should have a full...",
           "link": "https://www.ardsfc.co.uk/post/match-preview-annagh-united-v-ards",
           "publishedOn": "2023-08-17T20:47:34.000Z",
-          "wordCount": 4004,
+          "wordCount": 11696,
           "title": "Match Preview - Annagh United v Ards",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_674d238f65174f7496d905d5ef2aee37~mv2.jpg/v1/fit/w_939,h_447,al_c,q_80/file.png",
@@ -199,36 +199,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://static.wixstatic.com/media/36629e_3491b4ba85544f229894d671b9b8f11a~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
-        },
-        {
-          "id": "64cbfec4e3af4bc1054307b9",
-          "author": "Stuart Dellow",
-          "description": "PLAYR-FIT Teamwear Championship. Ards F.C vs Newington F.C Clandeboye Park. Saturday August 5th at 3.00 p.m. The wait is over, the...",
-          "link": "https://www.ardsfc.co.uk/post/match-preview-ards-v-newington",
-          "publishedOn": "2023-08-03T19:35:19.000Z",
-          "wordCount": 11797,
-          "title": "Match Preview - Ards v Newington",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/36629e_823c5e9396614ed4a483aeb260af142e~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/36629e_823c5e9396614ed4a483aeb260af142e~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
-        },
-        {
-          "id": "64cbf8e9e2553ff2ff063048",
-          "author": "Michael Barritt",
-          "description": "Ards Manager Matthew Tipton has added two further signings ahead of Saturday's opening league game. Matthews son George Tipton is a 20...",
-          "link": "https://www.ardsfc.co.uk/post/double-swoop-ahead-of-season-opener",
-          "publishedOn": "2023-08-03T19:11:07.000Z",
-          "wordCount": 11367,
-          "title": "DOUBLE SWOOP AHEAD OF SEASON OPENER",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/36629e_e4cd57706cb440e695414fd09ec2f192~mv2.webp/v1/fit/w_810,h_539,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/36629e_e4cd57706cb440e695414fd09ec2f192~mv2.webp/v1/fit/w_810,h_539,al_c,q_80/file.png"
         }
       ]
     }
