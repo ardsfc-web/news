@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-06T00:50:42.947Z</id>
+    <id>urn:2023-09-07T00:50:11.165Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-06T00:50:42.947Z</updated>
+    <updated>2023-09-07T00:50:11.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Match Preview Ards v Queens]]></title>
+        <id>64f826fb5bf02a496b704cfd</id>
+        <link href="https://www.ardsfc.co.uk/post/match-preview-ards-v-queens"/>
+        <updated>2023-09-06T07:17:16.000Z</updated>
+        <summary type="html"><![CDATA[ToalsBet.com County Antrim Senior Shield Ards F.C vs Queen's University. Clandeboye Park. Wednesday 6th September at 7.45 p.m. Ards take...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Knockbreda 2 Ards 3 – Match Report]]></title>
         <id>64f7a4f1a95bbb8eef6311e0</id>
