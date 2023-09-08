@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-07T00:50:11.165Z</id>
+    <id>urn:2023-09-08T00:50:25.871Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-07T00:50:11.165Z</updated>
+    <updated>2023-09-08T00:50:25.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sponsor Spotlight]]></title>
+        <id>64fa31476cc4bd82d6c01ebd</id>
+        <link href="https://www.ardsfc.co.uk/post/sponsor-spotlight"/>
+        <updated>2023-09-07T20:25:52.000Z</updated>
+        <summary type="html"><![CDATA[In 1981 Martin Phillips opened his first carpet store in Newtownards, Northern Ireland. At the age of 24, he quickly built a reputation...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ards v Ballyclare - Match Preview]]></title>
+        <id>64fa2c1887a192c04da22538</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-v-ballyclare-match-preview"/>
+        <updated>2023-09-07T20:06:30.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards F.C vs Ballyclare Comrades. Clandeboye Park. Saturday 9th September at 3.00 p.m. After the midweek...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ards Pass Queen's Test]]></title>
+        <id>64f9c6df493baf735efb0dc7</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-pass-queen-s-test"/>
+        <updated>2023-09-07T12:50:12.000Z</updated>
+        <summary type="html"><![CDATA[ARDS 2 V 1 QUEEN'S It was a much changed Ards side that faced the students in this first round County Antrim Senior Shield tie. There...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Match Preview Ards v Queens]]></title>
         <id>64f826fb5bf02a496b704cfd</id>
