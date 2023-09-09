@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-08T00:50:25.871Z</id>
+    <id>urn:2023-09-09T00:49:05.611Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T00:50:25.871Z</updated>
+    <updated>2023-09-09T00:49:05.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -163,16 +163,6 @@
         <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Bangor vs Ards. Clandeboye Park. Friday 11th August at 7.45 p.m. Since Bangor cruised to promotion last...]]></summary>
         <author>
             <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just Married]]></title>
-        <id>64d492711f5bf4261abf8073</id>
-        <link href="https://www.ardsfc.co.uk/post/just-married"/>
-        <updated>2023-08-10T07:36:52.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations from everyone at Ards F.C to Reserve Team coach Matty Shaw and Erin McKee on their recent wedding.]]></summary>
-        <author>
-            <name>Michael Barritt</name>
         </author>
     </entry>
 </feed>
