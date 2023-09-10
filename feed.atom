@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-09T00:49:05.611Z</id>
+    <id>urn:2023-09-10T00:53:35.865Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-09T00:49:05.611Z</updated>
+    <updated>2023-09-10T00:53:35.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ards 2 Ballyclare Comrades 2 – Match Report]]></title>
+        <id>64fcf0de8b6154316eaf9e06</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-2-ballyclare-comrades-2-match-report"/>
+        <updated>2023-09-09T22:35:12.000Z</updated>
+        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 09/09/23 By Phillip Bartlett Comrades Comeback Complete Ards throw it away late on as 10-man Ballyclare...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sponsor Spotlight]]></title>
         <id>64fa31476cc4bd82d6c01ebd</id>
@@ -153,16 +163,6 @@
         <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 11/08/23 By Phillip Bartlett Seagulls flying high after derby day win First competitive North Down derby...]]></summary>
         <author>
             <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Match Preview - Bangor v Ards]]></title>
-        <id>64d50cec3f6c0d93abe44d5e</id>
-        <link href="https://www.ardsfc.co.uk/post/match-preview-bangor-v-ards"/>
-        <updated>2023-08-10T16:16:14.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Bangor vs Ards. Clandeboye Park. Friday 11th August at 7.45 p.m. Since Bangor cruised to promotion last...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
         </author>
     </entry>
 </feed>
