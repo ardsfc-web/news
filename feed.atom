@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-12T00:49:14.816Z</id>
+    <id>urn:2023-09-13T00:52:01.325Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-12T00:49:14.816Z</updated>
+    <updated>2023-09-13T00:52:01.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -153,16 +153,6 @@
         <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Annagh United vs Ards F.C BMG Arena. Saturday 19th August at 3.00 p.m. Matthew Tipton should have a full...]]></summary>
         <author>
             <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bangor 1 Ards 0 – Match Report]]></title>
-        <id>64d8dd84aabf71a67fb9c85a</id>
-        <link href="https://www.ardsfc.co.uk/post/bangor-1-ards-0-match-report"/>
-        <updated>2023-08-13T13:49:38.000Z</updated>
-        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 11/08/23 By Phillip Bartlett Seagulls flying high after derby day win First competitive North Down derby...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
         </author>
     </entry>
 </feed>
