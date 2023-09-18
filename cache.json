@@ -131,7 +131,7 @@
           "description": "Our match sponsor on Friday evening was EJ's Cafe on the Montgomery Rd in Belfast and they chose Eamon Scannell as their man of the match...",
           "link": "https://www.ardsfc.co.uk/post/match-sponsor-ej-s-cafe",
           "publishedOn": "2023-08-26T07:08:32.000Z",
-          "wordCount": 11332,
+          "wordCount": 4015,
           "title": "Match Sponsor - EJ's Cafe",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_d891b2df9cf34ef2b344e8054311de8e~mv2.jpg/v1/fit/w_750,h_750,al_c,q_80/file.png",
@@ -199,21 +199,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://static.wixstatic.com/media/36629e_8873eccbff3846d4b257c9679caa92c0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
-        },
-        {
-          "id": "64dff8ac05c0475c6b16d91d",
-          "author": "Michael Barritt",
-          "description": "The Ards F.C. AGM is scheduled for 8.00 p.m next Thursday 28th September 2023 at The Ards Sports Club . All shareholders are encouraged...",
-          "link": "https://www.ardsfc.co.uk/post/agm-meeting-28th-september-2023",
-          "publishedOn": "2023-08-18T23:07:32.000Z",
-          "wordCount": 11253,
-          "title": "AGM Meeting - 28th September 2023",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/36629e_ff4ee63dd53a4a4e812b436f47d8e70e~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/36629e_ff4ee63dd53a4a4e812b436f47d8e70e~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
         }
       ]
     }
