@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-19T00:51:31.644Z</id>
+    <id>urn:2023-09-20T00:51:13.351Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-19T00:51:31.644Z</updated>
+    <updated>2023-09-20T00:51:13.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -121,16 +121,6 @@
         <link href="https://www.ardsfc.co.uk/post/ni-s-over-60s-international"/>
         <updated>2023-08-21T22:11:37.000Z</updated>
         <summary type="html"><![CDATA[Congratulations to Ards F.C. Commercial Manager Anthony Cafolla, who will be representing Northern Ireland in the Over-60s walking...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Annagh United 0 Ards 0 – Match Report]]></title>
-        <id>64e353fb46571ce403bb5553</id>
-        <link href="https://www.ardsfc.co.uk/post/annagh-united-0-ards-0-match-report"/>
-        <updated>2023-08-21T12:14:59.000Z</updated>
-        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 19/08/23 By Phillip Bartlett Deadlock at the BMG Ards have their first point on the board after a hard...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
