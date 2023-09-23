@@ -6,12 +6,27 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "650d6f787d354ab632c1429e",
+          "author": "Stuart Dellow",
+          "description": "PLAYR-FIT Teamwear Championship. Dundela vs Ards F.C Wilgar Park. Saturday 23rd September at 3.00 p.m. On Saturday Ards make the short...",
+          "link": "https://www.ardsfc.co.uk/post/match-preview-v-dundela",
+          "publishedOn": "2023-09-22T10:44:07.000Z",
+          "wordCount": 4015,
+          "title": "Match Preview v Dundela",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_f4b42094d66b4863afd22408a219b7cf~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_f4b42094d66b4863afd22408a219b7cf~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
+        },
+        {
           "id": "650459d8c33fd4df348593ba",
           "author": "Stuart Dellow",
           "description": "PLAYR-FIT Teamwear Championship. Ards F.C vs Dergview. Clandeboye Park. Saturday 16th September at 3.00 p.m. Had Ards held on to win a...",
           "link": "https://www.ardsfc.co.uk/post/ards-v-dergview-match-preview-1",
           "publishedOn": "2023-09-15T18:04:50.000Z",
-          "wordCount": 11694,
+          "wordCount": 11690,
           "title": "ARDS V DERGVIEW MATCH PREVIEW",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_cac1d501320c4c4dbd3ce2e2b82f8f8e~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -26,7 +41,7 @@
           "description": "NIFL Playr-Fit Championship – 09/09/23 By Phillip Bartlett Comrades Comeback Complete Ards throw it away late on as 10-man Ballyclare...",
           "link": "https://www.ardsfc.co.uk/post/ards-2-ballyclare-comrades-2-match-report",
           "publishedOn": "2023-09-09T22:35:12.000Z",
-          "wordCount": 13675,
+          "wordCount": 13672,
           "title": "Ards 2 Ballyclare Comrades 2 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_8873eccbff3846d4b257c9679caa92c0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -41,7 +56,7 @@
           "description": "In 1981 Martin Phillips opened his first carpet store in Newtownards, Northern Ireland. At the age of 24, he quickly built a reputation...",
           "link": "https://www.ardsfc.co.uk/post/sponsor-spotlight",
           "publishedOn": "2023-09-07T20:25:52.000Z",
-          "wordCount": 11514,
+          "wordCount": 11510,
           "title": "Sponsor Spotlight",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_83f480615b27485e87dee6ccf66448ca~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -86,7 +101,7 @@
           "description": "ToalsBet.com County Antrim Senior Shield Ards F.C vs Queen's University. Clandeboye Park. Wednesday 6th September at 7.45 p.m. Ards take...",
           "link": "https://www.ardsfc.co.uk/post/match-preview-ards-v-queens",
           "publishedOn": "2023-09-06T07:17:16.000Z",
-          "wordCount": 11741,
+          "wordCount": 11740,
           "title": "Match Preview Ards v Queens",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_6b5dbd6ab7a24bbcba6b48d6cea6ad48~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -154,21 +169,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://static.wixstatic.com/media/36629e_02fd3e4103934b4cb253ae8a38bd971b~mv2.jpg/v1/fit/w_500,h_719,al_c,q_80/file.png"
-        },
-        {
-          "id": "64e71fda31af7ba7b9cb5369",
-          "author": "Stuart Dellow",
-          "description": "PLAYR-FIT Teamwear Championship. Ards F.C vs Harland and Wolff Welders. Clandeboye Park. Friday 25th August at 7.45 p.m. Another Friday...",
-          "link": "https://www.ardsfc.co.uk/post/match-preview-ards-v-welders",
-          "publishedOn": "2023-08-24T09:22:52.000Z",
-          "wordCount": 11700,
-          "title": "MATCH PREVIEW - ARDS V WELDERS",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/36629e_fea64861cb294405b92ed33f136025d0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/36629e_fea64861cb294405b92ed33f136025d0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
         }
       ]
     }

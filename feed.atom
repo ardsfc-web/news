@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-22T00:51:17.508Z</id>
+    <id>urn:2023-09-23T00:49:46.494Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-22T00:51:17.508Z</updated>
+    <updated>2023-09-23T00:49:46.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Match Preview v Dundela]]></title>
+        <id>650d6f787d354ab632c1429e</id>
+        <link href="https://www.ardsfc.co.uk/post/match-preview-v-dundela"/>
+        <updated>2023-09-22T10:44:07.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Dundela vs Ards F.C Wilgar Park. Saturday 23rd September at 3.00 p.m. On Saturday Ards make the short...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ARDS V DERGVIEW MATCH PREVIEW]]></title>
         <id>650459d8c33fd4df348593ba</id>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[Friday 25th August 2023 marks the 100th anniversary of Ards Football Clubs first ever senior match, and to mark the occasion editor...]]></summary>
         <author>
             <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATCH PREVIEW - ARDS V WELDERS]]></title>
-        <id>64e71fda31af7ba7b9cb5369</id>
-        <link href="https://www.ardsfc.co.uk/post/match-preview-ards-v-welders"/>
-        <updated>2023-08-24T09:22:52.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards F.C vs Harland and Wolff Welders. Clandeboye Park. Friday 25th August at 7.45 p.m. Another Friday...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
         </author>
     </entry>
 </feed>
