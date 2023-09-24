@@ -6,12 +6,27 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "650f41524e01d1ad1588a955",
+          "author": "Michael Barritt",
+          "description": "NIFL Playr-Fit Championship – 09/09/23 By Phillip Bartlett Ards ‘Dun’ Good Ards on the climb after back-to-back wins for the first time...",
+          "link": "https://www.ardsfc.co.uk/post/dundela-0-ards-1-match-report",
+          "publishedOn": "2023-09-23T19:55:15.000Z",
+          "wordCount": 13457,
+          "title": "Dundela 0 Ards 1 – Match Report",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_8873eccbff3846d4b257c9679caa92c0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_8873eccbff3846d4b257c9679caa92c0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
+        },
+        {
           "id": "650d6f787d354ab632c1429e",
           "author": "Stuart Dellow",
           "description": "PLAYR-FIT Teamwear Championship. Dundela vs Ards F.C Wilgar Park. Saturday 23rd September at 3.00 p.m. On Saturday Ards make the short...",
           "link": "https://www.ardsfc.co.uk/post/match-preview-v-dundela",
           "publishedOn": "2023-09-22T10:44:07.000Z",
-          "wordCount": 4015,
+          "wordCount": 11813,
           "title": "Match Preview v Dundela",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_f4b42094d66b4863afd22408a219b7cf~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -26,7 +41,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Ards F.C vs Dergview. Clandeboye Park. Saturday 16th September at 3.00 p.m. Had Ards held on to win a...",
           "link": "https://www.ardsfc.co.uk/post/ards-v-dergview-match-preview-1",
           "publishedOn": "2023-09-15T18:04:50.000Z",
-          "wordCount": 11690,
+          "wordCount": 11697,
           "title": "ARDS V DERGVIEW MATCH PREVIEW",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_cac1d501320c4c4dbd3ce2e2b82f8f8e~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -41,7 +56,7 @@
           "description": "NIFL Playr-Fit Championship – 09/09/23 By Phillip Bartlett Comrades Comeback Complete Ards throw it away late on as 10-man Ballyclare...",
           "link": "https://www.ardsfc.co.uk/post/ards-2-ballyclare-comrades-2-match-report",
           "publishedOn": "2023-09-09T22:35:12.000Z",
-          "wordCount": 13672,
+          "wordCount": 13679,
           "title": "Ards 2 Ballyclare Comrades 2 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_8873eccbff3846d4b257c9679caa92c0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -71,7 +86,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Ards F.C vs Ballyclare Comrades. Clandeboye Park. Saturday 9th September at 3.00 p.m. After the midweek...",
           "link": "https://www.ardsfc.co.uk/post/ards-v-ballyclare-match-preview",
           "publishedOn": "2023-09-07T20:06:30.000Z",
-          "wordCount": 11620,
+          "wordCount": 11622,
           "title": "Ards v Ballyclare - Match Preview",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_d36a290a0dfa470f82bd339df113cbc5~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -86,7 +101,7 @@
           "description": "ARDS 2 V 1 QUEEN'S It was a much changed Ards side that faced the students in this first round County Antrim Senior Shield tie. There...",
           "link": "https://www.ardsfc.co.uk/post/ards-pass-queen-s-test",
           "publishedOn": "2023-09-07T12:50:12.000Z",
-          "wordCount": 11788,
+          "wordCount": 11789,
           "title": "Ards Pass Queen's Test",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_b1e9dc9f045e4c8fa9d2cb3a32298fd4~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -101,7 +116,7 @@
           "description": "ToalsBet.com County Antrim Senior Shield Ards F.C vs Queen's University. Clandeboye Park. Wednesday 6th September at 7.45 p.m. Ards take...",
           "link": "https://www.ardsfc.co.uk/post/match-preview-ards-v-queens",
           "publishedOn": "2023-09-06T07:17:16.000Z",
-          "wordCount": 11740,
+          "wordCount": 11742,
           "title": "Match Preview Ards v Queens",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_6b5dbd6ab7a24bbcba6b48d6cea6ad48~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -116,7 +131,7 @@
           "description": "NIFL Playr-Fit Championship – 02/09/23 By Phillip Bartlett Ards ‘Steele’ themselves to Victory Ards hold on to take their first 3 points...",
           "link": "https://www.ardsfc.co.uk/post/knockbreda-2-ards-3-match-report",
           "publishedOn": "2023-09-05T22:10:03.000Z",
-          "wordCount": 13248,
+          "wordCount": 13249,
           "title": "Knockbreda 2 Ards 3 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_8873eccbff3846d4b257c9679caa92c0~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -146,7 +161,7 @@
           "description": "Our match sponsor on Friday evening was EJ's Cafe on the Montgomery Rd in Belfast and they chose Eamon Scannell as their man of the match...",
           "link": "https://www.ardsfc.co.uk/post/match-sponsor-ej-s-cafe",
           "publishedOn": "2023-08-26T07:08:32.000Z",
-          "wordCount": 11336,
+          "wordCount": 11337,
           "title": "Match Sponsor - EJ's Cafe",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_d891b2df9cf34ef2b344e8054311de8e~mv2.jpg/v1/fit/w_750,h_750,al_c,q_80/file.png",
@@ -154,21 +169,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://static.wixstatic.com/media/36629e_d891b2df9cf34ef2b344e8054311de8e~mv2.jpg/v1/fit/w_750,h_750,al_c,q_80/file.png"
-        },
-        {
-          "id": "64e7a146b8ed8a9ec4bc0478",
-          "author": "Michael Barritt",
-          "description": "Friday 25th August 2023 marks the 100th anniversary of Ards Football Clubs first ever senior match, and to mark the occasion editor...",
-          "link": "https://www.ardsfc.co.uk/post/100th-anniversary-of-first-senior-game",
-          "publishedOn": "2023-08-24T18:35:31.000Z",
-          "wordCount": 11319,
-          "title": "100th Anniversary of First Senior Game",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/36629e_02fd3e4103934b4cb253ae8a38bd971b~mv2.jpg/v1/fit/w_500,h_719,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/36629e_02fd3e4103934b4cb253ae8a38bd971b~mv2.jpg/v1/fit/w_500,h_719,al_c,q_80/file.png"
         }
       ]
     }

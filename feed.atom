@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-23T00:49:46.494Z</id>
+    <id>urn:2023-09-24T00:53:54.149Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-23T00:49:46.494Z</updated>
+    <updated>2023-09-24T00:53:54.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dundela 0 Ards 1 – Match Report]]></title>
+        <id>650f41524e01d1ad1588a955</id>
+        <link href="https://www.ardsfc.co.uk/post/dundela-0-ards-1-match-report"/>
+        <updated>2023-09-23T19:55:15.000Z</updated>
+        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 09/09/23 By Phillip Bartlett Ards ‘Dun’ Good Ards on the climb after back-to-back wins for the first time...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Match Preview v Dundela]]></title>
         <id>650d6f787d354ab632c1429e</id>
@@ -101,16 +111,6 @@
         <link href="https://www.ardsfc.co.uk/post/match-sponsor-ej-s-cafe"/>
         <updated>2023-08-26T07:08:32.000Z</updated>
         <summary type="html"><![CDATA[Our match sponsor on Friday evening was EJ's Cafe on the Montgomery Rd in Belfast and they chose Eamon Scannell as their man of the match...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100th Anniversary of First Senior Game]]></title>
-        <id>64e7a146b8ed8a9ec4bc0478</id>
-        <link href="https://www.ardsfc.co.uk/post/100th-anniversary-of-first-senior-game"/>
-        <updated>2023-08-24T18:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Friday 25th August 2023 marks the 100th anniversary of Ards Football Clubs first ever senior match, and to mark the occasion editor...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
