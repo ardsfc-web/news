@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-24T00:53:54.149Z</id>
+    <id>urn:2023-09-25T00:51:57.293Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-24T00:53:54.149Z</updated>
+    <updated>2023-09-25T00:51:57.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -101,16 +101,6 @@
         <link href="https://www.ardsfc.co.uk/post/ards-1-h-w-welders-1-match-report"/>
         <updated>2023-08-27T11:25:59.000Z</updated>
         <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 25/08/23 By Phillip Bartlett Dividends Divided as Dougan Delivers Ards extend their unbeaten run after...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Match Sponsor - EJ's Cafe]]></title>
-        <id>64e99fd9832e8a86b6563e6b</id>
-        <link href="https://www.ardsfc.co.uk/post/match-sponsor-ej-s-cafe"/>
-        <updated>2023-08-26T07:08:32.000Z</updated>
-        <summary type="html"><![CDATA[Our match sponsor on Friday evening was EJ's Cafe on the Montgomery Rd in Belfast and they chose Eamon Scannell as their man of the match...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
