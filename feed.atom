@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-29T00:51:41.389Z</id>
+    <id>urn:2023-09-30T00:50:18.960Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-29T00:51:41.389Z</updated>
+    <updated>2023-09-30T00:50:18.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[John Ross &#38; Son]]></title>
+        <id>65169228a6593265402fdb42</id>
+        <link href="https://www.ardsfc.co.uk/post/john-ross-son"/>
+        <updated>2023-09-29T09:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Originally opened in 1931 in Conway Square, followed by 60 years in Frances Street, we have now moved to newly renovated premises at 21...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARDS V PORTADOWN - MATCH PREVIEW]]></title>
+        <id>65169091f82aa81329ec493f</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-v-portadown-match-preview"/>
+        <updated>2023-09-29T08:55:12.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards F.C vs Portadown. Clandeboye Park. Saturday September 30th at 3.00 p.m. Two teams in good form with...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dundela 0 Ards 1 – Match Report]]></title>
         <id>650f41524e01d1ad1588a955</id>
