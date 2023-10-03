@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-02T00:52:12.036Z</id>
+    <id>urn:2023-10-03T00:52:23.294Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-02T00:52:12.036Z</updated>
+    <updated>2023-10-03T00:52:23.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ards 1 Portadown 2 – Match Report]]></title>
+        <id>651b58d805ffeb0df36c511c</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-1-portadown-2-match-report"/>
+        <updated>2023-10-03T00:05:04.000Z</updated>
+        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 30/09/23 By Phillip Bartlett Curries’ Portadown Too Hot for Ards Portadown secure the spoils after a tight...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[John Ross &#38; Son]]></title>
         <id>65169228a6593265402fdb42</id>
