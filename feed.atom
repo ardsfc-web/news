@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-05T00:51:46.726Z</id>
+    <id>urn:2023-10-06T00:51:36.060Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-05T00:51:46.726Z</updated>
+    <updated>2023-10-06T00:51:36.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ballinamallard 1 Ards 5 – Match Report]]></title>
+        <id>651f30c1ecc2be9be0120d30</id>
+        <link href="https://www.ardsfc.co.uk/post/ballinamallard-1-ards-5-match-report"/>
+        <updated>2023-10-05T22:07:21.000Z</updated>
+        <summary type="html"><![CDATA[BetMcLean Cup 1st Round – 03/10/23 By Phillip Bartlett High Five for Ards 'Up West' Ards cruise into the second round after five-star...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARDS F.C and WORTHINGTONS, A GREAT PARTNERSHIP.]]></title>
+        <id>651e68d9687560385b334b4b</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-f-c-and-worthingtons-a-great-partnership"/>
+        <updated>2023-10-05T07:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Ards F.C wish to thank Worthingtons solicitors for their continued support over the last two decades. Worthingtons continue to be the...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dupree Departs]]></title>
         <id>651bf3e3534777504b3fa008</id>
@@ -123,26 +143,6 @@
         <summary type="html"><![CDATA[ARDS 2 V 1 QUEEN'S It was a much changed Ards side that faced the students in this first round County Antrim Senior Shield tie. There...]]></summary>
         <author>
             <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Match Preview Ards v Queens]]></title>
-        <id>64f826fb5bf02a496b704cfd</id>
-        <link href="https://www.ardsfc.co.uk/post/match-preview-ards-v-queens"/>
-        <updated>2023-09-06T07:17:16.000Z</updated>
-        <summary type="html"><![CDATA[ToalsBet.com County Antrim Senior Shield Ards F.C vs Queen's University. Clandeboye Park. Wednesday 6th September at 7.45 p.m. Ards take...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knockbreda 2 Ards 3 – Match Report]]></title>
-        <id>64f7a4f1a95bbb8eef6311e0</id>
-        <link href="https://www.ardsfc.co.uk/post/knockbreda-2-ards-3-match-report"/>
-        <updated>2023-09-05T22:10:03.000Z</updated>
-        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 02/09/23 By Phillip Bartlett Ards ‘Steele’ themselves to Victory Ards hold on to take their first 3 points...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
         </author>
     </entry>
 </feed>
