@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-06T00:51:36.060Z</id>
+    <id>urn:2023-10-07T00:50:59.156Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T00:51:36.060Z</updated>
+    <updated>2023-10-07T00:50:59.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MALLARDS V ARDS PREVIEW]]></title>
+        <id>651fef8899bd69a27729f2d8</id>
+        <link href="https://www.ardsfc.co.uk/post/mallards-v-ards-preview-1"/>
+        <updated>2023-10-06T11:30:37.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ballinamallard vs Ards F.C Ferney Park. Saturday 7th October at 3.00 p.m. Ards travel to play...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ballinamallard 1 Ards 5 – Match Report]]></title>
         <id>651f30c1ecc2be9be0120d30</id>
@@ -131,16 +141,6 @@
         <link href="https://www.ardsfc.co.uk/post/ards-v-ballyclare-match-preview"/>
         <updated>2023-09-07T20:06:30.000Z</updated>
         <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards F.C vs Ballyclare Comrades. Clandeboye Park. Saturday 9th September at 3.00 p.m. After the midweek...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ards Pass Queen's Test]]></title>
-        <id>64f9c6df493baf735efb0dc7</id>
-        <link href="https://www.ardsfc.co.uk/post/ards-pass-queen-s-test"/>
-        <updated>2023-09-07T12:50:12.000Z</updated>
-        <summary type="html"><![CDATA[ARDS 2 V 1 QUEEN'S It was a much changed Ards side that faced the students in this first round County Antrim Senior Shield tie. There...]]></summary>
         <author>
             <name>Stuart Dellow</name>
         </author>
