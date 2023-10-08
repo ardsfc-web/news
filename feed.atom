@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-07T00:50:59.156Z</id>
+    <id>urn:2023-10-08T00:55:09.866Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T00:50:59.156Z</updated>
+    <updated>2023-10-08T00:55:09.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -123,26 +123,6 @@
         <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 09/09/23 By Phillip Bartlett Comrades Comeback Complete Ards throw it away late on as 10-man Ballyclare...]]></summary>
         <author>
             <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sponsor Spotlight]]></title>
-        <id>64fa31476cc4bd82d6c01ebd</id>
-        <link href="https://www.ardsfc.co.uk/post/sponsor-spotlight"/>
-        <updated>2023-09-07T20:25:52.000Z</updated>
-        <summary type="html"><![CDATA[In 1981 Martin Phillips opened his first carpet store in Newtownards, Northern Ireland. At the age of 24, he quickly built a reputation...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ards v Ballyclare - Match Preview]]></title>
-        <id>64fa2c1887a192c04da22538</id>
-        <link href="https://www.ardsfc.co.uk/post/ards-v-ballyclare-match-preview"/>
-        <updated>2023-09-07T20:06:30.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards F.C vs Ballyclare Comrades. Clandeboye Park. Saturday 9th September at 3.00 p.m. After the midweek...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
         </author>
     </entry>
 </feed>
