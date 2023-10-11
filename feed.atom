@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-10T00:51:16.509Z</id>
+    <id>urn:2023-10-11T00:51:32.568Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-10T00:51:16.509Z</updated>
+    <updated>2023-10-11T00:51:32.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Match Preview - Ards v Glentoran]]></title>
+        <id>65254b390e5279d7a0ca3b3e</id>
+        <link href="https://www.ardsfc.co.uk/post/match-preview-ards-v-glentoran"/>
+        <updated>2023-10-10T13:48:06.000Z</updated>
+        <summary type="html"><![CDATA[ToalsBet.com County Antrim Shield. Ards F.C vs Glentoran. Clandeboye Park. Tuesday 10th October at 7.45 p.m. Ards welcome Glentoran in...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MALLARDS V ARDS PREVIEW]]></title>
         <id>651fef8899bd69a27729f2d8</id>
