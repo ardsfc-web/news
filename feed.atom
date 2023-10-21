@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-20T00:51:42.995Z</id>
+    <id>urn:2023-10-21T00:50:29.454Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-20T00:51:42.995Z</updated>
+    <updated>2023-10-21T00:50:29.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Match Preview - Ards V Annagh]]></title>
+        <id>65326bfc3fb4107c8106c84c</id>
+        <link href="https://www.ardsfc.co.uk/post/match-preview-ards-v-annagh"/>
+        <updated>2023-10-20T12:02:26.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards F.C vs Annagh United. Clandeboye Park. Saturday 21st October at 3.00 p.m. Ards take on Annagh...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Match Preview - Ards v Glentoran]]></title>
         <id>65254b390e5279d7a0ca3b3e</id>
