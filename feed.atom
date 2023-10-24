@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-23T00:52:07.503Z</id>
+    <id>urn:2023-10-24T00:51:42.815Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-23T00:52:07.503Z</updated>
+    <updated>2023-10-24T00:51:42.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Featured Match Sponsor - Peter Rogers]]></title>
+        <id>65366ff77ffdb76262655ed4</id>
+        <link href="https://www.ardsfc.co.uk/post/featured-match-sponsor-peter-rogers"/>
+        <updated>2023-10-23T13:08:09.000Z</updated>
+        <summary type="html"><![CDATA[Peter Rogers Estate Agents have set out to simplify the process of moving house by taking the stress and hassle out of your move as much...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KYLE CALDERWOOD FUNDRAISER]]></title>
         <id>6533b02d0f63c723698867cb</id>
@@ -113,16 +123,6 @@
         <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards F.C vs Portadown. Clandeboye Park. Saturday September 30th at 3.00 p.m. Two teams in good form with...]]></summary>
         <author>
             <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dundela 0 Ards 1 – Match Report]]></title>
-        <id>650f41524e01d1ad1588a955</id>
-        <link href="https://www.ardsfc.co.uk/post/dundela-0-ards-1-match-report"/>
-        <updated>2023-09-23T19:55:15.000Z</updated>
-        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 09/09/23 By Phillip Bartlett Ards ‘Dun’ Good Ards on the climb after back-to-back wins for the first time...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
         </author>
     </entry>
 </feed>
