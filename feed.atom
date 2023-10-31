@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-30T00:52:21.620Z</id>
+    <id>urn:2023-10-31T00:52:27.254Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-30T00:52:21.620Z</updated>
+    <updated>2023-10-31T00:52:27.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ballyclare away rescheduled]]></title>
+        <id>653fc60371d5e5d6c3161613</id>
+        <link href="https://www.ardsfc.co.uk/post/ballyclare-away-rescheduled"/>
+        <updated>2023-10-30T15:04:55.000Z</updated>
+        <summary type="html"><![CDATA[Due to work commencing on Ballyclare's pitch to change it to 3G at the start of Jan 2024, they will not be able to play any home games...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ballyclare v Ards Match Preview]]></title>
         <id>653b759128346d7108d76744</id>
