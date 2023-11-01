@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-31T00:52:27.254Z</id>
+    <id>urn:2023-11-01T00:55:18.750Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-31T00:52:27.254Z</updated>
+    <updated>2023-11-01T00:55:18.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Former Goalkeeper Sam Kydd Passes Away]]></title>
+        <id>6541594cc03e475b892b89f1</id>
+        <link href="https://www.ardsfc.co.uk/post/former-goalkeeper-sam-kydd-passes-away"/>
+        <updated>2023-10-31T19:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Ards former goalkeeper Sam Kydd passed away on the 30th October. Sam signed for Ards in 1962 from Portadown and made his debut against...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jallow Departs]]></title>
+        <id>6540ef5c6c7b12bc437a54d7</id>
+        <link href="https://www.ardsfc.co.uk/post/jallow-departs"/>
+        <updated>2023-10-31T12:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Salou Jallow has stepped away from the club ahead of his move to Australia. Salou joined Ards in 2020 and went on to play 88 games and...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ballyclare away rescheduled]]></title>
         <id>653fc60371d5e5d6c3161613</id>
