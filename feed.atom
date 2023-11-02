@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-01T00:55:18.750Z</id>
+    <id>urn:2023-11-02T00:51:57.375Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-01T00:55:18.750Z</updated>
+    <updated>2023-11-02T00:51:57.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -111,36 +111,6 @@
         <link href="https://www.ardsfc.co.uk/post/ards-f-c-and-worthingtons-a-great-partnership"/>
         <updated>2023-10-05T07:43:00.000Z</updated>
         <summary type="html"><![CDATA[Ards F.C wish to thank Worthingtons solicitors for their continued support over the last two decades. Worthingtons continue to be the...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dupree Departs]]></title>
-        <id>651bf3e3534777504b3fa008</id>
-        <link href="https://www.ardsfc.co.uk/post/dupree-departs"/>
-        <updated>2023-10-03T10:59:44.000Z</updated>
-        <summary type="html"><![CDATA[Ards FC have announced that Jamal Dupree has parted company with the club after a short spell. We thank Jamal for his stay and wish him...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATCH PREVIEW V MALLARDS]]></title>
-        <id>651bec8a8230588a0ac63a0f</id>
-        <link href="https://www.ardsfc.co.uk/post/match-preview-v-mallards-1"/>
-        <updated>2023-10-03T10:27:48.000Z</updated>
-        <summary type="html"><![CDATA[Bet McLean Cup. Ballinamallard vs Ards F.C Ferney Park. Tuesday 3rd October at 7.45 p.m. Die-hard Ards fans will remember two trips to...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ards 1 Portadown 2 – Match Report]]></title>
-        <id>651b58d805ffeb0df36c511c</id>
-        <link href="https://www.ardsfc.co.uk/post/ards-1-portadown-2-match-report"/>
-        <updated>2023-10-03T00:05:04.000Z</updated>
-        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 30/09/23 By Phillip Bartlett Curries’ Portadown Too Hot for Ards Portadown secure the spoils after a tight...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
