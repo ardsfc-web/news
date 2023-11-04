@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-03T00:52:19.183Z</id>
+    <id>urn:2023-11-04T00:51:41.413Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-03T00:52:19.184Z</updated>
+    <updated>2023-11-04T00:51:41.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dergview v Ards - Match Preview]]></title>
+        <id>6544d429d39b0ce8829d37b3</id>
+        <link href="https://www.ardsfc.co.uk/post/dergview-v-ards-match-preview-2"/>
+        <updated>2023-11-03T11:07:36.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Dergview vs Ards F.C Darragh Park. Saturday November 4th at 3.00 p.m. Ards face a long trek to...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Former Goalkeeper Sam Kydd Passes Away]]></title>
         <id>6541594cc03e475b892b89f1</id>
@@ -101,16 +111,6 @@
         <link href="https://www.ardsfc.co.uk/post/ballinamallard-1-ards-5-match-report"/>
         <updated>2023-10-05T22:07:21.000Z</updated>
         <summary type="html"><![CDATA[BetMcLean Cup 1st Round – 03/10/23 By Phillip Bartlett High Five for Ards 'Up West' Ards cruise into the second round after five-star...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARDS F.C and WORTHINGTONS, A GREAT PARTNERSHIP.]]></title>
-        <id>651e68d9687560385b334b4b</id>
-        <link href="https://www.ardsfc.co.uk/post/ards-f-c-and-worthingtons-a-great-partnership"/>
-        <updated>2023-10-05T07:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Ards F.C wish to thank Worthingtons solicitors for their continued support over the last two decades. Worthingtons continue to be the...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
