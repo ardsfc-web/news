@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-04T00:51:41.413Z</id>
+    <id>urn:2023-11-05T00:56:05.524Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T00:51:41.413Z</updated>
+    <updated>2023-11-05T00:56:05.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,26 +91,6 @@
         <link href="https://www.ardsfc.co.uk/post/match-preview-ards-v-glentoran"/>
         <updated>2023-10-10T13:48:06.000Z</updated>
         <summary type="html"><![CDATA[ToalsBet.com County Antrim Shield. Ards F.C vs Glentoran. Clandeboye Park. Tuesday 10th October at 7.45 p.m. Ards welcome Glentoran in...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MALLARDS V ARDS PREVIEW]]></title>
-        <id>651fef8899bd69a27729f2d8</id>
-        <link href="https://www.ardsfc.co.uk/post/mallards-v-ards-preview-1"/>
-        <updated>2023-10-06T11:30:37.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ballinamallard vs Ards F.C Ferney Park. Saturday 7th October at 3.00 p.m. Ards travel to play...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballinamallard 1 Ards 5 – Match Report]]></title>
-        <id>651f30c1ecc2be9be0120d30</id>
-        <link href="https://www.ardsfc.co.uk/post/ballinamallard-1-ards-5-match-report"/>
-        <updated>2023-10-05T22:07:21.000Z</updated>
-        <summary type="html"><![CDATA[BetMcLean Cup 1st Round – 03/10/23 By Phillip Bartlett High Five for Ards 'Up West' Ards cruise into the second round after five-star...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
