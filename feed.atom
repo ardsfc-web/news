@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-06T00:53:45.815Z</id>
+    <id>urn:2023-11-07T00:53:13.134Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-06T00:53:45.815Z</updated>
+    <updated>2023-11-07T00:53:13.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ards v Larne Preview]]></title>
+        <id>6548da86f291d74694a2cb4e</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-v-larne-preview"/>
+        <updated>2023-11-06T12:23:41.000Z</updated>
+        <summary type="html"><![CDATA[BetMcLean League Cup. Ards F.C vs Larne. Clandeboye Park. Tuesday November 7th at 7.45 p.m. Ards take on the current Premiership...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dergview 0 Ards 3 – Match Report]]></title>
         <id>6547ba0f7430030dbcb481a1</id>
