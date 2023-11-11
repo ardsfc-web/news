@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-10T00:52:43.802Z</id>
+    <id>urn:2023-11-11T00:51:58.410Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-10T00:52:43.802Z</updated>
+    <updated>2023-11-11T00:51:58.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arthur Keeley Remembered]]></title>
+        <id>654e91d9c7c8f73344092204</id>
+        <link href="https://www.ardsfc.co.uk/post/arthur-keeley-remembered"/>
+        <updated>2023-11-10T20:27:11.000Z</updated>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ards v Knockbreda Preview]]></title>
+        <id>654e6873e8ca7bfc74be9b67</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-v-knockbreda-preview-1"/>
+        <updated>2023-11-10T17:29:49.000Z</updated>
+        <summary type="html"><![CDATA[Ards vs Knockbreda. Clandeboye Road. Saturday November 11th at 3.00 p.m. Hopefully fully recovered from their herculean efforts against...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ards v Larne Preview]]></title>
         <id>6548da86f291d74694a2cb4e</id>
