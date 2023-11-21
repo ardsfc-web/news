@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-20T00:55:18.707Z</id>
+    <id>urn:2023-11-21T00:55:38.814Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T00:55:18.707Z</updated>
+    <updated>2023-11-21T00:55:38.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Miskelly Leaves Ards]]></title>
+        <id>655b536dba0dccdbd267ce97</id>
+        <link href="https://www.ardsfc.co.uk/post/miskelly-leaves-ards"/>
+        <updated>2023-11-20T12:40:16.000Z</updated>
+        <summary type="html"><![CDATA[Assistant Manager David Miskelly has left his role at Ards FC Chairman Warren Patton said " I would like to personally thank David for...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[H&#38;W Welders 0 Ards 3 – Match Report]]></title>
         <id>655a3795e81e366d1d4a0497</id>
