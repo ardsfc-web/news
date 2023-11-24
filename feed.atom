@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-23T00:54:22.212Z</id>
+    <id>urn:2023-11-24T00:53:17.332Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T00:54:22.212Z</updated>
+    <updated>2023-11-24T00:53:17.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Match Preview v Dundela]]></title>
+        <id>655f3dbc78d730f3d0a7e6cf</id>
+        <link href="https://www.ardsfc.co.uk/post/match-preview-v-dundela-1"/>
+        <updated>2023-11-23T11:56:14.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards vs Dundela. Clandeboye Park. Saturday 25th November at 3.00 p.m. Another big test for Ards as they...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Miskelly Leaves Ards]]></title>
         <id>655b536dba0dccdbd267ce97</id>

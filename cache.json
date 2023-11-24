@@ -6,12 +6,27 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "655f3dbc78d730f3d0a7e6cf",
+          "author": "Stuart Dellow",
+          "description": "PLAYR-FIT Teamwear Championship. Ards vs Dundela. Clandeboye Park. Saturday 25th November at 3.00 p.m. Another big test for Ards as they...",
+          "link": "https://www.ardsfc.co.uk/post/match-preview-v-dundela-1",
+          "publishedOn": "2023-11-23T11:56:14.000Z",
+          "wordCount": 11626,
+          "title": "Match Preview v Dundela",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_8ae94bff29974f46b0ba5c6c4a33225d~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_8ae94bff29974f46b0ba5c6c4a33225d~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
+        },
+        {
           "id": "655b536dba0dccdbd267ce97",
           "author": "Michael Barritt",
           "description": "Assistant Manager David Miskelly has left his role at Ards FC Chairman Warren Patton said \" I would like to personally thank David for...",
           "link": "https://www.ardsfc.co.uk/post/miskelly-leaves-ards",
           "publishedOn": "2023-11-20T12:40:16.000Z",
-          "wordCount": 11253,
+          "wordCount": 11225,
           "title": "Miskelly Leaves Ards",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_1aeca8c23f8642bfbd759e4ec47d9729~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
@@ -26,7 +41,7 @@
           "description": "NIFL Playr-Fit Championship – 08/11/23 By Phillip Bartlett Dougan on the Spot as Ards Triumph Riveting first half propels Ards to victory...",
           "link": "https://www.ardsfc.co.uk/post/h-w-welders-0-ards-3-match-report",
           "publishedOn": "2023-11-19T16:32:48.000Z",
-          "wordCount": 13791,
+          "wordCount": 13763,
           "title": "H&#38;W Welders 0 Ards 3 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/a74100_94415bbad5ef41239112976a576cb7b8~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -41,7 +56,7 @@
           "description": "",
           "link": "https://www.ardsfc.co.uk/post/arthur-keeley-remembered",
           "publishedOn": "2023-11-10T20:27:11.000Z",
-          "wordCount": 11253,
+          "wordCount": 11225,
           "title": "Arthur Keeley Remembered",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_0975a80c939e464585388fc18ef6f365~mv2.jpg/v1/fit/w_1000,h_891,al_c,q_80/file.png",
@@ -56,7 +71,7 @@
           "description": "Ards vs Knockbreda. Clandeboye Road. Saturday November 11th at 3.00 p.m. Hopefully fully recovered from their herculean efforts against...",
           "link": "https://www.ardsfc.co.uk/post/ards-v-knockbreda-preview-1",
           "publishedOn": "2023-11-10T17:29:49.000Z",
-          "wordCount": 11619,
+          "wordCount": 11622,
           "title": "Ards v Knockbreda Preview",
           "imageUrl": null
         },
@@ -66,7 +81,7 @@
           "description": "BetMcLean League Cup. Ards F.C vs Larne. Clandeboye Park. Tuesday November 7th at 7.45 p.m. Ards take on the current Premiership...",
           "link": "https://www.ardsfc.co.uk/post/ards-v-larne-preview",
           "publishedOn": "2023-11-06T12:23:41.000Z",
-          "wordCount": 11606,
+          "wordCount": 11609,
           "title": "Ards v Larne Preview",
           "imageUrl": null
         },
@@ -76,7 +91,7 @@
           "description": "NIFL Playr-Fit Championship – 04/11/23 By Phillip Bartlett Ards Show Their Steele Battling spirit on display during determined victory...",
           "link": "https://www.ardsfc.co.uk/post/dergview-0-ards-3-match-report",
           "publishedOn": "2023-11-05T15:58:47.000Z",
-          "wordCount": 13162,
+          "wordCount": 13165,
           "title": "Dergview 0 Ards 3 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/a74100_94415bbad5ef41239112976a576cb7b8~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -91,7 +106,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Dergview vs Ards F.C Darragh Park. Saturday November 4th at 3.00 p.m. Ards face a long trek to...",
           "link": "https://www.ardsfc.co.uk/post/dergview-v-ards-match-preview-2",
           "publishedOn": "2023-11-03T11:07:36.000Z",
-          "wordCount": 11642,
+          "wordCount": 11645,
           "title": "Dergview v Ards - Match Preview",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_201641c61ab248ad9921b3f04511dc1e~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -106,7 +121,7 @@
           "description": "Ards former goalkeeper Sam Kydd passed away on the 30th October. Sam signed for Ards in 1962 from Portadown and made his debut against...",
           "link": "https://www.ardsfc.co.uk/post/former-goalkeeper-sam-kydd-passes-away",
           "publishedOn": "2023-10-31T19:50:25.000Z",
-          "wordCount": 11252,
+          "wordCount": 11255,
           "title": "Former Goalkeeper Sam Kydd Passes Away",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_1d9e4e365efd427ea1dafeea3adfa72b~mv2.png/v1/fit/w_323,h_327,al_c,q_80/file.png",
@@ -121,7 +136,7 @@
           "description": "Salou Jallow has stepped away from the club ahead of his move to Australia. Salou joined Ards in 2020 and went on to play 88 games and...",
           "link": "https://www.ardsfc.co.uk/post/jallow-departs",
           "publishedOn": "2023-10-31T12:15:01.000Z",
-          "wordCount": 11247,
+          "wordCount": 11250,
           "title": "Jallow Departs",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_08dc2f20591346b29bb70554e0b42672~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
@@ -136,7 +151,7 @@
           "description": "Due to work commencing on Ballyclare's pitch to change it to 3G at the start of Jan 2024, they will not be able to play any home games...",
           "link": "https://www.ardsfc.co.uk/post/ballyclare-away-rescheduled",
           "publishedOn": "2023-10-30T15:04:55.000Z",
-          "wordCount": 11180,
+          "wordCount": 11183,
           "title": "Ballyclare away rescheduled",
           "imageUrl": null
         },
@@ -146,7 +161,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Ballyclare Comrades vs Ards. Dixon Park. Saturday 28th October at 3.00 p.m. It doesn't get any easier...",
           "link": "https://www.ardsfc.co.uk/post/ballyclare-v-ards-match-preview-1",
           "publishedOn": "2023-10-27T08:32:53.000Z",
-          "wordCount": 11614,
+          "wordCount": 11617,
           "title": "Ballyclare v Ards Match Preview",
           "imageUrl": null
         }
