@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-25T00:52:21.141Z</id>
+    <id>urn:2023-11-26T00:57:35.683Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-25T00:52:21.142Z</updated>
+    <updated>2023-11-26T00:57:35.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -112,16 +112,6 @@
         <summary type="html"><![CDATA[Due to work commencing on Ballyclare's pitch to change it to 3G at the start of Jan 2024, they will not be able to play any home games...]]></summary>
         <author>
             <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballyclare v Ards Match Preview]]></title>
-        <id>653b759128346d7108d76744</id>
-        <link href="https://www.ardsfc.co.uk/post/ballyclare-v-ards-match-preview-1"/>
-        <updated>2023-10-27T08:32:53.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ballyclare Comrades vs Ards. Dixon Park. Saturday 28th October at 3.00 p.m. It doesn't get any easier...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
         </author>
     </entry>
 </feed>
