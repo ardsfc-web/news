@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-30T00:54:39.274Z</id>
+    <id>urn:2023-12-01T00:59:23.423Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-30T00:54:39.274Z</updated>
+    <updated>2023-12-01T00:59:23.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -102,16 +102,6 @@
         <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Dergview vs Ards F.C Darragh Park. Saturday November 4th at 3.00 p.m. Ards face a long trek to...]]></summary>
         <author>
             <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Goalkeeper Sam Kydd Passes Away]]></title>
-        <id>6541594cc03e475b892b89f1</id>
-        <link href="https://www.ardsfc.co.uk/post/former-goalkeeper-sam-kydd-passes-away"/>
-        <updated>2023-10-31T19:50:25.000Z</updated>
-        <summary type="html"><![CDATA[Ards former goalkeeper Sam Kydd passed away on the 30th October. Sam signed for Ards in 1962 from Portadown and made his debut against...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
         </author>
     </entry>
 </feed>
