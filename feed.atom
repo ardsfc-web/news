@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-02T00:53:25.484Z</id>
+    <id>urn:2023-12-03T00:57:46.570Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-02T00:53:25.484Z</updated>
+    <updated>2023-12-03T00:57:46.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Newington 4 Ards 1 – Match Report]]></title>
+        <id>656b9cd947bbc982ed543419</id>
+        <link href="https://www.ardsfc.co.uk/post/newington-4-ards-1-match-report"/>
+        <updated>2023-12-02T21:15:03.000Z</updated>
+        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 02/12/23 By Phillip Bartlett Poor Ards ‘Barr’-en Run Continues Ards revival well and truly derailed at...]]></summary>
+        <author>
+            <name>philt2cs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Match Preview vs Ballyclare]]></title>
         <id>656600abc5b8c438c9565ba0</id>
@@ -92,16 +102,6 @@
         <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 04/11/23 By Phillip Bartlett Ards Show Their Steele Battling spirit on display during determined victory...]]></summary>
         <author>
             <name>philt2cs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dergview v Ards - Match Preview]]></title>
-        <id>6544d429d39b0ce8829d37b3</id>
-        <link href="https://www.ardsfc.co.uk/post/dergview-v-ards-match-preview-2"/>
-        <updated>2023-11-03T11:07:36.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Dergview vs Ards F.C Darragh Park. Saturday November 4th at 3.00 p.m. Ards face a long trek to...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
         </author>
     </entry>
 </feed>
