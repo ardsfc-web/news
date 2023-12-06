@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-05T00:55:36.982Z</id>
+    <id>urn:2023-12-06T00:55:29.382Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-05T00:55:36.982Z</updated>
+    <updated>2023-12-06T00:55:29.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -82,26 +82,6 @@
         <summary type="html"><![CDATA[Ards vs Knockbreda. Clandeboye Road. Saturday November 11th at 3.00 p.m. Hopefully fully recovered from their herculean efforts against...]]></summary>
         <author>
             <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ards v Larne Preview]]></title>
-        <id>6548da86f291d74694a2cb4e</id>
-        <link href="https://www.ardsfc.co.uk/post/ards-v-larne-preview"/>
-        <updated>2023-11-06T12:23:41.000Z</updated>
-        <summary type="html"><![CDATA[BetMcLean League Cup. Ards F.C vs Larne. Clandeboye Park. Tuesday November 7th at 7.45 p.m. Ards take on the current Premiership...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dergview 0 Ards 3 – Match Report]]></title>
-        <id>6547ba0f7430030dbcb481a1</id>
-        <link href="https://www.ardsfc.co.uk/post/dergview-0-ards-3-match-report"/>
-        <updated>2023-11-05T15:58:47.000Z</updated>
-        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 04/11/23 By Phillip Bartlett Ards Show Their Steele Battling spirit on display during determined victory...]]></summary>
-        <author>
-            <name>philt2cs</name>
         </author>
     </entry>
 </feed>
