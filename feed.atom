@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-07T00:55:38.336Z</id>
+    <id>urn:2023-12-08T00:55:23.461Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-07T00:55:38.336Z</updated>
+    <updated>2023-12-08T00:55:23.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ards v Ballinamallard Preview]]></title>
+        <id>6571f2c9aeb384a69161a727</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-v-ballinamallard-preview"/>
+        <updated>2023-12-07T16:30:40.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards vs Ballinamallard. Clandeboye Park. Saturday 9th December at 3.00 p.m. Tommy Canning who stepped...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newington 4 Ards 1 – Match Report]]></title>
         <id>656b9cd947bbc982ed543419</id>
