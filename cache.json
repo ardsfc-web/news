@@ -26,7 +26,7 @@
           "description": "NIFL Playr-Fit Championship – 02/12/23 By Phillip Bartlett Poor Ards ‘Barr’-en Run Continues Ards revival well and truly derailed at...",
           "link": "https://www.ardsfc.co.uk/post/newington-4-ards-1-match-report",
           "publishedOn": "2023-12-02T21:15:03.000Z",
-          "wordCount": 13269,
+          "wordCount": 13267,
           "title": "Newington 4 Ards 1 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/a74100_ffbe4751bdaa46d78e0e61c102e5015b~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -41,7 +41,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Ballyclare Comrades vs Ards. Dixon Park. Tuesday 28th November at 7.45 p.m. This fixture was originally...",
           "link": "https://www.ardsfc.co.uk/post/match-preview-vs-ballyclare-1",
           "publishedOn": "2023-11-28T15:03:49.000Z",
-          "wordCount": 11224,
+          "wordCount": 11222,
           "title": "Match Preview vs Ballyclare",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_c267b7b667b040a2a65d7f3408db6e33~mv2.png/v1/fit/w_733,h_787,al_c,q_80/file.png",
@@ -109,31 +109,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://static.wixstatic.com/media/a74100_94415bbad5ef41239112976a576cb7b8~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png"
-        },
-        {
-          "id": "654e91d9c7c8f73344092204",
-          "author": "Michael Barritt",
-          "description": "",
-          "link": "https://www.ardsfc.co.uk/post/arthur-keeley-remembered",
-          "publishedOn": "2023-11-10T20:27:11.000Z",
-          "wordCount": 10796,
-          "title": "Arthur Keeley Remembered",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/36629e_0975a80c939e464585388fc18ef6f365~mv2.jpg/v1/fit/w_1000,h_891,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/36629e_0975a80c939e464585388fc18ef6f365~mv2.jpg/v1/fit/w_1000,h_891,al_c,q_80/file.png"
-        },
-        {
-          "id": "654e6873e8ca7bfc74be9b67",
-          "author": "Stuart Dellow",
-          "description": "Ards vs Knockbreda. Clandeboye Road. Saturday November 11th at 3.00 p.m. Hopefully fully recovered from their herculean efforts against...",
-          "link": "https://www.ardsfc.co.uk/post/ards-v-knockbreda-preview-1",
-          "publishedOn": "2023-11-10T17:29:49.000Z",
-          "wordCount": 11193,
-          "title": "Ards v Knockbreda Preview",
-          "imageUrl": null
         }
       ]
     }
