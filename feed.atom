@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-15T00:55:47.809Z</id>
+    <id>urn:2023-12-16T00:54:06.688Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-15T00:55:47.809Z</updated>
+    <updated>2023-12-16T00:54:06.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Match Preview v Portadown]]></title>
+        <id>657cb0258b4a43b7765d61b6</id>
+        <link href="https://www.ardsfc.co.uk/post/match-preview-v-portadown"/>
+        <updated>2023-12-15T20:00:58.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Portadown vs Ards. Shamrock Park. Saturday 16th December. Difficult December continues for Ards as in...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ards v Ballinamallard Preview]]></title>
         <id>6571f2c9aeb384a69161a727</id>
