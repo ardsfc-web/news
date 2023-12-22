@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-21T00:53:56.445Z</id>
+    <id>urn:2023-12-22T00:53:42.308Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-21T00:53:56.445Z</updated>
+    <updated>2023-12-22T00:53:42.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[INSTITUTE V ARDS PREVIEW]]></title>
+        <id>65841ebc39b5d22cb860833a</id>
+        <link href="https://www.ardsfc.co.uk/post/institute-v-ards-preview-1"/>
+        <updated>2023-12-21T11:18:09.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Institute vs Ards. Brandywell Stadium. Friday December 22nd at 7.45 p.m. Ards face a long trek to play...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Match Preview v Portadown]]></title>
         <id>657cb0258b4a43b7765d61b6</id>
