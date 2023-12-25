@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-24T00:57:26.847Z</id>
+    <id>urn:2023-12-25T00:55:05.429Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-24T00:57:26.847Z</updated>
+    <updated>2023-12-25T00:55:05.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[North Down Derby Preview]]></title>
+        <id>658892d75eded0130a63d1ec</id>
+        <link href="https://www.ardsfc.co.uk/post/north-down-derby-preview"/>
+        <updated>2023-12-24T20:23:44.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Championship. Ards vs Bangor. Clandeboye Park. Tuesday December 26th at 3.00 p.m. A big derby game and a big holiday crowd...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Institute 3 Ards 2 – Match Report]]></title>
+        <id>658885a2b05dad6b8a9f30e4</id>
+        <link href="https://www.ardsfc.co.uk/post/institute-3-ards-2-match-report"/>
+        <updated>2023-12-24T19:35:42.000Z</updated>
+        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 22/12/23 By Phillip Bartlett Festive Fury as ‘Stute Steal Late Win Institute pile further pressure on the...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSTITUTE V ARDS PREVIEW]]></title>
         <id>65841ebc39b5d22cb860833a</id>
