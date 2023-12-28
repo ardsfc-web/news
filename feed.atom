@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-27T00:52:47.353Z</id>
+    <id>urn:2023-12-28T00:52:40.706Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-27T00:52:47.353Z</updated>
+    <updated>2023-12-28T00:52:40.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ards 2 Bangor 2 – Match Report]]></title>
+        <id>658c6ee7f4fd5db60128d171</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-2-bangor-2-match-report"/>
+        <updated>2023-12-27T18:46:16.000Z</updated>
+        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 26/12/23 By Phillip Bartlett Hunter Swoops to Ground Seagulls Honours even following boxing day’s most...]]></summary>
+        <author>
+            <name>philt2cs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Down Derby Preview]]></title>
         <id>658892d75eded0130a63d1ec</id>
