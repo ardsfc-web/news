@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-28T00:52:40.706Z</id>
+    <id>urn:2023-12-29T00:43:21.904Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-28T00:52:40.706Z</updated>
+    <updated>2023-12-29T00:43:21.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -73,16 +73,6 @@
         <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 02/12/23 By Phillip Bartlett Poor Ards ‘Barr’-en Run Continues Ards revival well and truly derailed at...]]></summary>
         <author>
             <name>philt2cs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Match Preview vs Ballyclare]]></title>
-        <id>656600abc5b8c438c9565ba0</id>
-        <link href="https://www.ardsfc.co.uk/post/match-preview-vs-ballyclare-1"/>
-        <updated>2023-11-28T15:03:49.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ballyclare Comrades vs Ards. Dixon Park. Tuesday 28th November at 7.45 p.m. This fixture was originally...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
         </author>
     </entry>
 </feed>
