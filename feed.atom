@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-29T00:43:21.904Z</id>
+    <id>urn:2023-12-30T00:52:30.018Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T00:43:21.904Z</updated>
+    <updated>2023-12-30T00:52:30.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dundela v Ards Match Preview]]></title>
+        <id>658eca0d82724a7e696029b3</id>
+        <link href="https://www.ardsfc.co.uk/post/dundela-v-ards-match-preview-1"/>
+        <updated>2023-12-29T13:31:27.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Dundela vs Ards. Wilgar Park. Saturday 30th December at 3.00 p.m. Ards make the short trip to Wilgar...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ards 2 Bangor 2 – Match Report]]></title>
         <id>658c6ee7f4fd5db60128d171</id>
