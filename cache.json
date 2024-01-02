@@ -6,12 +6,22 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "6592d27f3a4fa2c4e1aaf234",
+          "author": "Michael Barritt",
+          "description": "Ards Football Club invites expressions of interest for the position of first team manager. The candidate must hold a valid UEFA A...",
+          "link": "https://www.ardsfc.co.uk/post/1st-team-manager-applications-open",
+          "publishedOn": "2024-01-01T14:56:53.000Z",
+          "wordCount": 11083,
+          "title": "1st Team Manager Applications Open",
+          "imageUrl": null
+        },
+        {
           "id": "65919f3e85530767004b1725",
           "author": "Michael Barritt",
           "description": "Ards Football Club has parted company with first team manager Matthew Tipton. The former Warrenpoint Town and Portadown boss was...",
           "link": "https://www.ardsfc.co.uk/post/ards-part-ways-with-tipton",
           "publishedOn": "2023-12-31T17:05:45.000Z",
-          "wordCount": 11064,
+          "wordCount": 11440,
           "title": "Ards Part Ways With Tipton",
           "imageUrl": null
         },
@@ -21,7 +31,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Dundela vs Ards. Wilgar Park. Saturday 30th December at 3.00 p.m. Ards make the short trip to Wilgar...",
           "link": "https://www.ardsfc.co.uk/post/dundela-v-ards-match-preview-1",
           "publishedOn": "2023-12-29T13:31:27.000Z",
-          "wordCount": 11894,
+          "wordCount": 11927,
           "title": "Dundela v Ards Match Preview",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "NIFL Playr-Fit Championship – 26/12/23 By Phillip Bartlett Hunter Swoops to Ground Seagulls Honours even following boxing day’s most...",
           "link": "https://www.ardsfc.co.uk/post/ards-2-bangor-2-match-report",
           "publishedOn": "2023-12-27T18:46:16.000Z",
-          "wordCount": 14071,
+          "wordCount": 14104,
           "title": "Ards 2 Bangor 2 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/a74100_ffbe4751bdaa46d78e0e61c102e5015b~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -46,7 +56,7 @@
           "description": "PLAYR-FIT Championship. Ards vs Bangor. Clandeboye Park. Tuesday December 26th at 3.00 p.m. A big derby game and a big holiday crowd...",
           "link": "https://www.ardsfc.co.uk/post/north-down-derby-preview",
           "publishedOn": "2023-12-24T20:23:44.000Z",
-          "wordCount": 11586,
+          "wordCount": 11959,
           "title": "North Down Derby Preview",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_48bb149c4bb34aca87078600be183648~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -61,7 +71,7 @@
           "description": "NIFL Playr-Fit Championship – 22/12/23 By Phillip Bartlett Festive Fury as ‘Stute Steal Late Win Institute pile further pressure on the...",
           "link": "https://www.ardsfc.co.uk/post/institute-3-ards-2-match-report",
           "publishedOn": "2023-12-24T19:35:42.000Z",
-          "wordCount": 14209,
+          "wordCount": 13896,
           "title": "Institute 3 Ards 2 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/a74100_ffbe4751bdaa46d78e0e61c102e5015b~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -76,7 +86,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Institute vs Ards. Brandywell Stadium. Friday December 22nd at 7.45 p.m. Ards face a long trek to play...",
           "link": "https://www.ardsfc.co.uk/post/institute-v-ards-preview-1",
           "publishedOn": "2023-12-21T11:18:09.000Z",
-          "wordCount": 11445,
+          "wordCount": 11475,
           "title": "INSTITUTE V ARDS PREVIEW",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_872771f761544aaebef56249cd82c42d~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -91,7 +101,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Portadown vs Ards. Shamrock Park. Saturday 16th December. Difficult December continues for Ards as in...",
           "link": "https://www.ardsfc.co.uk/post/match-preview-v-portadown",
           "publishedOn": "2023-12-15T20:00:58.000Z",
-          "wordCount": 11444,
+          "wordCount": 11474,
           "title": "Match Preview v Portadown",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_c267b7b667b040a2a65d7f3408db6e33~mv2.png/v1/fit/w_733,h_787,al_c,q_80/file.png",
@@ -106,7 +116,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Ards vs Ballinamallard. Clandeboye Park. Saturday 9th December at 3.00 p.m. Tommy Canning who stepped...",
           "link": "https://www.ardsfc.co.uk/post/ards-v-ballinamallard-preview",
           "publishedOn": "2023-12-07T16:30:40.000Z",
-          "wordCount": 11499,
+          "wordCount": 11529,
           "title": "Ards v Ballinamallard Preview",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_9376ffe00737402290f42dbeef2446a3~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -114,21 +124,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://static.wixstatic.com/media/36629e_9376ffe00737402290f42dbeef2446a3~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
-        },
-        {
-          "id": "656b9cd947bbc982ed543419",
-          "author": "philt2cs",
-          "description": "NIFL Playr-Fit Championship – 02/12/23 By Phillip Bartlett Poor Ards ‘Barr’-en Run Continues Ards revival well and truly derailed at...",
-          "link": "https://www.ardsfc.co.uk/post/newington-4-ards-1-match-report",
-          "publishedOn": "2023-12-02T21:15:03.000Z",
-          "wordCount": 13914,
-          "title": "Newington 4 Ards 1 – Match Report",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/a74100_ffbe4751bdaa46d78e0e61c102e5015b~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/a74100_ffbe4751bdaa46d78e0e61c102e5015b~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png"
         }
       ]
     }
