@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-05T00:54:49.744Z</id>
+    <id>urn:2024-01-06T00:53:50.745Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T00:54:49.744Z</updated>
+    <updated>2024-01-06T00:53:50.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Irish Cup 5th Round- Crusaders v Ards]]></title>
+        <id>6597de695fd39c71798f80a0</id>
+        <link href="https://www.ardsfc.co.uk/post/irish-cup-5th-round-crusaders-v-ards"/>
+        <updated>2024-01-05T10:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Clearer Water Irish Cup. Crusaders vs Ards. Seaview. Saturday 6th January at 3.00 p.m. There is probably no harder way to start an Irish...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1st Team Manager Applications Open]]></title>
         <id>6592d27f3a4fa2c4e1aaf234</id>
