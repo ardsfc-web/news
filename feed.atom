@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-06T00:53:50.745Z</id>
+    <id>urn:2024-01-07T00:59:32.858Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T00:53:50.745Z</updated>
+    <updated>2024-01-07T00:59:32.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,16 +91,6 @@
         <link href="https://www.ardsfc.co.uk/post/match-preview-v-portadown"/>
         <updated>2023-12-15T20:00:58.000Z</updated>
         <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Portadown vs Ards. Shamrock Park. Saturday 16th December. Difficult December continues for Ards as in...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ards v Ballinamallard Preview]]></title>
-        <id>6571f2c9aeb384a69161a727</id>
-        <link href="https://www.ardsfc.co.uk/post/ards-v-ballinamallard-preview"/>
-        <updated>2023-12-07T16:30:40.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards vs Ballinamallard. Clandeboye Park. Saturday 9th December at 3.00 p.m. Tommy Canning who stepped...]]></summary>
         <author>
             <name>Stuart Dellow</name>
         </author>
