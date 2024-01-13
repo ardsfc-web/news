@@ -6,12 +6,42 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "65a186a3762e1d4c97d7fe8f",
+          "author": "Michael Barritt",
+          "description": "Ards FC Women would like to announce that we have been accepted in to the NIWFA for the up and coming season. Everyone at the Club is...",
+          "link": "https://www.ardsfc.co.uk/post/ards-women-accepted-into-niwfa",
+          "publishedOn": "2024-01-12T18:36:56.000Z",
+          "wordCount": 14008,
+          "title": "Ards Women Accepted into NIWFA",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_4ffbb07907b4454c8bc19efc3def2c0a~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_4ffbb07907b4454c8bc19efc3def2c0a~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png"
+        },
+        {
+          "id": "65a184b79049614443bf86a1",
+          "author": "Stuart Dellow",
+          "description": "PLAYR-FIT Teamwear Championship. Ards vs Ballinamallard. Clandeboye Park. Saturday 13th January at 3.00 p.m. After the excitement of the...",
+          "link": "https://www.ardsfc.co.uk/post/ards-v-ballinamallard-preview-1",
+          "publishedOn": "2024-01-12T18:28:40.000Z",
+          "wordCount": 14421,
+          "title": "Ards v Ballinamallard Preview",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_f20dd48b92f54b388e27910be357b165~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_f20dd48b92f54b388e27910be357b165~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
+        },
+        {
           "id": "659ae8891009c718d4d0cd16",
           "author": "philt2cs",
           "description": "Clear Water Irish Cup 1st Round Proper – 06/01/24 By Phillip Bartlett Ards Axes Hatchetmen Heroic Ards battle through to the 6th round of...",
           "link": "https://www.ardsfc.co.uk/post/crusaders-1-ards-1-2-match-report",
           "publishedOn": "2024-01-07T18:15:17.000Z",
-          "wordCount": 17522,
+          "wordCount": 17440,
           "title": "Crusaders 1 Ards 1 (2*) – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/a74100_ffbe4751bdaa46d78e0e61c102e5015b~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -26,7 +56,7 @@
           "description": "Clearer Water Irish Cup. Crusaders vs Ards. Seaview. Saturday 6th January at 3.00 p.m. There is probably no harder way to start an Irish...",
           "link": "https://www.ardsfc.co.uk/post/irish-cup-5th-round-crusaders-v-ards",
           "publishedOn": "2024-01-05T10:51:34.000Z",
-          "wordCount": 14478,
+          "wordCount": 14410,
           "title": "Irish Cup 5th Round- Crusaders v Ards",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_03afeb17d8c34cb3a633764c87d1bd3c~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -41,7 +71,7 @@
           "description": "Ards Football Club invites expressions of interest for the position of first team manager. The candidate must hold a valid UEFA A...",
           "link": "https://www.ardsfc.co.uk/post/1st-team-manager-applications-open",
           "publishedOn": "2024-01-01T14:56:53.000Z",
-          "wordCount": 13987,
+          "wordCount": 13950,
           "title": "1st Team Manager Applications Open",
           "imageUrl": null
         },
@@ -51,7 +81,7 @@
           "description": "Ards Football Club has parted company with first team manager Matthew Tipton. The former Warrenpoint Town and Portadown boss was...",
           "link": "https://www.ardsfc.co.uk/post/ards-part-ways-with-tipton",
           "publishedOn": "2023-12-31T17:05:45.000Z",
-          "wordCount": 14002,
+          "wordCount": 13965,
           "title": "Ards Part Ways With Tipton",
           "imageUrl": null
         },
@@ -61,7 +91,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Dundela vs Ards. Wilgar Park. Saturday 30th December at 3.00 p.m. Ards make the short trip to Wilgar...",
           "link": "https://www.ardsfc.co.uk/post/dundela-v-ards-match-preview-1",
           "publishedOn": "2023-12-29T13:31:27.000Z",
-          "wordCount": 14503,
+          "wordCount": 14451,
           "title": "Dundela v Ards Match Preview",
           "imageUrl": null
         },
@@ -71,7 +101,7 @@
           "description": "NIFL Playr-Fit Championship – 26/12/23 By Phillip Bartlett Hunter Swoops to Ground Seagulls Honours even following boxing day’s most...",
           "link": "https://www.ardsfc.co.uk/post/ards-2-bangor-2-match-report",
           "publishedOn": "2023-12-27T18:46:16.000Z",
-          "wordCount": 16992,
+          "wordCount": 16940,
           "title": "Ards 2 Bangor 2 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/a74100_ffbe4751bdaa46d78e0e61c102e5015b~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -86,7 +116,7 @@
           "description": "PLAYR-FIT Championship. Ards vs Bangor. Clandeboye Park. Tuesday December 26th at 3.00 p.m. A big derby game and a big holiday crowd...",
           "link": "https://www.ardsfc.co.uk/post/north-down-derby-preview",
           "publishedOn": "2023-12-24T20:23:44.000Z",
-          "wordCount": 14504,
+          "wordCount": 14467,
           "title": "North Down Derby Preview",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_48bb149c4bb34aca87078600be183648~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -101,7 +131,7 @@
           "description": "NIFL Playr-Fit Championship – 22/12/23 By Phillip Bartlett Festive Fury as ‘Stute Steal Late Win Institute pile further pressure on the...",
           "link": "https://www.ardsfc.co.uk/post/institute-3-ards-2-match-report",
           "publishedOn": "2023-12-24T19:35:42.000Z",
-          "wordCount": 16769,
+          "wordCount": 16747,
           "title": "Institute 3 Ards 2 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/a74100_ffbe4751bdaa46d78e0e61c102e5015b~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -116,7 +146,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Institute vs Ards. Brandywell Stadium. Friday December 22nd at 7.45 p.m. Ards face a long trek to play...",
           "link": "https://www.ardsfc.co.uk/post/institute-v-ards-preview-1",
           "publishedOn": "2023-12-21T11:18:09.000Z",
-          "wordCount": 14363,
+          "wordCount": 14311,
           "title": "INSTITUTE V ARDS PREVIEW",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_872771f761544aaebef56249cd82c42d~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -131,7 +161,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Portadown vs Ards. Shamrock Park. Saturday 16th December. Difficult December continues for Ards as in...",
           "link": "https://www.ardsfc.co.uk/post/match-preview-v-portadown",
           "publishedOn": "2023-12-15T20:00:58.000Z",
-          "wordCount": 14347,
+          "wordCount": 14325,
           "title": "Match Preview v Portadown",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_c267b7b667b040a2a65d7f3408db6e33~mv2.png/v1/fit/w_733,h_787,al_c,q_80/file.png",

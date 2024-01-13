@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-12T00:56:11.681Z</id>
+    <id>urn:2024-01-13T00:55:06.958Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-12T00:56:11.681Z</updated>
+    <updated>2024-01-13T00:55:06.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ards Women Accepted into NIWFA]]></title>
+        <id>65a186a3762e1d4c97d7fe8f</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-women-accepted-into-niwfa"/>
+        <updated>2024-01-12T18:36:56.000Z</updated>
+        <summary type="html"><![CDATA[Ards FC Women would like to announce that we have been accepted in to the NIWFA for the up and coming season. Everyone at the Club is...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ards v Ballinamallard Preview]]></title>
+        <id>65a184b79049614443bf86a1</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-v-ballinamallard-preview-1"/>
+        <updated>2024-01-12T18:28:40.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards vs Ballinamallard. Clandeboye Park. Saturday 13th January at 3.00 p.m. After the excitement of the...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crusaders 1 Ards 1 (2*) – Match Report]]></title>
         <id>659ae8891009c718d4d0cd16</id>
