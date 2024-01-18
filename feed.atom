@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-17T00:55:59.272Z</id>
+    <id>urn:2024-01-18T00:55:21.290Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T00:55:59.272Z</updated>
+    <updated>2024-01-18T00:55:21.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[John Bailie Returns As Manager]]></title>
+        <id>65a7c736aaac867b2f058ef9</id>
+        <link href="https://www.ardsfc.co.uk/post/john-bailie-returns-as-manager"/>
+        <updated>2024-01-17T13:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Ards Football Club is delighted to announce the appointment of John Bailie as First Team Manager. The former club captain played 285...]]></summary>
+        <author>
+            <name>michaelbarritt76</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[P.A.S.C Bus to Institute]]></title>
         <id>65a522811a1ec48de8fae103</id>
