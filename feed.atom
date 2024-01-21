@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-20T00:55:01.595Z</id>
+    <id>urn:2024-01-21T01:00:19.078Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-20T00:55:01.595Z</updated>
+    <updated>2024-01-21T01:00:19.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Teenage Kicks]]></title>
+        <id>65ab8eda077d61389806dcba</id>
+        <link href="https://www.ardsfc.co.uk/post/teenage-kicks"/>
+        <updated>2024-01-20T09:21:07.000Z</updated>
+        <summary type="html"><![CDATA[A very young Ards squad faced Annagh on Friday evening with an average age of just 22. Among the substitutes who all came off the bench...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Match Preview v Annagh United]]></title>
         <id>65aa46148fa9c070acef4ed5</id>
