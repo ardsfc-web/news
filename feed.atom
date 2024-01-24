@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-23T00:56:59.263Z</id>
+    <id>urn:2024-01-24T00:56:49.881Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-23T00:56:59.263Z</updated>
+    <updated>2024-01-24T00:56:49.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -133,26 +133,6 @@
         <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 26/12/23 By Phillip Bartlett Hunter Swoops to Ground Seagulls Honours even following boxing day’s most...]]></summary>
         <author>
             <name>philt2cs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Down Derby Preview]]></title>
-        <id>658892d75eded0130a63d1ec</id>
-        <link href="https://www.ardsfc.co.uk/post/north-down-derby-preview"/>
-        <updated>2023-12-24T20:23:44.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Championship. Ards vs Bangor. Clandeboye Park. Tuesday December 26th at 3.00 p.m. A big derby game and a big holiday crowd...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Institute 3 Ards 2 – Match Report]]></title>
-        <id>658885a2b05dad6b8a9f30e4</id>
-        <link href="https://www.ardsfc.co.uk/post/institute-3-ards-2-match-report"/>
-        <updated>2023-12-24T19:35:42.000Z</updated>
-        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 22/12/23 By Phillip Bartlett Festive Fury as ‘Stute Steal Late Win Institute pile further pressure on the...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
         </author>
     </entry>
 </feed>
