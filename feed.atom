@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-26T00:52:32.858Z</id>
+    <id>urn:2024-01-27T00:51:31.498Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-26T00:52:32.858Z</updated>
+    <updated>2024-01-27T00:51:31.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Newell arrives with Keke]]></title>
+        <id>65b3e5ef49eb7f3352b5ba87</id>
+        <link href="https://www.ardsfc.co.uk/post/newell-arrives-with-keke"/>
+        <updated>2024-01-26T17:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Ards FC is pleased to announce the arrival of Lee Newell from Newry alongside Guillaume Keke from Knockbreda who will be starting his...]]></summary>
+        <author>
+            <name>michaelbarritt76</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ards v Institute Preview]]></title>
+        <id>65b393ad73fd28c0078105f6</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-v-institute-preview-1"/>
+        <updated>2024-01-26T11:14:05.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Championship. Ards vs Institute. Clandeboye Park. Saturday 27th January at 3.00 p.m. Institute travel to play Ards...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teenage Kicks]]></title>
         <id>65ab8eda077d61389806dcba</id>
@@ -123,16 +143,6 @@
         <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Dundela vs Ards. Wilgar Park. Saturday 30th December at 3.00 p.m. Ards make the short trip to Wilgar...]]></summary>
         <author>
             <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ards 2 Bangor 2 – Match Report]]></title>
-        <id>658c6ee7f4fd5db60128d171</id>
-        <link href="https://www.ardsfc.co.uk/post/ards-2-bangor-2-match-report"/>
-        <updated>2023-12-27T18:46:16.000Z</updated>
-        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 26/12/23 By Phillip Bartlett Hunter Swoops to Ground Seagulls Honours even following boxing day’s most...]]></summary>
-        <author>
-            <name>philt2cs</name>
         </author>
     </entry>
 </feed>
