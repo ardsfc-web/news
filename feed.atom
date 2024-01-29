@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-28T00:55:00.903Z</id>
+    <id>urn:2024-01-29T00:52:38.173Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T00:55:00.903Z</updated>
+    <updated>2024-01-29T00:52:38.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ards 2 Institute 2 – Match Report]]></title>
+        <id>65b660668723a8c38780139a</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-2-institute-2-match-report"/>
+        <updated>2024-01-28T14:17:35.000Z</updated>
+        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 27/01/24 By Phillip Bartlett Ards Pay Late Penalty Ards make do with a point against league leaders as late...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newell arrives with Keke]]></title>
         <id>65b3e5ef49eb7f3352b5ba87</id>
@@ -133,16 +143,6 @@
         <summary type="html"><![CDATA[Ards Football Club has parted company with first team manager Matthew Tipton. The former Warrenpoint Town and Portadown boss was...]]></summary>
         <author>
             <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dundela v Ards Match Preview]]></title>
-        <id>658eca0d82724a7e696029b3</id>
-        <link href="https://www.ardsfc.co.uk/post/dundela-v-ards-match-preview-1"/>
-        <updated>2023-12-29T13:31:27.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Dundela vs Ards. Wilgar Park. Saturday 30th December at 3.00 p.m. Ards make the short trip to Wilgar...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
         </author>
     </entry>
 </feed>
