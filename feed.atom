@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-30T00:51:57.478Z</id>
+    <id>urn:2024-01-31T00:52:19.922Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-30T00:51:57.478Z</updated>
+    <updated>2024-01-31T00:52:19.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -131,16 +131,6 @@
         <link href="https://www.ardsfc.co.uk/post/1st-team-manager-applications-open"/>
         <updated>2024-01-01T14:56:53.000Z</updated>
         <summary type="html"><![CDATA[Ards Football Club invites expressions of interest for the position of first team manager. The candidate must hold a valid UEFA A...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ards Part Ways With Tipton]]></title>
-        <id>65919f3e85530767004b1725</id>
-        <link href="https://www.ardsfc.co.uk/post/ards-part-ways-with-tipton"/>
-        <updated>2023-12-31T17:05:45.000Z</updated>
-        <summary type="html"><![CDATA[Ards Football Club has parted company with first team manager Matthew Tipton. The former Warrenpoint Town and Portadown boss was...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
