@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-31T00:52:19.922Z</id>
+    <id>urn:2024-02-01T00:54:30.130Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T00:52:19.922Z</updated>
+    <updated>2024-02-01T00:54:30.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[McCart joins on loan]]></title>
+        <id>65ba70b28d8cd21ad7eeecb4</id>
+        <link href="https://www.ardsfc.co.uk/post/mccart-joins-on-loan"/>
+        <updated>2024-01-31T18:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Odhran McCart has joined Ards on loan from Larne.  Odhran is an 18 year old defender who was previously with Lisburn Distillery and...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ards 2 Institute 2 – Match Report]]></title>
         <id>65b660668723a8c38780139a</id>
@@ -123,16 +133,6 @@
         <summary type="html"><![CDATA[Clearer Water Irish Cup. Crusaders vs Ards. Seaview. Saturday 6th January at 3.00 p.m. There is probably no harder way to start an Irish...]]></summary>
         <author>
             <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1st Team Manager Applications Open]]></title>
-        <id>6592d27f3a4fa2c4e1aaf234</id>
-        <link href="https://www.ardsfc.co.uk/post/1st-team-manager-applications-open"/>
-        <updated>2024-01-01T14:56:53.000Z</updated>
-        <summary type="html"><![CDATA[Ards Football Club invites expressions of interest for the position of first team manager. The candidate must hold a valid UEFA A...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
         </author>
     </entry>
 </feed>
