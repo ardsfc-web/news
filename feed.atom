@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-02T00:52:08.705Z</id>
+    <id>urn:2024-02-03T00:51:12.754Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T00:52:08.705Z</updated>
+    <updated>2024-02-03T00:51:12.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Irish Cup R6 Preview]]></title>
+        <id>65bd0ee999811e453930a02b</id>
+        <link href="https://www.ardsfc.co.uk/post/irish-cup-r6-preview"/>
+        <updated>2024-02-02T15:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Clearer Water Irish Cup. Institute vs Ards F.C Ryan McBride Brandywell Stadium. Saturday February 3rd at 3.00 p.m. Ards travel to renew...]]></summary>
+        <author>
+            <name>michaelbarritt76</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[McCart joins on loan]]></title>
         <id>65ba70b28d8cd21ad7eeecb4</id>
