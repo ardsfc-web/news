@@ -6,12 +6,42 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "65c93c21bd833682f34d3e3a",
+          "author": "Michael Barritt",
+          "description": "Ards Football Club is delighted to announce that it has submitted plans for a new community stadium on the Portaferry Road in our home...",
+          "link": "https://www.ardsfc.co.uk/post/new-ground-update",
+          "publishedOn": "2024-02-11T21:29:08.000Z",
+          "wordCount": 14963,
+          "title": "New Ground Update",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/36629e_6f0c0516986f43ccbc37e31236da2b57~mv2.png/v1/fit/w_795,h_525,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/36629e_6f0c0516986f43ccbc37e31236da2b57~mv2.png/v1/fit/w_795,h_525,al_c,q_80/file.png"
+        },
+        {
+          "id": "65c9235c03b4a59e0e092180",
+          "author": "philt2cs",
+          "description": "NIFL Playr-Fit Championship – 09/02/24 By Phillip Bartlett Seagulls Swoop Late to Steal Derby Win Bangor strike twice in time added on to...",
+          "link": "https://www.ardsfc.co.uk/post/bangor-3-ards-1-match-report",
+          "publishedOn": "2024-02-11T19:58:35.000Z",
+          "wordCount": 17510,
+          "title": "Bangor 3 Ards 1 – Match Report",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/a74100_ffbe4751bdaa46d78e0e61c102e5015b~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/a74100_ffbe4751bdaa46d78e0e61c102e5015b~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png"
+        },
+        {
           "id": "65c4e1d3e6c3b343388b5619",
           "author": "michaelbarritt76",
           "description": "Ex player and fan favorite Salou Jallow has joined North Geelong Warriors for the upcoming 2024 season. The club said \"His passion,...",
           "link": "https://www.ardsfc.co.uk/post/salou-joins-warriors",
           "publishedOn": "2024-02-08T14:16:09.000Z",
-          "wordCount": 14844,
+          "wordCount": 14853,
           "title": "Salou Joins Warriors !",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_f5801ab2b5e845be843d6e665a05ec76~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
@@ -26,7 +56,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Bangor vs Ards. Clandeboye Park. Friday 9th February at 7.45 p.m. Ards players and fans could be...",
           "link": "https://www.ardsfc.co.uk/post/derby-preview",
           "publishedOn": "2024-02-08T14:13:15.000Z",
-          "wordCount": 15416,
+          "wordCount": 15425,
           "title": "Derby Preview",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_ed08475485cf424c833ee5b2c0e94d61~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -41,7 +71,7 @@
           "description": "Clearer Water Irish Cup. Institute vs Ards F.C Ryan McBride Brandywell Stadium. Saturday February 3rd at 3.00 p.m. Ards travel to renew...",
           "link": "https://www.ardsfc.co.uk/post/irish-cup-r6-preview",
           "publishedOn": "2024-02-02T15:50:35.000Z",
-          "wordCount": 15294,
+          "wordCount": 15305,
           "title": "Irish Cup R6 Preview",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_e8c2f3e6de3346778f113782e9425b1a~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -56,7 +86,7 @@
           "description": "Odhran McCart has joined Ards on loan from Larne.  Odhran is an 18 year old defender who was previously with Lisburn Distillery and...",
           "link": "https://www.ardsfc.co.uk/post/mccart-joins-on-loan",
           "publishedOn": "2024-01-31T18:00:13.000Z",
-          "wordCount": 14817,
+          "wordCount": 14830,
           "title": "McCart joins on loan",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_aa71159e2fb74df994abce56f0d0971c~mv2.png/v1/fit/w_220,h_280,al_c,q_80/file.png",
@@ -71,7 +101,7 @@
           "description": "NIFL Playr-Fit Championship – 27/01/24 By Phillip Bartlett Ards Pay Late Penalty Ards make do with a point against league leaders as late...",
           "link": "https://www.ardsfc.co.uk/post/ards-2-institute-2-match-report",
           "publishedOn": "2024-01-28T14:17:35.000Z",
-          "wordCount": 17606,
+          "wordCount": 17619,
           "title": "Ards 2 Institute 2 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/a74100_ffbe4751bdaa46d78e0e61c102e5015b~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -86,7 +116,7 @@
           "description": "Ards FC is pleased to announce the arrival of Lee Newell from Newry alongside Guillaume Keke from Knockbreda who will be starting his...",
           "link": "https://www.ardsfc.co.uk/post/newell-arrives-with-keke",
           "publishedOn": "2024-01-26T17:59:04.000Z",
-          "wordCount": 14824,
+          "wordCount": 14837,
           "title": "Newell arrives with Keke",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_566b0d0749fc4925b6b1cd6b3a61d95f~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -101,7 +131,7 @@
           "description": "PLAYR-FIT Championship. Ards vs Institute. Clandeboye Park. Saturday 27th January at 3.00 p.m. Institute travel to play Ards...",
           "link": "https://www.ardsfc.co.uk/post/ards-v-institute-preview-1",
           "publishedOn": "2024-01-26T11:14:05.000Z",
-          "wordCount": 15322,
+          "wordCount": 15335,
           "title": "Ards v Institute Preview",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_8b5b9ff5dca64b33bef7943e06e1057b~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -116,7 +146,7 @@
           "description": "A very young Ards squad faced Annagh on Friday evening with an average age of just 22. Among the substitutes who all came off the bench...",
           "link": "https://www.ardsfc.co.uk/post/teenage-kicks",
           "publishedOn": "2024-01-20T09:21:07.000Z",
-          "wordCount": 14847,
+          "wordCount": 14860,
           "title": "Teenage Kicks",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_64e698807fb24448a3850c1a7ebd5444~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
@@ -131,7 +161,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Annagh United vs Ards. BMG Arena. Friday 19th January at 7.45 p.m. Ards travel to Annagh for this Friday...",
           "link": "https://www.ardsfc.co.uk/post/match-preview-v-annagh-united",
           "publishedOn": "2024-01-19T09:53:18.000Z",
-          "wordCount": 15272,
+          "wordCount": 15285,
           "title": "Match Preview v Annagh United",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_9241719a3157450b8b2342bdfc7d613b~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -146,7 +176,7 @@
           "description": "Ards Football Club is delighted to announce the appointment of John Bailie as First Team Manager. The former club captain played 285...",
           "link": "https://www.ardsfc.co.uk/post/john-bailie-returns-as-manager",
           "publishedOn": "2024-01-17T13:59:08.000Z",
-          "wordCount": 14942,
+          "wordCount": 14955,
           "title": "John Bailie Returns As Manager",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_3afded314f6a46b4a489c1bd56451509~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -161,7 +191,7 @@
           "description": "The Premier Ards Supporters Club are running a bus to the Institute Irish Cup game at the Brandywell on Saturday, 3 February, 2024. The...",
           "link": "https://www.ardsfc.co.uk/post/p-a-s-c-bus-to-institute",
           "publishedOn": "2024-01-15T12:18:12.000Z",
-          "wordCount": 14802,
+          "wordCount": 14815,
           "title": "P.A.S.C Bus to Institute",
           "imageUrl": null
         },
@@ -171,7 +201,7 @@
           "description": "Lawrence Patterson, who played for Ards in the late 1970s was a guest of the club at the Ballinamallard United game. Lawrence very kindly...",
           "link": "https://www.ardsfc.co.uk/post/lawrence-patterson",
           "publishedOn": "2024-01-15T12:17:21.000Z",
-          "wordCount": 14857,
+          "wordCount": 14870,
           "title": "Lawrence Patterson",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_7536aba2eeef40e2be583a1483c52b99~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -179,36 +209,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://static.wixstatic.com/media/eebc8e_7536aba2eeef40e2be583a1483c52b99~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
-        },
-        {
-          "id": "65a186a3762e1d4c97d7fe8f",
-          "author": "Michael Barritt",
-          "description": "Ards FC Women would like to announce that we have been accepted in to the NIWFA for the up and coming season. Everyone at the Club is...",
-          "link": "https://www.ardsfc.co.uk/post/ards-women-accepted-into-niwfa",
-          "publishedOn": "2024-01-12T18:36:56.000Z",
-          "wordCount": 14880,
-          "title": "Ards Women Accepted into NIWFA",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/36629e_4ffbb07907b4454c8bc19efc3def2c0a~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/36629e_4ffbb07907b4454c8bc19efc3def2c0a~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png"
-        },
-        {
-          "id": "65a184b79049614443bf86a1",
-          "author": "Stuart Dellow",
-          "description": "PLAYR-FIT Teamwear Championship. Ards vs Ballinamallard. Clandeboye Park. Saturday 13th January at 3.00 p.m. After the excitement of the...",
-          "link": "https://www.ardsfc.co.uk/post/ards-v-ballinamallard-preview-1",
-          "publishedOn": "2024-01-12T18:28:40.000Z",
-          "wordCount": 15256,
-          "title": "Ards v Ballinamallard Preview",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/36629e_f20dd48b92f54b388e27910be357b165~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/36629e_f20dd48b92f54b388e27910be357b165~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
         }
       ]
     }

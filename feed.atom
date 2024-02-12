@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-11T00:55:40.960Z</id>
+    <id>urn:2024-02-12T00:52:25.538Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-11T00:55:40.960Z</updated>
+    <updated>2024-02-12T00:52:25.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New Ground Update]]></title>
+        <id>65c93c21bd833682f34d3e3a</id>
+        <link href="https://www.ardsfc.co.uk/post/new-ground-update"/>
+        <updated>2024-02-11T21:29:08.000Z</updated>
+        <summary type="html"><![CDATA[Ards Football Club is delighted to announce that it has submitted plans for a new community stadium on the Portaferry Road in our home...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bangor 3 Ards 1 – Match Report]]></title>
+        <id>65c9235c03b4a59e0e092180</id>
+        <link href="https://www.ardsfc.co.uk/post/bangor-3-ards-1-match-report"/>
+        <updated>2024-02-11T19:58:35.000Z</updated>
+        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 09/02/24 By Phillip Bartlett Seagulls Swoop Late to Steal Derby Win Bangor strike twice in time added on to...]]></summary>
+        <author>
+            <name>philt2cs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Salou Joins Warriors !]]></title>
         <id>65c4e1d3e6c3b343388b5619</id>
@@ -123,26 +143,6 @@
         <summary type="html"><![CDATA[Lawrence Patterson, who played for Ards in the late 1970s was a guest of the club at the Ballinamallard United game. Lawrence very kindly...]]></summary>
         <author>
             <name>michaelbarritt76</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ards Women Accepted into NIWFA]]></title>
-        <id>65a186a3762e1d4c97d7fe8f</id>
-        <link href="https://www.ardsfc.co.uk/post/ards-women-accepted-into-niwfa"/>
-        <updated>2024-01-12T18:36:56.000Z</updated>
-        <summary type="html"><![CDATA[Ards FC Women would like to announce that we have been accepted in to the NIWFA for the up and coming season. Everyone at the Club is...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ards v Ballinamallard Preview]]></title>
-        <id>65a184b79049614443bf86a1</id>
-        <link href="https://www.ardsfc.co.uk/post/ards-v-ballinamallard-preview-1"/>
-        <updated>2024-01-12T18:28:40.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards vs Ballinamallard. Clandeboye Park. Saturday 13th January at 3.00 p.m. After the excitement of the...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
         </author>
     </entry>
 </feed>
