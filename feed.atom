@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-13T00:52:26.257Z</id>
+    <id>urn:2024-02-14T00:52:34.544Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T00:52:26.257Z</updated>
+    <updated>2024-02-14T00:52:34.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -131,26 +131,6 @@
         <link href="https://www.ardsfc.co.uk/post/john-bailie-returns-as-manager"/>
         <updated>2024-01-17T13:59:08.000Z</updated>
         <summary type="html"><![CDATA[Ards Football Club is delighted to announce the appointment of John Bailie as First Team Manager. The former club captain played 285...]]></summary>
-        <author>
-            <name>michaelbarritt76</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P.A.S.C Bus to Institute]]></title>
-        <id>65a522811a1ec48de8fae103</id>
-        <link href="https://www.ardsfc.co.uk/post/p-a-s-c-bus-to-institute"/>
-        <updated>2024-01-15T12:18:12.000Z</updated>
-        <summary type="html"><![CDATA[The Premier Ards Supporters Club are running a bus to the Institute Irish Cup game at the Brandywell on Saturday, 3 February, 2024. The...]]></summary>
-        <author>
-            <name>michaelbarritt76</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lawrence Patterson]]></title>
-        <id>65a521e3e4078cc676b9518f</id>
-        <link href="https://www.ardsfc.co.uk/post/lawrence-patterson"/>
-        <updated>2024-01-15T12:17:21.000Z</updated>
-        <summary type="html"><![CDATA[Lawrence Patterson, who played for Ards in the late 1970s was a guest of the club at the Ballinamallard United game. Lawrence very kindly...]]></summary>
         <author>
             <name>michaelbarritt76</name>
         </author>
