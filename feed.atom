@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-17T00:51:04.531Z</id>
+    <id>urn:2024-02-18T00:55:00.051Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T00:51:04.531Z</updated>
+    <updated>2024-02-18T00:55:00.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -123,16 +123,6 @@
         <summary type="html"><![CDATA[A very young Ards squad faced Annagh on Friday evening with an average age of just 22. Among the substitutes who all came off the bench...]]></summary>
         <author>
             <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Match Preview v Annagh United]]></title>
-        <id>65aa46148fa9c070acef4ed5</id>
-        <link href="https://www.ardsfc.co.uk/post/match-preview-v-annagh-united"/>
-        <updated>2024-01-19T09:53:18.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Annagh United vs Ards. BMG Arena. Friday 19th January at 7.45 p.m. Ards travel to Annagh for this Friday...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
         </author>
     </entry>
 </feed>
