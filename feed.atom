@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-23T00:50:56.892Z</id>
+    <id>urn:2024-02-24T00:49:26.016Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T00:50:56.892Z</updated>
+    <updated>2024-02-24T00:49:26.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ards v H&#38;W Welders - Match Preview]]></title>
+        <id>65d87e732d05dfefd0f129a8</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-v-h-w-welders-match-preview"/>
+        <updated>2024-02-23T11:17:47.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards vs Harland and Wolff Welders. Clandeboye Park. Saturday February 24th at 3.00 p.m. Ards will have...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ards v Knockbreda Preview]]></title>
         <id>65ce14efdcb927412a05984e</id>
