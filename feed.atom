@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-25T00:55:04.485Z</id>
+    <id>urn:2024-02-26T00:52:47.938Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-25T00:55:04.485Z</updated>
+    <updated>2024-02-26T00:52:47.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ards 0 H&#38;W Welders 1 – Match Report]]></title>
+        <id>65dbcde05942572202f380dc</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-0-h-w-welders-1-match-report"/>
+        <updated>2024-02-25T23:38:37.000Z</updated>
+        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 26/02/24 By Phillip Bartlett ARDS PAY THE PENALTY AS WINLESS RUN CONTINUES H&W Welders secure all 3 points...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ards v H&#38;W Welders - Match Preview]]></title>
         <id>65d87e732d05dfefd0f129a8</id>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 27/01/24 By Phillip Bartlett Ards Pay Late Penalty Ards make do with a point against league leaders as late...]]></summary>
         <author>
             <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newell arrives with Keke]]></title>
-        <id>65b3e5ef49eb7f3352b5ba87</id>
-        <link href="https://www.ardsfc.co.uk/post/newell-arrives-with-keke"/>
-        <updated>2024-01-26T17:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Ards FC is pleased to announce the arrival of Lee Newell from Newry alongside Guillaume Keke from Knockbreda who will be starting his...]]></summary>
-        <author>
-            <name>michaelbarritt76</name>
         </author>
     </entry>
 </feed>
