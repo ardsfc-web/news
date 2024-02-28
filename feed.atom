@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-27T00:50:53.798Z</id>
+    <id>urn:2024-02-28T00:51:20.172Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-27T00:50:53.798Z</updated>
+    <updated>2024-02-28T00:51:20.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Match Preview - Newington v Ards]]></title>
+        <id>65de0ec4a1ad8874c0c6a1ca</id>
+        <link href="https://www.ardsfc.co.uk/post/match-preview-newington-v-ards"/>
+        <updated>2024-02-27T16:33:11.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Newington vs Ards. Inver Park. Tuesday 27th February at 7.45 p.m. Ards travel to Inver Park in this...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ards 0 H&#38;W Welders 1 – Match Report]]></title>
         <id>65dbcde05942572202f380dc</id>
@@ -101,16 +111,6 @@
         <link href="https://www.ardsfc.co.uk/post/mccart-joins-on-loan"/>
         <updated>2024-01-31T18:00:13.000Z</updated>
         <summary type="html"><![CDATA[Odhran McCart has joined Ards on loan from Larne.  Odhran is an 18 year old defender who was previously with Lisburn Distillery and...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ards 2 Institute 2 – Match Report]]></title>
-        <id>65b660668723a8c38780139a</id>
-        <link href="https://www.ardsfc.co.uk/post/ards-2-institute-2-match-report"/>
-        <updated>2024-01-28T14:17:35.000Z</updated>
-        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 27/01/24 By Phillip Bartlett Ards Pay Late Penalty Ards make do with a point against league leaders as late...]]></summary>
         <author>
             <name>Michael Barritt</name>
         </author>
