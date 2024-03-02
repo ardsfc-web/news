@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-01T00:56:17.437Z</id>
+    <id>urn:2024-03-02T00:50:12.958Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T00:56:17.437Z</updated>
+    <updated>2024-03-02T00:50:12.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MATCH PREVIEW - DUNDELA V ARDS]]></title>
+        <id>65e1be152093a046e18dbd39</id>
+        <link href="https://www.ardsfc.co.uk/post/match-preview-dundela-v-ards"/>
+        <updated>2024-03-01T11:45:05.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Dundela vs Ards. Wilgar Park. Saturday 2nd March at 3.00 p.m. If Ards were hoping for a morale boost...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Match Preview - Newington v Ards]]></title>
         <id>65de0ec4a1ad8874c0c6a1ca</id>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[Clearer Water Irish Cup. Institute vs Ards F.C Ryan McBride Brandywell Stadium. Saturday February 3rd at 3.00 p.m. Ards travel to renew...]]></summary>
         <author>
             <name>michaelbarritt76</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[McCart joins on loan]]></title>
-        <id>65ba70b28d8cd21ad7eeecb4</id>
-        <link href="https://www.ardsfc.co.uk/post/mccart-joins-on-loan"/>
-        <updated>2024-01-31T18:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Odhran McCart has joined Ards on loan from Larne.  Odhran is an 18 year old defender who was previously with Lisburn Distillery and...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
         </author>
     </entry>
 </feed>
