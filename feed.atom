@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-02T00:50:12.958Z</id>
+    <id>urn:2024-03-03T00:54:14.659Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T00:50:12.958Z</updated>
+    <updated>2024-03-03T00:54:14.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Glenn Returns After 40 Years]]></title>
+        <id>65e326ca559634c6c816800d</id>
+        <link href="https://www.ardsfc.co.uk/post/glenn-returns-after-40-years"/>
+        <updated>2024-03-02T13:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Last Saturday Ards FC had four English visitors as guests at the H&W Welders game - Glenn Hearsey, along with two brothers and a friend. ...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MATCH PREVIEW - DUNDELA V ARDS]]></title>
         <id>65e1be152093a046e18dbd39</id>
