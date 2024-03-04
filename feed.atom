@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-03T00:54:14.659Z</id>
+    <id>urn:2024-03-04T00:52:28.678Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T00:54:14.659Z</updated>
+    <updated>2024-03-04T00:52:28.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dundela 4 Ards 0 – Match Report]]></title>
+        <id>65e4b91e384da96471815775</id>
+        <link href="https://www.ardsfc.co.uk/post/dundela-4-ards-0-match-report"/>
+        <updated>2024-03-03T18:03:05.000Z</updated>
+        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 02/03/24 By Phillip Bartlett ARDS ‘OUTDUN’ YET AGAIN Dundela pile yet more misery on the RABA with second...]]></summary>
+        <author>
+            <name>philt2cs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Glenn Returns After 40 Years]]></title>
         <id>65e326ca559634c6c816800d</id>
@@ -111,16 +121,6 @@
         <link href="https://www.ardsfc.co.uk/post/derby-preview"/>
         <updated>2024-02-08T14:13:15.000Z</updated>
         <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Bangor vs Ards. Clandeboye Park. Friday 9th February at 7.45 p.m. Ards players and fans could be...]]></summary>
-        <author>
-            <name>michaelbarritt76</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irish Cup R6 Preview]]></title>
-        <id>65bd0ee999811e453930a02b</id>
-        <link href="https://www.ardsfc.co.uk/post/irish-cup-r6-preview"/>
-        <updated>2024-02-02T15:50:35.000Z</updated>
-        <summary type="html"><![CDATA[Clearer Water Irish Cup. Institute vs Ards F.C Ryan McBride Brandywell Stadium. Saturday February 3rd at 3.00 p.m. Ards travel to renew...]]></summary>
         <author>
             <name>michaelbarritt76</name>
         </author>
