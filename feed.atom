@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-09T00:49:48.284Z</id>
+    <id>urn:2024-03-10T00:55:17.139Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T00:49:48.284Z</updated>
+    <updated>2024-03-10T00:55:17.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -103,26 +103,6 @@
         <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 09/02/24 By Phillip Bartlett Seagulls Swoop Late to Steal Derby Win Bangor strike twice in time added on to...]]></summary>
         <author>
             <name>philt2cs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salou Joins Warriors !]]></title>
-        <id>65c4e1d3e6c3b343388b5619</id>
-        <link href="https://www.ardsfc.co.uk/post/salou-joins-warriors"/>
-        <updated>2024-02-08T14:16:09.000Z</updated>
-        <summary type="html"><![CDATA[Ex player and fan favorite Salou Jallow has joined North Geelong Warriors for the upcoming 2024 season. The club said "His passion,...]]></summary>
-        <author>
-            <name>michaelbarritt76</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Derby Preview]]></title>
-        <id>65c4e145275e2517e7b483e1</id>
-        <link href="https://www.ardsfc.co.uk/post/derby-preview"/>
-        <updated>2024-02-08T14:13:15.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Bangor vs Ards. Clandeboye Park. Friday 9th February at 7.45 p.m. Ards players and fans could be...]]></summary>
-        <author>
-            <name>michaelbarritt76</name>
         </author>
     </entry>
 </feed>
