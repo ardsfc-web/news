@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-19T00:51:40.849Z</id>
+    <id>urn:2024-03-20T00:51:38.431Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T00:51:40.849Z</updated>
+    <updated>2024-03-20T00:51:38.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ARDS V PORTADOWN - MATCH PREVIEW]]></title>
+        <id>65f9bf368e6d5c656efb7484</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-v-portadown-match-preview-1"/>
+        <updated>2024-03-19T16:37:59.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards vs Portadown. Clandeboye Park. Tuesday 19th March at 7.45 p.m. Two teams with very different...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dundela 4 Ards 0 – Match Report]]></title>
         <id>65e4b91e384da96471815775</id>
