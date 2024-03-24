@@ -6,12 +6,22 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "65fe9a410f1c91b70a800e7b",
+          "author": "michaelbarritt76",
+          "description": "PLAYR-FIT Teamwear Championship. Ards vs Dergview.Clandeboye Park.Saturday 23rd March at 3.00 p.m. If it isn't a \"High Noon\" scenario...",
+          "link": "https://www.ardsfc.co.uk/post/match-preview-v-dergview",
+          "publishedOn": "2024-03-23T09:01:11.000Z",
+          "wordCount": 20652,
+          "title": "Match Preview v Dergview",
+          "imageUrl": null
+        },
+        {
           "id": "65f9bf368e6d5c656efb7484",
           "author": "Stuart Dellow",
           "description": "PLAYR-FIT Teamwear Championship. Ards vs Portadown. Clandeboye Park. Tuesday 19th March at 7.45 p.m. Two teams with very different...",
           "link": "https://www.ardsfc.co.uk/post/ards-v-portadown-match-preview-1",
           "publishedOn": "2024-03-19T16:37:59.000Z",
-          "wordCount": 20740,
+          "wordCount": 20758,
           "title": "ARDS V PORTADOWN - MATCH PREVIEW",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_4244125a0a324ffbb247f8765bd41fc5~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -26,7 +36,7 @@
           "description": "NIFL Playr-Fit Championship – 02/03/24 By Phillip Bartlett ARDS ‘OUTDUN’ YET AGAIN Dundela pile yet more misery on the RABA with second...",
           "link": "https://www.ardsfc.co.uk/post/dundela-4-ards-0-match-report",
           "publishedOn": "2024-03-03T18:03:05.000Z",
-          "wordCount": 25040,
+          "wordCount": 25054,
           "title": "Dundela 4 Ards 0 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/a74100_ffbe4751bdaa46d78e0e61c102e5015b~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -41,7 +51,7 @@
           "description": "Last Saturday Ards FC had four English visitors as guests at the H&W Welders game - Glenn Hearsey, along with two brothers and a friend. ...",
           "link": "https://www.ardsfc.co.uk/post/glenn-returns-after-40-years",
           "publishedOn": "2024-03-02T13:18:28.000Z",
-          "wordCount": 19763,
+          "wordCount": 19781,
           "title": "Glenn Returns After 40 Years",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_940f2f053145444ca399cf34022961c8~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
@@ -56,7 +66,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Dundela vs Ards. Wilgar Park. Saturday 2nd March at 3.00 p.m. If Ards were hoping for a morale boost...",
           "link": "https://www.ardsfc.co.uk/post/match-preview-dundela-v-ards",
           "publishedOn": "2024-03-01T11:45:05.000Z",
-          "wordCount": 20625,
+          "wordCount": 20638,
           "title": "MATCH PREVIEW - DUNDELA V ARDS",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_a5b7b617f3fa4fdbb93652b5b59d3c3c~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -71,7 +81,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Newington vs Ards. Inver Park. Tuesday 27th February at 7.45 p.m. Ards travel to Inver Park in this...",
           "link": "https://www.ardsfc.co.uk/post/match-preview-newington-v-ards",
           "publishedOn": "2024-02-27T16:33:11.000Z",
-          "wordCount": 20588,
+          "wordCount": 20597,
           "title": "Match Preview - Newington v Ards",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_864d89e8337e43318dfc743d4e2276b3~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -86,7 +96,7 @@
           "description": "NIFL Playr-Fit Championship – 26/02/24 By Phillip Bartlett ARDS PAY THE PENALTY AS WINLESS RUN CONTINUES H&W Welders secure all 3 points...",
           "link": "https://www.ardsfc.co.uk/post/ards-0-h-w-welders-1-match-report",
           "publishedOn": "2024-02-25T23:38:37.000Z",
-          "wordCount": 3902,
+          "wordCount": 25793,
           "title": "Ards 0 H&#38;W Welders 1 – Match Report",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/a74100_ffbe4751bdaa46d78e0e61c102e5015b~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -94,21 +104,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://static.wixstatic.com/media/a74100_ffbe4751bdaa46d78e0e61c102e5015b~mv2.jpg/v1/fit/w_940,h_788,al_c,q_80/file.png"
-        },
-        {
-          "id": "65d87e732d05dfefd0f129a8",
-          "author": "Stuart Dellow",
-          "description": "PLAYR-FIT Teamwear Championship. Ards vs Harland and Wolff Welders. Clandeboye Park. Saturday February 24th at 3.00 p.m. Ards will have...",
-          "link": "https://www.ardsfc.co.uk/post/ards-v-h-w-welders-match-preview",
-          "publishedOn": "2024-02-23T11:17:47.000Z",
-          "wordCount": 20728,
-          "title": "Ards v H&#38;W Welders - Match Preview",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/36629e_ad1b0131815a46188c6f1a92cfbe9f80~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/36629e_ad1b0131815a46188c6f1a92cfbe9f80~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
         }
       ]
     }
