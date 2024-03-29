@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-28T00:52:23.013Z</id>
+    <id>urn:2024-03-29T00:52:40.881Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T00:52:23.013Z</updated>
+    <updated>2024-03-29T00:52:40.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -73,16 +73,6 @@
         <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Dundela vs Ards. Wilgar Park. Saturday 2nd March at 3.00 p.m. If Ards were hoping for a morale boost...]]></summary>
         <author>
             <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Match Preview - Newington v Ards]]></title>
-        <id>65de0ec4a1ad8874c0c6a1ca</id>
-        <link href="https://www.ardsfc.co.uk/post/match-preview-newington-v-ards"/>
-        <updated>2024-02-27T16:33:11.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Newington vs Ards. Inver Park. Tuesday 27th February at 7.45 p.m. Ards travel to Inver Park in this...]]></summary>
-        <author>
-            <name>Michael Barritt</name>
         </author>
     </entry>
 </feed>
