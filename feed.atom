@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-30T00:50:46.891Z</id>
+    <id>urn:2024-03-31T00:57:18.237Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T00:50:46.891Z</updated>
+    <updated>2024-03-31T00:57:18.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -63,16 +63,6 @@
         <summary type="html"><![CDATA[Last Saturday Ards FC had four English visitors as guests at the H&W Welders game - Glenn Hearsey, along with two brothers and a friend. ...]]></summary>
         <author>
             <name>Michael Barritt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATCH PREVIEW - DUNDELA V ARDS]]></title>
-        <id>65e1be152093a046e18dbd39</id>
-        <link href="https://www.ardsfc.co.uk/post/match-preview-dundela-v-ards"/>
-        <updated>2024-03-01T11:45:05.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Dundela vs Ards. Wilgar Park. Saturday 2nd March at 3.00 p.m. If Ards were hoping for a morale boost...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
         </author>
     </entry>
 </feed>
