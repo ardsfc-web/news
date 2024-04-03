@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-02T00:54:55.144Z</id>
+    <id>urn:2024-04-03T00:51:54.807Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T00:54:55.144Z</updated>
+    <updated>2024-04-03T00:51:54.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,16 +43,6 @@
         <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards vs Portadown. Clandeboye Park. Tuesday 19th March at 7.45 p.m. Two teams with very different...]]></summary>
         <author>
             <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dundela 4 Ards 0 – Match Report]]></title>
-        <id>65e4b91e384da96471815775</id>
-        <link href="https://www.ardsfc.co.uk/post/dundela-4-ards-0-match-report"/>
-        <updated>2024-03-03T18:03:05.000Z</updated>
-        <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 02/03/24 By Phillip Bartlett ARDS ‘OUTDUN’ YET AGAIN Dundela pile yet more misery on the RABA with second...]]></summary>
-        <author>
-            <name>philt2cs</name>
         </author>
     </entry>
 </feed>
