@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-08T00:53:52.303Z</id>
+    <id>urn:2024-04-09T00:52:52.410Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T00:53:52.303Z</updated>
+    <updated>2024-04-09T00:52:52.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,7 @@
         <id>660fbac32c256f04ac010d77</id>
         <link href="https://www.ardsfc.co.uk/post/match-preview-v-knockbreda"/>
         <updated>2024-04-05T08:48:44.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Knockbreda vs Ards. Breda Park. Saturday April 6th at 3.45 p.m. Ards play the first of five crucial...]]></summary>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Knockbreda vs Ards. Seaview. Tuesday April 9th at 8-00 p.m. Ards play the first of five crucial...]]></summary>
         <author>
             <name>Stuart Dellow</name>
         </author>
