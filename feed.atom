@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-19T00:53:24.844Z</id>
+    <id>urn:2024-04-20T00:53:23.540Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T00:53:24.844Z</updated>
+    <updated>2024-04-20T00:53:23.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Match Preview vs Ballinamallard]]></title>
+        <id>66223fb7e44c3ccd6200ca3d</id>
+        <link href="https://www.ardsfc.co.uk/post/match-preview-vs-ballinamallard"/>
+        <updated>2024-04-19T10:01:39.000Z</updated>
+        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ballinamallard vs Ards. Ferney Park. Saturday 20th April at 3.00 p.m. The penultimate fixture of the...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Match Preview v Ballyclare]]></title>
         <id>661e5a6f628ef1a18be129b3</id>
