@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-21T00:57:23.408Z</id>
+    <id>urn:2024-04-22T00:55:16.809Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-21T00:57:23.408Z</updated>
+    <updated>2024-04-22T00:55:16.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -73,16 +73,6 @@
         <summary type="html"><![CDATA[NIFL Playr-Fit Championship – 23/03/24 By Phillip Bartlett Clearer ‘View for Ards After Deserved Win Ards settle relegation playoff fears...]]></summary>
         <author>
             <name>philt2cs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Match Preview v Dergview]]></title>
-        <id>65fe9a410f1c91b70a800e7b</id>
-        <link href="https://www.ardsfc.co.uk/post/match-preview-v-dergview"/>
-        <updated>2024-03-23T09:01:11.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards vs Dergview.Clandeboye Park.Saturday 23rd March at 3.00 p.m. If it isn't a "High Noon" scenario...]]></summary>
-        <author>
-            <name>michaelbarritt76</name>
         </author>
     </entry>
 </feed>
