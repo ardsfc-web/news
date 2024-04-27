@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-26T00:53:49.275Z</id>
+    <id>urn:2024-04-27T00:53:14.399Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T00:53:49.275Z</updated>
+    <updated>2024-04-27T00:53:14.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dergview v Ards Preview]]></title>
+        <id>662bced9ed22189275c32e03</id>
+        <link href="https://www.ardsfc.co.uk/post/dergview-v-ards-preview-2"/>
+        <updated>2024-04-26T15:57:35.000Z</updated>
+        <summary type="html"><![CDATA[season fixture with nothing at stake for either side, team selection is difficult to predict but personally I hope Callum Dougan gets a...]]></summary>
+        <author>
+            <name>Stuart Dellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Match Preview vs Ballinamallard]]></title>
         <id>66223fb7e44c3ccd6200ca3d</id>
