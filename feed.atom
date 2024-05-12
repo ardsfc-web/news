@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-11T00:54:18.835Z</id>
+    <id>urn:2024-05-12T00:59:28.202Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-11T00:54:18.835Z</updated>
+    <updated>2024-05-12T00:59:28.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,16 +31,6 @@
         <link href="https://www.ardsfc.co.uk/post/match-preview-v-ballyclare"/>
         <updated>2024-04-16T11:03:51.000Z</updated>
         <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards vs Ballyclare Comrades. Clandeboye Park. Tuesday 16th April at 7.45 p.m. Ards play their final home...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ards v Newington - Match Preview]]></title>
-        <id>6618f020171d215b6767f1c1</id>
-        <link href="https://www.ardsfc.co.uk/post/ards-v-newington-match-preview"/>
-        <updated>2024-04-12T08:28:11.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards vs Newington. Clandeboye Park. Saturday 13th April at 3.00 p.m. Ards go into this game hoping to do...]]></summary>
         <author>
             <name>Stuart Dellow</name>
         </author>
