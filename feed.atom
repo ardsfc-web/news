@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-14T00:55:47.110Z</id>
+    <id>urn:2024-05-15T00:55:44.329Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-14T00:55:47.110Z</updated>
+    <updated>2024-05-15T00:55:44.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MOORE LEAVES ARDS]]></title>
+        <id>6643191fc58403faae1ac654</id>
+        <link href="https://www.ardsfc.co.uk/post/moore-leaves-ards"/>
+        <updated>2024-05-14T07:56:41.000Z</updated>
+        <summary type="html"><![CDATA[Goalkeeper Alex Moore has decided to leave the club. Alex joined Ards in 2022 and went on to play 70 games for the club. Chairman Warren...]]></summary>
+        <author>
+            <name>michaelbarritt76</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dergview v Ards Preview]]></title>
         <id>662bced9ed22189275c32e03</id>
