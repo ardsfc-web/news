@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-15T00:55:44.329Z</id>
+    <id>urn:2024-05-16T00:56:00.415Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-15T00:55:44.329Z</updated>
+    <updated>2024-05-16T00:56:00.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fan Favourites Extend Contracts]]></title>
+        <id>6644721015a962f2d687c5e5</id>
+        <link href="https://www.ardsfc.co.uk/post/fan-favourites-extend-contracts"/>
+        <updated>2024-05-15T08:29:40.000Z</updated>
+        <summary type="html"><![CDATA[Both Eamon Scannell & Patrick Cafolla have agreed contact extensions. Chairman Warren Patton said " I am delighted to come to an...]]></summary>
+        <author>
+            <name>michaelbarritt76</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MOORE LEAVES ARDS]]></title>
         <id>6643191fc58403faae1ac654</id>
@@ -31,16 +41,6 @@
         <link href="https://www.ardsfc.co.uk/post/match-preview-vs-ballinamallard"/>
         <updated>2024-04-19T10:01:39.000Z</updated>
         <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ballinamallard vs Ards. Ferney Park. Saturday 20th April at 3.00 p.m. The penultimate fixture of the...]]></summary>
-        <author>
-            <name>Stuart Dellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Match Preview v Ballyclare]]></title>
-        <id>661e5a6f628ef1a18be129b3</id>
-        <link href="https://www.ardsfc.co.uk/post/match-preview-v-ballyclare"/>
-        <updated>2024-04-16T11:03:51.000Z</updated>
-        <summary type="html"><![CDATA[PLAYR-FIT Teamwear Championship. Ards vs Ballyclare Comrades. Clandeboye Park. Tuesday 16th April at 7.45 p.m. Ards play their final home...]]></summary>
         <author>
             <name>Stuart Dellow</name>
         </author>

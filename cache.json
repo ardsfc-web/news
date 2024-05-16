@@ -6,12 +6,27 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "6644721015a962f2d687c5e5",
+          "author": "michaelbarritt76",
+          "description": "Both Eamon Scannell & Patrick Cafolla have agreed contact extensions. Chairman Warren Patton said \" I am delighted to come to an...",
+          "link": "https://www.ardsfc.co.uk/post/fan-favourites-extend-contracts",
+          "publishedOn": "2024-05-15T08:29:40.000Z",
+          "wordCount": 10927,
+          "title": "Fan Favourites Extend Contracts",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/eebc8e_2fa5d4fc7bc544d7bae297ba83c2029a~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/eebc8e_2fa5d4fc7bc544d7bae297ba83c2029a~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"
+        },
+        {
           "id": "6643191fc58403faae1ac654",
           "author": "michaelbarritt76",
           "description": "Goalkeeper Alex Moore has decided to leave the club. Alex joined Ards in 2022 and went on to play 70 games for the club. Chairman Warren...",
           "link": "https://www.ardsfc.co.uk/post/moore-leaves-ards",
           "publishedOn": "2024-05-14T07:56:41.000Z",
-          "wordCount": 10899,
+          "wordCount": 10883,
           "title": "MOORE LEAVES ARDS",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_4ccfc67ef381435394856f7dce0cbfe9~mv2.jpg/v1/fit/w_959,h_960,al_c,q_80/file.png",
@@ -26,7 +41,7 @@
           "description": "season fixture with nothing at stake for either side, team selection is difficult to predict but personally I hope Callum Dougan gets a...",
           "link": "https://www.ardsfc.co.uk/post/dergview-v-ards-preview-2",
           "publishedOn": "2024-04-26T15:57:35.000Z",
-          "wordCount": 10869,
+          "wordCount": 10853,
           "title": "Dergview v Ards Preview",
           "imageUrl": null
         },
@@ -36,7 +51,7 @@
           "description": "PLAYR-FIT Teamwear Championship. Ballinamallard vs Ards. Ferney Park. Saturday 20th April at 3.00 p.m. The penultimate fixture of the...",
           "link": "https://www.ardsfc.co.uk/post/match-preview-vs-ballinamallard",
           "publishedOn": "2024-04-19T10:01:39.000Z",
-          "wordCount": 11288,
+          "wordCount": 11272,
           "title": "Match Preview vs Ballinamallard",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/36629e_d937f4c183c04c68bc6162b000a01641~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -44,21 +59,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://static.wixstatic.com/media/36629e_d937f4c183c04c68bc6162b000a01641~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
-        },
-        {
-          "id": "661e5a6f628ef1a18be129b3",
-          "author": "Stuart Dellow",
-          "description": "PLAYR-FIT Teamwear Championship. Ards vs Ballyclare Comrades. Clandeboye Park. Tuesday 16th April at 7.45 p.m. Ards play their final home...",
-          "link": "https://www.ardsfc.co.uk/post/match-preview-v-ballyclare",
-          "publishedOn": "2024-04-16T11:03:51.000Z",
-          "wordCount": 11408,
-          "title": "Match Preview v Ballyclare",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/36629e_7d42b859384a47e6a4383e82c3819586~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/36629e_7d42b859384a47e6a4383e82c3819586~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
         }
       ]
     }
