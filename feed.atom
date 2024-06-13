@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-12T00:58:28.100Z</id>
+    <id>urn:2024-06-13T00:57:57.817Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-12T00:58:28.100Z</updated>
+    <updated>2024-06-13T00:57:57.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ards Agree 4 Year Kit Deal]]></title>
+        <id>66696c34b5489d623a40f632</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-agree-4-year-kit-deal"/>
+        <updated>2024-06-12T09:37:27.000Z</updated>
+        <author>
+            <name>michaelbarritt76</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PRE SEASON SCHEDULE RELEASED]]></title>
         <id>66672670a508502e7124044f</id>
@@ -20,16 +29,6 @@
         <link href="https://www.ardsfc.co.uk/post/fan-favourites-extend-contracts"/>
         <updated>2024-05-15T08:29:40.000Z</updated>
         <summary type="html"><![CDATA[Both Eamon Scannell & Patrick Cafolla have agreed contact extensions. Chairman Warren Patton said " I am delighted to come to an...]]></summary>
-        <author>
-            <name>michaelbarritt76</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOORE LEAVES ARDS]]></title>
-        <id>6643191fc58403faae1ac654</id>
-        <link href="https://www.ardsfc.co.uk/post/moore-leaves-ards"/>
-        <updated>2024-05-14T07:56:41.000Z</updated>
-        <summary type="html"><![CDATA[Goalkeeper Alex Moore has decided to leave the club. Alex joined Ards in 2022 and went on to play 70 games for the club. Chairman Warren...]]></summary>
         <author>
             <name>michaelbarritt76</name>
         </author>

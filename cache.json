@@ -6,12 +6,27 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "66696c34b5489d623a40f632",
+          "author": "michaelbarritt76",
+          "description": "",
+          "link": "https://www.ardsfc.co.uk/post/ards-agree-4-year-kit-deal",
+          "publishedOn": "2024-06-12T09:37:27.000Z",
+          "wordCount": 15198,
+          "title": "Ards Agree 4 Year Kit Deal",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/eebc8e_dd3b352ab3824ea8b49c038f3dd6a9b9~mv2.png/v1/fit/w_1000,h_600,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/eebc8e_dd3b352ab3824ea8b49c038f3dd6a9b9~mv2.png/v1/fit/w_1000,h_600,al_c,q_80/file.png"
+        },
+        {
           "id": "66672670a508502e7124044f",
           "author": "michaelbarritt76",
           "description": "",
           "link": "https://www.ardsfc.co.uk/post/pre-season-schedule-released",
           "publishedOn": "2024-06-10T16:19:46.000Z",
-          "wordCount": 15252,
+          "wordCount": 15179,
           "title": "PRE SEASON SCHEDULE RELEASED",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_a3d4497c321c4e139232a7d1878665d5~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -26,7 +41,7 @@
           "description": "Both Eamon Scannell & Patrick Cafolla have agreed contact extensions. Chairman Warren Patton said \" I am delighted to come to an...",
           "link": "https://www.ardsfc.co.uk/post/fan-favourites-extend-contracts",
           "publishedOn": "2024-05-15T08:29:40.000Z",
-          "wordCount": 15547,
+          "wordCount": 15483,
           "title": "Fan Favourites Extend Contracts",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_2fa5d4fc7bc544d7bae297ba83c2029a~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
@@ -34,21 +49,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://static.wixstatic.com/media/eebc8e_2fa5d4fc7bc544d7bae297ba83c2029a~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"
-        },
-        {
-          "id": "6643191fc58403faae1ac654",
-          "author": "michaelbarritt76",
-          "description": "Goalkeeper Alex Moore has decided to leave the club. Alex joined Ards in 2022 and went on to play 70 games for the club. Chairman Warren...",
-          "link": "https://www.ardsfc.co.uk/post/moore-leaves-ards",
-          "publishedOn": "2024-05-14T07:56:41.000Z",
-          "wordCount": 15409,
-          "title": "MOORE LEAVES ARDS",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/eebc8e_4ccfc67ef381435394856f7dce0cbfe9~mv2.jpg/v1/fit/w_959,h_960,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/eebc8e_4ccfc67ef381435394856f7dce0cbfe9~mv2.jpg/v1/fit/w_959,h_960,al_c,q_80/file.png"
         }
       ]
     }
