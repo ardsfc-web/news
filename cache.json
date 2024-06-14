@@ -6,12 +6,22 @@
       "siteUrl": "https://www.ardsfc.co.uk/archive",
       "articles": [
         {
+          "id": "666b3611b71bb4effa94b4e7",
+          "author": "Michael Barritt",
+          "description": "Established in 1900 Ards Football Club is one of the oldest and most prestigious football clubs in Northern Ireland. However, the club...",
+          "link": "https://www.ardsfc.co.uk/post/a-return-to-ards-planning-permission",
+          "publishedOn": "2024-06-13T18:11:42.000Z",
+          "wordCount": 3967,
+          "title": "A Return To Ards , Planning Permission",
+          "imageUrl": null
+        },
+        {
           "id": "66696c34b5489d623a40f632",
           "author": "michaelbarritt76",
           "description": "",
           "link": "https://www.ardsfc.co.uk/post/ards-agree-4-year-kit-deal",
           "publishedOn": "2024-06-12T09:37:27.000Z",
-          "wordCount": 15198,
+          "wordCount": 15225,
           "title": "Ards Agree 4 Year Kit Deal",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_dd3b352ab3824ea8b49c038f3dd6a9b9~mv2.png/v1/fit/w_1000,h_600,al_c,q_80/file.png",
@@ -26,7 +36,7 @@
           "description": "",
           "link": "https://www.ardsfc.co.uk/post/pre-season-schedule-released",
           "publishedOn": "2024-06-10T16:19:46.000Z",
-          "wordCount": 15179,
+          "wordCount": 15224,
           "title": "PRE SEASON SCHEDULE RELEASED",
           "enclosure": {
             "url": "https://static.wixstatic.com/media/eebc8e_a3d4497c321c4e139232a7d1878665d5~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
@@ -34,21 +44,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://static.wixstatic.com/media/eebc8e_a3d4497c321c4e139232a7d1878665d5~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
-        },
-        {
-          "id": "6644721015a962f2d687c5e5",
-          "author": "michaelbarritt76",
-          "description": "Both Eamon Scannell & Patrick Cafolla have agreed contact extensions. Chairman Warren Patton said \" I am delighted to come to an...",
-          "link": "https://www.ardsfc.co.uk/post/fan-favourites-extend-contracts",
-          "publishedOn": "2024-05-15T08:29:40.000Z",
-          "wordCount": 15483,
-          "title": "Fan Favourites Extend Contracts",
-          "enclosure": {
-            "url": "https://static.wixstatic.com/media/eebc8e_2fa5d4fc7bc544d7bae297ba83c2029a~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://static.wixstatic.com/media/eebc8e_2fa5d4fc7bc544d7bae297ba83c2029a~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"
         }
       ]
     }

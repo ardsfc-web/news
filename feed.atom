@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-13T00:57:57.817Z</id>
+    <id>urn:2024-06-14T00:58:04.475Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-13T00:57:57.817Z</updated>
+    <updated>2024-06-14T00:58:04.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Return To Ards , Planning Permission]]></title>
+        <id>666b3611b71bb4effa94b4e7</id>
+        <link href="https://www.ardsfc.co.uk/post/a-return-to-ards-planning-permission"/>
+        <updated>2024-06-13T18:11:42.000Z</updated>
+        <summary type="html"><![CDATA[Established in 1900 Ards Football Club is one of the oldest and most prestigious football clubs in Northern Ireland. However, the club...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ards Agree 4 Year Kit Deal]]></title>
         <id>66696c34b5489d623a40f632</id>
@@ -19,16 +29,6 @@
         <id>66672670a508502e7124044f</id>
         <link href="https://www.ardsfc.co.uk/post/pre-season-schedule-released"/>
         <updated>2024-06-10T16:19:46.000Z</updated>
-        <author>
-            <name>michaelbarritt76</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fan Favourites Extend Contracts]]></title>
-        <id>6644721015a962f2d687c5e5</id>
-        <link href="https://www.ardsfc.co.uk/post/fan-favourites-extend-contracts"/>
-        <updated>2024-05-15T08:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Both Eamon Scannell & Patrick Cafolla have agreed contact extensions. Chairman Warren Patton said " I am delighted to come to an...]]></summary>
         <author>
             <name>michaelbarritt76</name>
         </author>
