@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-14T00:58:04.475Z</id>
+    <id>urn:2024-06-15T00:57:59.219Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-14T00:58:04.475Z</updated>
+    <updated>2024-06-15T00:57:59.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bailie Catches McAvoy &#38; Carson]]></title>
+        <id>666bfa060753a19b788c53de</id>
+        <link href="https://www.ardsfc.co.uk/post/bailie-catches-mcavoy-carson"/>
+        <updated>2024-06-14T08:10:23.000Z</updated>
+        <summary type="html"><![CDATA[Ards have announced to new additions to their first team squad. John Bailie said “ Iam delighted to get Matty & Mark signed up tonight...]]></summary>
+        <author>
+            <name>michaelbarritt76</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kit Release Info]]></title>
+        <id>66696f438753a934d42a69b0</id>
+        <link href="https://www.ardsfc.co.uk/post/kit-release-info"/>
+        <updated>2024-06-14T08:05:07.000Z</updated>
+        <author>
+            <name>michaelbarritt76</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Return To Ards , Planning Permission]]></title>
         <id>666b3611b71bb4effa94b4e7</id>
