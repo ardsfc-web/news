@@ -1,8 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-18T00:59:12.101Z</id>
+    <id>urn:2024-06-19T00:58:57.794Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-18T00:59:12.101Z</updated>
+    <updated>2024-06-19T00:58:57.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bailie Catches McAvoy &#38; Carson]]></title>
+        <id>666bfa060753a19b788c53de</id>
+        <link href="https://www.ardsfc.co.uk/post/bailie-catches-mcavoy-carson"/>
+        <updated>2024-06-14T08:10:23.000Z</updated>
+        <summary type="html"><![CDATA[Ards have announced to new additions to their first team squad. John Bailie said “ Iam delighted to get Matty & Mark signed up tonight...]]></summary>
+        <author>
+            <name>michaelbarritt76</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kit Release Info]]></title>
+        <id>66696f438753a934d42a69b0</id>
+        <link href="https://www.ardsfc.co.uk/post/kit-release-info"/>
+        <updated>2024-06-14T08:05:07.000Z</updated>
+        <author>
+            <name>michaelbarritt76</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Return To Ards , Planning Permission]]></title>
+        <id>666b3611b71bb4effa94b4e7</id>
+        <link href="https://www.ardsfc.co.uk/post/a-return-to-ards-planning-permission"/>
+        <updated>2024-06-13T18:11:42.000Z</updated>
+        <summary type="html"><![CDATA[Established in 1900 Ards Football Club is one of the oldest and most prestigious football clubs in Northern Ireland. However, the club...]]></summary>
+        <author>
+            <name>Michael Barritt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ards Agree 4 Year Kit Deal]]></title>
+        <id>66696c34b5489d623a40f632</id>
+        <link href="https://www.ardsfc.co.uk/post/ards-agree-4-year-kit-deal"/>
+        <updated>2024-06-12T09:37:27.000Z</updated>
+        <author>
+            <name>michaelbarritt76</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRE SEASON SCHEDULE RELEASED]]></title>
+        <id>66672670a508502e7124044f</id>
+        <link href="https://www.ardsfc.co.uk/post/pre-season-schedule-released"/>
+        <updated>2024-06-10T16:19:46.000Z</updated>
+        <author>
+            <name>michaelbarritt76</name>
+        </author>
+    </entry>
 </feed>

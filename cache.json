@@ -1,4 +1,82 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "ards-fc",
+      "feedUrl": "https://www.ardsfc.co.uk/blog-feed.xml",
+      "siteUrl": "https://www.ardsfc.co.uk/archive",
+      "articles": [
+        {
+          "id": "666bfa060753a19b788c53de",
+          "author": "michaelbarritt76",
+          "description": "Ards have announced to new additions to their first team squad. John Bailie said “ Iam delighted to get Matty & Mark signed up tonight...",
+          "link": "https://www.ardsfc.co.uk/post/bailie-catches-mcavoy-carson",
+          "publishedOn": "2024-06-14T08:10:23.000Z",
+          "wordCount": 15494,
+          "title": "Bailie Catches McAvoy &#38; Carson",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/eebc8e_3fe4c9cf1794417ea7464be9a0d0fd05~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/eebc8e_3fe4c9cf1794417ea7464be9a0d0fd05~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"
+        },
+        {
+          "id": "66696f438753a934d42a69b0",
+          "author": "michaelbarritt76",
+          "description": "",
+          "link": "https://www.ardsfc.co.uk/post/kit-release-info",
+          "publishedOn": "2024-06-14T08:05:07.000Z",
+          "wordCount": 15230,
+          "title": "Kit Release Info",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/eebc8e_40f9afca66b445e3aec585b3cf825b85~mv2.png/v1/fit/w_695,h_206,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/eebc8e_40f9afca66b445e3aec585b3cf825b85~mv2.png/v1/fit/w_695,h_206,al_c,q_80/file.png"
+        },
+        {
+          "id": "666b3611b71bb4effa94b4e7",
+          "author": "Michael Barritt",
+          "description": "Established in 1900 Ards Football Club is one of the oldest and most prestigious football clubs in Northern Ireland. However, the club...",
+          "link": "https://www.ardsfc.co.uk/post/a-return-to-ards-planning-permission",
+          "publishedOn": "2024-06-13T18:11:42.000Z",
+          "wordCount": 16144,
+          "title": "A Return To Ards , Planning Permission",
+          "imageUrl": null
+        },
+        {
+          "id": "66696c34b5489d623a40f632",
+          "author": "michaelbarritt76",
+          "description": "",
+          "link": "https://www.ardsfc.co.uk/post/ards-agree-4-year-kit-deal",
+          "publishedOn": "2024-06-12T09:37:27.000Z",
+          "wordCount": 15241,
+          "title": "Ards Agree 4 Year Kit Deal",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/eebc8e_dd3b352ab3824ea8b49c038f3dd6a9b9~mv2.png/v1/fit/w_1000,h_600,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/eebc8e_dd3b352ab3824ea8b49c038f3dd6a9b9~mv2.png/v1/fit/w_1000,h_600,al_c,q_80/file.png"
+        },
+        {
+          "id": "66672670a508502e7124044f",
+          "author": "michaelbarritt76",
+          "description": "",
+          "link": "https://www.ardsfc.co.uk/post/pre-season-schedule-released",
+          "publishedOn": "2024-06-10T16:19:46.000Z",
+          "wordCount": 15215,
+          "title": "PRE SEASON SCHEDULE RELEASED",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/eebc8e_a3d4497c321c4e139232a7d1878665d5~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/eebc8e_a3d4497c321c4e139232a7d1878665d5~mv2.png/v1/fit/w_940,h_788,al_c,q_80/file.png"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
